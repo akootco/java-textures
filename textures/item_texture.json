@@ -1,0 +1,493 @@
+{
+  "resource_pack_name": "Plushies!",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "akoot": {
+      "textures": [
+        "textures/icons/akoot"
+      ]
+    },
+    "akoot2": {
+      "textures": [
+        "textures/icons/akoot2"
+      ]
+    },
+    "akoot3": {
+      "textures": [
+        "textures/icons/akoot3"
+      ]
+    },
+    "bee": {
+      "textures": [
+        "textures/icons/bee"
+      ]
+    },
+    "beet": {
+      "textures": [
+        "textures/icons/beet"
+      ]
+    },
+    "aedan": {
+      "textures": [
+        "textures/icons/aedan"
+      ]
+    },
+    "bubbly": {
+      "textures": [
+        "textures/icons/bubbly"
+      ]
+    },
+    "cow": {
+      "textures": [
+        "textures/icons/cow"
+      ]
+    },
+    "crate": {
+      "textures": [
+        "textures/icons/crate"
+      ]
+    },
+    "foxn": {
+      "textures": [
+        "textures/icons/foxn"
+      ]
+    },
+    "hash": {
+      "textures": [
+        "textures/icons/hash"
+      ]
+    },
+    "ipa": {
+      "textures": [
+        "textures/icons/ipa"
+      ]
+    },
+    "ipa2": {
+      "textures": [
+        "textures/icons/ipa2"
+      ]
+    },
+    "ipa3": {
+      "textures": [
+        "textures/icons/ipa3"
+      ]
+    },
+    "jamie": {
+      "textures": [
+        "textures/icons/jamie"
+      ]
+    },
+    "joe": {
+      "textures": [
+        "textures/icons/joe"
+      ]
+    },
+    "jozef": {
+      "textures": [
+        "textures/icons/jozef"
+      ]
+    },
+    "jub": {
+      "textures": [
+        "textures/icons/jub"
+      ]
+    },
+    "mahoose": {
+      "textures": [
+        "textures/icons/mahoose"
+      ]
+    },
+    "mahoose2": {
+      "textures": [
+        "textures/icons/mahoose2"
+      ]
+    },
+    "mahoose3": {
+      "textures": [
+        "textures/icons/mahoose3"
+      ]
+    },
+    "rat": {
+      "textures": [
+        "textures/icons/rat"
+      ]
+    },
+    "ralte": {
+      "textures": [
+        "textures/icons/ralte"
+      ]
+    },
+    "sego": {
+      "textures": [
+        "textures/icons/sego"
+      ]
+    },
+    "tara": {
+      "textures": [
+        "textures/icons/tara"
+      ]
+    },
+    "xan": {
+      "textures": [
+        "textures/icons/xan"
+      ]
+    },
+    "visc": {
+      "textures": [
+        "textures/icons/visc"
+      ]
+    },
+    "joe2": {
+      "textures": [
+        "textures/icons/joe2"
+      ]
+    },
+    "joe3": {
+      "textures": [
+        "textures/icons/joe3"
+      ]
+    },
+    "joe4": {
+      "textures": [
+        "textures/icons/joe4"
+      ]
+    },
+    "beet2": {
+      "textures": [
+        "textures/icons/beet2"
+      ]
+    },
+    "aedan2": {
+      "textures": [
+        "textures/icons/aedan2"
+      ]
+    },
+    "jamie2": {
+      "textures": [
+        "textures/icons/jamie2"
+      ]
+    },
+    "jamie3": {
+      "textures": [
+        "textures/icons/jamie3"
+      ]
+    },
+    "jamie4": {
+      "textures": [
+        "textures/icons/jamie4"
+      ]
+    },
+    "mahoose4": {
+      "textures": [
+        "textures/icons/mahoose4"
+      ]
+    },
+    "otr": {
+      "textures": [
+        "textures/icons/otr"
+      ]
+    },
+    "wookiee": {
+      "textures": [
+        "textures/icons/wookiee"
+      ]
+    },
+    "akoot4": {
+      "textures": [
+        "textures/icons/akoot4"
+      ]
+    },
+    "seal": {
+      "textures": [
+        "textures/icons/seal"
+      ]
+    },
+    "nova": {
+      "textures": [
+        "textures/icons/nova"
+      ]
+    },
+    "fiveam": {
+      "textures": [
+        "textures/icons/fiveam"
+      ]
+    },
+    "neoma": {
+      "textures": [
+        "textures/icons/neoma"
+      ]
+    },
+    "pirk": {
+      "textures": [
+        "textures/icons/pirk"
+      ]
+    },
+    "echo": {
+      "textures": [
+        "textures/icons/echo"
+      ]
+    },
+    "lemon": {
+      "textures": [
+        "textures/icons/lemon"
+      ]
+    },
+    "soggy": {
+      "textures": [
+        "textures/icons/soggy"
+      ]
+    },
+    "aram": {
+      "textures": [
+        "textures/icons/aram"
+      ]
+    },
+    "tresure": {
+      "textures": [
+        "textures/icons/tresure"
+      ]
+    },
+    "serp": {
+      "textures": [
+        "textures/icons/serp"
+      ]
+    },
+    "yfd": {
+      "textures": [
+        "textures/icons/yfd"
+      ]
+    },
+    "peep": {
+      "textures": [
+        "textures/icons/peep"
+      ]
+    },
+    "peepo": {
+      "textures": [
+        "textures/icons/peepo"
+      ]
+    },
+    "pb": {
+      "textures": [
+        "textures/icons/pb"
+      ]
+    },
+    "pb2": {
+      "textures": [
+        "textures/icons/pb2"
+      ]
+    },
+    "revan": {
+      "textures": [
+        "textures/icons/revan"
+      ]
+    },
+    "noisy": {
+      "textures": [
+        "textures/icons/noisy"
+      ]
+    },
+    "breakn": {
+      "textures": [
+        "textures/icons/breakn"
+      ]
+    },
+    "kirill": {
+      "textures": [
+        "textures/icons/kirill"
+      ]
+    },
+    "naruto": {
+      "textures": [
+        "textures/icons/naruto"
+      ]
+    },
+    "smoke": {
+      "textures": [
+        "textures/icons/smoke"
+      ]
+    },
+    "eddy": {
+      "textures": [
+        "textures/icons/eddy"
+      ]
+    },
+    "anna": {
+      "textures": [
+        "textures/icons/anna"
+      ]
+    },
+    "ducky": {
+      "textures": [
+        "textures/icons/ducky"
+      ]
+    },
+    "mysticshark": {
+      "textures": [
+        "textures/icons/mysticshark"
+      ]
+    },
+    "bugbo": {
+      "textures": [
+        "textures/icons/bugbo"
+      ]
+    },
+    "jimbo": {
+      "textures": [
+        "textures/icons/jimbo"
+      ]
+    },
+    "akrider": {
+      "textures": [
+        "textures/icons/akrider"
+      ]
+    },
+    "dqce": {
+      "textures": [
+        "textures/icons/dqce"
+      ]
+    },
+    "ammy": {
+      "textures": [
+        "textures/icons/ammy"
+      ]
+    },
+    "mayzface": {
+      "textures": [
+        "textures/icons/mayzface"
+      ]
+    },
+    "orlando": {
+      "textures": [
+        "textures/icons/orlando"
+      ]
+    },
+    "bugbo2": {
+      "textures": [
+        "textures/icons/bugbo2"
+      ]
+    },
+    "visc2": {
+      "textures": [
+        "textures/icons/visc2"
+      ]
+    },
+    "rat2": {
+      "textures": [
+        "textures/icons/rat2"
+      ]
+    },
+    "dragon": {
+      "textures": [
+        "textures/icons/dragon"
+      ]
+    },
+    "blackfez": {
+      "textures": [
+        "textures/icons/blackfez"
+      ]
+    },
+    "awezmtv": {
+      "textures": [
+        "textures/icons/awezmtv"
+      ]
+    } ,
+    "josephism": {
+      "textures": [
+        "textures/icons/josephism"
+      ]
+    },
+    "zapper": {
+      "textures": [
+        "textures/icons/zapper"
+      ]
+    },
+    "sloth": {
+      "textures": [
+        "textures/icons/sloth"
+      ]
+    },
+    "lemon2": {
+      "textures": [
+        "textures/icons/lemon2"
+      ]
+    },
+    "sego2": {
+      "textures": [
+        "textures/icons/sego2"
+      ]
+    },
+    "evilhash": {
+      "textures": [
+        "textures/icons/evilhash"
+      ]
+    }
+    ,
+    "zapper2": {
+      "textures": [
+        "textures/icons/zapper2"
+      ]
+    }
+    ,
+    "bobafett": {
+      "textures": [
+        "textures/icons/bobafett"
+      ]
+    },
+    "van": {
+      "textures": [
+        "textures/icons/van"
+      ]
+    },
+    "duckery": {
+      "textures": [
+        "textures/icons/duckery"
+      ]
+    },
+    "witch": {
+      "textures": [
+        "textures/icons/witch"
+      ]
+    },
+    "salt": {
+      "textures": [
+        "textures/icons/salt"
+      ]
+    },
+    "sailor": {
+      "textures": [
+        "textures/icons/sailor"
+      ]
+    },
+    "axo": {
+      "textures": [
+        "textures/icons/axo"
+      ]
+    },
+    "mnemonist": {
+      "textures": [
+        "textures/icons/mnemonist"
+      ]
+    },
+    "pixel": {
+      "textures": [
+        "textures/icons/pixel"
+      ]
+    },
+    "pixel2": {
+      "textures": [
+        "textures/icons/pixel2"
+      ]
+    },
+    "mango": {
+      "textures": [
+        "textures/icons/mango"
+      ]
+    },
+    "party_hat": {
+      "textures": [
+        "textures/icons/party_hat"
+      ]
+    }
+  }
+}

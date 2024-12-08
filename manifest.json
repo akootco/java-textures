@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "plushies!",
+    "name": "§3Akoot & Co",
+    "uuid": "40e70178-0885-4425-827c-9294708a981a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      3
+    ]
+  },
+  "modules": [
+    {
+      "description": "plushies!",
+      "type": "resources",
+      "uuid": "6844b6dd-0f52-484f-b4ee-cc5b4a2c5947",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

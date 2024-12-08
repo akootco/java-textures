@@ -1,0 +1,132 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.party_hat.thirdperson_main_hand": {
+            "loop": true,
+            "bones": {
+                "geyser_custom": {
+                    "rotation": [
+                        90,
+                        0,
+                        0
+                    ],
+                    "position": [
+                        0,
+                        13,
+                        -3
+                    ]
+                }
+            }
+        },
+        "animation.party_hat.thirdperson_off_hand": {
+            "loop": true,
+            "bones": {
+                "geyser_custom": {
+                    "rotation": [
+                        90,
+                        0,
+                        0
+                    ],
+                    "position": [
+                        0,
+                        13,
+                        -3
+                    ]
+                }
+            }
+        },
+        "animation.party_hat.head": {
+            "loop": true,
+            "bones": {
+                "geyser_custom_x": {
+                    "rotation": [
+                        -6.33,
+                        0,
+                        0
+                    ],
+                    "position": [
+                        -2.65625,
+                        8.90625,
+                        2.5
+                    ],
+                    "scale": [
+                        0.67626875,
+                        0.67626875,
+                        0.67626875
+                    ]
+                },
+                "geyser_custom_y": {
+                    "rotation": [
+                        0,
+                        2.49,
+                        0
+                    ]
+                },
+                "geyser_custom_z": {
+                    "rotation": [
+                        0,
+                        0,
+                        -8.94
+                    ]
+                },
+                "geyser_custom": {
+                    "position": [
+                        0,
+                        19.9,
+                        0
+                    ]
+                }
+            }
+        },
+        "animation.party_hat.firstperson_main_hand": {
+            "loop": true,
+            "bones": {
+                "geyser_custom": {
+                    "rotation": [
+                        90,
+                        60,
+                        -40
+                    ],
+                    "position": [
+                        4,
+                        10,
+                        4
+                    ],
+                    "scale": 1.5
+                },
+                "geyser_custom_x": {
+                    "rotation": [
+                        0.1,
+                        0.1,
+                        0.1
+                    ]
+                }
+            }
+        },
+        "animation.party_hat.firstperson_off_hand": {
+            "loop": true,
+            "bones": {
+                "geyser_custom": {
+                    "rotation": [
+                        90,
+                        60,
+                        -40
+                    ],
+                    "position": [
+                        4,
+                        10,
+                        4
+                    ],
+                    "scale": 1.5
+                },
+                "geyser_custom_x": {
+                    "rotation": [
+                        0.1,
+                        0.1,
+                        0.1
+                    ]
+                }
+            }
+        }
+    }
+}
