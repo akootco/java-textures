@@ -8,7 +8,7 @@
                 "enchanted": "entity_alphatest_one_sided"
             },
             "textures": {
-                "default": "textures/71",
+                "default": "textures/orlando",
                 "enchanted": "textures/misc/enchanted_item_glint"
             },
             "geometry": {
