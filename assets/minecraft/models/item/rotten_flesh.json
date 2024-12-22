@@ -1,0 +1,19 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/rotten_flesh"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 1}, "model": "edulis:item/frog_leg_warm"},
+      {"predicate": {"custom_model_data": 2}, "model": "edulis:item/frog_leg_temperate"},
+      {"predicate": {"custom_model_data": 3}, "model": "edulis:item/frog_leg_cold"},
+      {"predicate": {"custom_model_data": 4}, "model": "edulis:item/cooked_frog_leg"},
+      {"predicate": {"custom_model_data": 5}, "model": "edulis:item/burrito"},
+      {"predicate": {"custom_model_data": 6}, "model": "edulis:item/hot_dog"},
+      {"predicate": {"custom_model_data": 7}, "model": "edulis:item/mustard_hot_dog"},
+      {"predicate": {"custom_model_data": 8}, "model": "edulis:item/beef_wellington"},
+      {"predicate": {"custom_model_data": 9}, "model": "edulis:item/chimichanga"},
+      {"predicate": {"custom_model_data": 10}, "model": "edulis:item/super_burrito"}
+
+    ]
+  }

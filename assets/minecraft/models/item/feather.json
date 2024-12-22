@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/feather"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "edulis:item/bat_wing"}
+  ]
+}

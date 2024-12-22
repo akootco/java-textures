@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/bone"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 1}, "model": "edulis:item/kebab"},
+      {"predicate": {"custom_model_data": 2}, "model": "edulis:item/marshmallows"}
+    ]
+  }

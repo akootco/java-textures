@@ -1,0 +1,6 @@
+{
+  "parent": "edulis:block/overlay/cross",
+  "textures": {
+    "cross": "edulis:block/hanging_apple"
+  }
+}

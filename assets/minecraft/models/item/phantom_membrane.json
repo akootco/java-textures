@@ -1,0 +1,23 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/phantom_membrane"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "edulis:item/strawberry_short_cake"},
+    {"predicate": {"custom_model_data": 2}, "model": "edulis:item/blueberry_cake"},
+    {"predicate": {"custom_model_data": 3}, "model": "edulis:item/carrot_cake"},
+    {"predicate": {"custom_model_data": 4}, "model": "edulis:item/red_velvet_cake"},
+    {"predicate": {"custom_model_data": 5}, "model": "edulis:item/fruit_cake"},
+    {"predicate": {"custom_model_data": 6}, "model": "edulis:item/chocolate_cake"},
+    {"predicate": {"custom_model_data": 7}, "model": "edulis:item/german_choc_cake"},
+    {"predicate": {"custom_model_data": 8}, "model": "edulis:item/yoyle_cake"},
+    {"predicate": {"custom_model_data": 9}, "model": "edulis:item/lemon_cake"},
+    {"predicate": {"custom_model_data": 10}, "model": "edulis:item/keylime_pie"},
+    {"predicate": {"custom_model_data": 11}, "model": "edulis:item/cheesecake"},
+    {"predicate": {"custom_model_data": 12}, "model": "edulis:item/pizza"},
+    {"predicate": {"custom_model_data": 13}, "model": "edulis:item/whipped_cream_pie"}
+  ]
+}
+
+  

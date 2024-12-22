@@ -1,0 +1,28 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "edulis:item/super_burrito"
+  },
+"display": {
+    "thirdperson_righthand": {
+      "scale": [2, 2, 2],
+      "translation": [0, 8, -2],
+      "rotation": [0, 90, 45]
+    },
+    "thirdperson_lefthand": {
+      "scale": [2, 2, 2],
+      "translation": [0, 8, -2],
+      "rotation": [0, -90, -45]
+    },
+    "firstperson_righthand": {
+      "scale": [1.5, 1.5, 1.5],
+      "translation": [0, 2, 0],
+      "rotation": [0, -90, 45]
+    },
+    "firstperson_lefthand": {
+      "scale": [1.5, 1.5, 1.5],
+      "translation": [0, 2, 0],
+      "rotation": [0, 90, -45]
+    }
+  }
+}

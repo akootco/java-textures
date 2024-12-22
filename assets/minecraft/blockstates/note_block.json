@@ -1,0 +1,79 @@
+{
+    "variants": {
+        "instrument=skeleton,note=0": {
+            "model": "edulis:block/hanging_apple"
+        },
+        "instrument=skeleton,note=1": {
+            "model": "block/skeleton/skeleton1"
+        },
+        "instrument=skeleton,note=2": {
+            "model": "block/skeleton/skeleton2"
+        },
+        "instrument=skeleton,note=3": {
+            "model": "block/skeleton/skeleton3"
+        },
+        "instrument=skeleton,note=4": {
+            "model": "block/skeleton/skeleton4"
+        },
+        "instrument=skeleton,note=5": {
+            "model": "block/skeleton/skeleton5"
+        },
+        "instrument=skeleton,note=6": {
+            "model": "block/skeleton/skeleton6"
+        },
+        "instrument=skeleton,note=7": {
+            "model": "block/skeleton/skeleton7"
+        },
+        "instrument=skeleton,note=8": {
+            "model": "block/skeleton/skeleton8"
+        },
+        "instrument=skeleton,note=9": {
+            "model": "block/skeleton/skeleton9"
+        },
+        "instrument=skeleton,note=10": {
+            "model": "block/skeleton/skeleton10"
+        },
+        "instrument=skeleton,note=11": {
+            "model": "block/skeleton/skeleton11"
+        },
+        "instrument=skeleton,note=12": {
+            "model": "block/skeleton/skeleton12"
+        },
+        "instrument=skeleton,note=13": {
+            "model": "block/skeleton/skeleton13"
+        },
+        "instrument=skeleton,note=14": {
+            "model": "block/skeleton/skeleton14"
+        },
+        "instrument=skeleton,note=15": {
+            "model": "block/skeleton/skeleton15"
+        },
+        "instrument=skeleton,note=16": {
+            "model": "block/skeleton/skeleton16"
+        },
+        "instrument=skeleton,note=17": {
+            "model": "block/skeleton/skeleton17"
+        },
+        "instrument=skeleton,note=18": {
+            "model": "block/skeleton/skeleton18"
+        },
+        "instrument=skeleton,note=19": {
+            "model": "block/skeleton/skeleton19"
+        },
+        "instrument=skeleton,note=20": {
+            "model": "block/skeleton/skeleton20"
+        },
+        "instrument=skeleton,note=21": {
+            "model": "block/skeleton/skeleton21"
+        },
+        "instrument=skeleton,note=22": {
+            "model": "block/skeleton/skeleton22"
+        },
+        "instrument=skeleton,note=23": {
+            "model": "block/skeleton/skeleton23"
+        },
+        "instrument=skeleton,note=24": {
+            "model": "block/skeleton/skeleton24"
+        }
+    }
+}

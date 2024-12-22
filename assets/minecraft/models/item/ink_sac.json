@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/ink_sac"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "edulis:item/tentacle"}
+  ]
+}

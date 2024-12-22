@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/beetroot_soup"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 1}, "model": "edulis:item/pesto_pasta"},
+      {"predicate": {"custom_model_data": 2}, "model": "edulis:item/gumbo"},
+      {"predicate": {"custom_model_data": 3}, "model": "edulis:item/bat_wing_soup"},
+      {"predicate": {"custom_model_data": 4}, "model": "edulis:item/squid_ink_pasta"}
+    ]
+  }
