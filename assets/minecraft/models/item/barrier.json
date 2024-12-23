@@ -1,0 +1,14 @@
+{
+    "parent": "block/barrier",
+  "textures": {
+    "layer0": "minecraft:block/barrier"
+  },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model":"edulis:block/berries/blueberries_stage2"},
+		{ "predicate": {"custom_model_data": 2}, "model":"edulis:block/berries/blueberries_stage3"},
+    { "predicate": {"custom_model_data": 3}, "model":"edulis:block/berries/strawberries_stage2"},
+		{ "predicate": {"custom_model_data": 4}, "model":"edulis:block/berries/strawberries_stage3"},
+    { "predicate": {"custom_model_data": 5}, "model":"edulis:block/berries/yoyleberry_stage2"},
+		{ "predicate": {"custom_model_data": 6}, "model":"edulis:block/berries/yoyleberry_stage3"}
+  ]
+}
