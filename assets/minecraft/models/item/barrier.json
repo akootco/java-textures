@@ -9,6 +9,12 @@
     { "predicate": {"custom_model_data": 3}, "model":"edulis:block/berries/strawberries_stage2"},
 		{ "predicate": {"custom_model_data": 4}, "model":"edulis:block/berries/strawberries_stage3"},
     { "predicate": {"custom_model_data": 5}, "model":"edulis:block/berries/yoyleberry_stage2"},
-		{ "predicate": {"custom_model_data": 6}, "model":"edulis:block/berries/yoyleberry_stage3"}
+		{ "predicate": {"custom_model_data": 6}, "model":"edulis:block/berries/yoyleberry_stage3"},
+    { "predicate": {"custom_model_data": 7}, "model":"edulis:block/berries/lemons_stage2"},
+		{ "predicate": {"custom_model_data": 8}, "model":"edulis:block/berries/lemons_stage3"},
+    { "predicate": {"custom_model_data": 9}, "model":"edulis:block/berries/limes_stage2"},
+		{ "predicate": {"custom_model_data": 10}, "model":"edulis:block/berries/limes_stage3"},
+    { "predicate": {"custom_model_data": 11}, "model":"edulis:block/berries/tomato_stage2"},
+		{ "predicate": {"custom_model_data": 12}, "model":"edulis:block/berries/tomato_stage3"}
   ]
 }
