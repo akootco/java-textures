@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "edulis:item/salt"
+    "layer0": "edulis:item/purple_carrot"
   }
 }

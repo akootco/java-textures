@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "edulis:item/butcher_knife"
+    "layer0": "edulis:item/iron_cleaver"
   }
 }
