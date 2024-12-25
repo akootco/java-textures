@@ -1,0 +1,6 @@
+{
+  "parent": "edulis:block/overlay/crop",
+  "textures": {
+    "crop": "edulis:block/crops/purple_carrot_stage2"
+  }
+}

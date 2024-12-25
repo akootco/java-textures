@@ -15,6 +15,9 @@
     { "predicate": {"custom_model_data": 9}, "model":"edulis:block/berries/limes_stage2"},
 		{ "predicate": {"custom_model_data": 10}, "model":"edulis:block/berries/limes_stage3"},
     { "predicate": {"custom_model_data": 11}, "model":"edulis:block/berries/tomato_stage2"},
-		{ "predicate": {"custom_model_data": 12}, "model":"edulis:block/berries/tomato_stage3"}
+		{ "predicate": {"custom_model_data": 12}, "model":"edulis:block/berries/tomato_stage3"},
+    
+    { "predicate": {"custom_model_data": 13}, "model":"edulis:block/crops/purple_carrot_stage2"},
+		{ "predicate": {"custom_model_data": 14}, "model":"edulis:block/crops/purple_carrot_stage3"}
   ]
 }

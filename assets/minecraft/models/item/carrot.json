@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/carrot"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 1}, "model": "edulis:item/purple_carrot"}
+
+    ]
+  }
