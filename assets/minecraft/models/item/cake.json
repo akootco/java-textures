@@ -12,7 +12,8 @@
     {"predicate": {"custom_model_data": 6}, "model": "edulis:item/chocolate_cake"},
     {"predicate": {"custom_model_data": 7}, "model": "edulis:item/german_choc_cake"},
     {"predicate": {"custom_model_data": 8}, "model": "edulis:item/yoyle_cake"},
-    {"predicate": {"custom_model_data": 9}, "model": "edulis:item/lemon_cake"}
+    {"predicate": {"custom_model_data": 9}, "model": "edulis:item/lemon_cake"},
+    {"predicate": {"custom_model_data": 10}, "model": "edulis:item/birthday_cake"}
   ]
 }
 

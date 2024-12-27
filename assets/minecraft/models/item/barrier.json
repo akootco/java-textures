@@ -6,14 +6,19 @@
 	"overrides": [
 		{ "predicate": {"custom_model_data": 1}, "model":"edulis:block/berries/blueberries_stage2"},
 		{ "predicate": {"custom_model_data": 2}, "model":"edulis:block/berries/blueberries_stage3"},
+
     { "predicate": {"custom_model_data": 3}, "model":"edulis:block/berries/strawberries_stage2"},
 		{ "predicate": {"custom_model_data": 4}, "model":"edulis:block/berries/strawberries_stage3"},
+
     { "predicate": {"custom_model_data": 5}, "model":"edulis:block/berries/yoyleberry_stage2"},
 		{ "predicate": {"custom_model_data": 6}, "model":"edulis:block/berries/yoyleberry_stage3"},
+
     { "predicate": {"custom_model_data": 7}, "model":"edulis:block/berries/lemons_stage2"},
 		{ "predicate": {"custom_model_data": 8}, "model":"edulis:block/berries/lemons_stage3"},
+
     { "predicate": {"custom_model_data": 9}, "model":"edulis:block/berries/limes_stage2"},
 		{ "predicate": {"custom_model_data": 10}, "model":"edulis:block/berries/limes_stage3"},
+
     { "predicate": {"custom_model_data": 11}, "model":"edulis:block/berries/tomato_stage2"},
 		{ "predicate": {"custom_model_data": 12}, "model":"edulis:block/berries/tomato_stage3"},
     
@@ -38,7 +43,24 @@
 
     { "predicate": {"custom_model_data": 29}, "model":"edulis:block/berries/white_grapes_stage2"},
 		{ "predicate": {"custom_model_data": 30}, "model":"edulis:block/berries/white_grapes_stage3"},
+
     { "predicate": {"custom_model_data": 31}, "model":"edulis:block/berries/red_grapes_stage2"},
-		{ "predicate": {"custom_model_data": 32}, "model":"edulis:block/berries/red_grapes_stage3"}
+		{ "predicate": {"custom_model_data": 32}, "model":"edulis:block/berries/red_grapes_stage3"},
+
+    { "predicate": {"custom_model_data": 33}, "model":"edulis:block/cakes/german_chocolate/german_chocolate_cake_full"},
+    { "predicate": {"custom_model_data": 34}, "model":"edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_1"},
+    { "predicate": {"custom_model_data": 35}, "model":"edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_2"},
+    { "predicate": {"custom_model_data": 36}, "model":"edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_3"},
+    { "predicate": {"custom_model_data": 37}, "model":"edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_4"},
+    { "predicate": {"custom_model_data": 38}, "model":"edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_5"},
+    { "predicate": {"custom_model_data": 39}, "model":"edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_6"},
+
+    { "predicate": {"custom_model_data": 40}, "model":"edulis:block/cakes/birthday/birthday_cake_full"},
+    { "predicate": {"custom_model_data": 41}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_1"},
+    { "predicate": {"custom_model_data": 42}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_2"},
+    { "predicate": {"custom_model_data": 43}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_3"},
+    { "predicate": {"custom_model_data": 44}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_4"},
+    { "predicate": {"custom_model_data": 45}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_5"},
+    { "predicate": {"custom_model_data": 46}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_6"}
   ]
 }

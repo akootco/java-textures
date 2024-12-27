@@ -17,6 +17,7 @@
     {"predicate":{"custom_model_data":11},"model":"edulis:item/cheesecake_slice"},
     {"predicate":{"custom_model_data":12},"model":"edulis:item/pizza_slice"},
     {"predicate":{"custom_model_data":13},"model":"edulis:item/whipped_cream_slice"},
+    {"predicate":{"custom_model_data":14},"model":"edulis:item/birthday_cake_slice"},
 
 
 
