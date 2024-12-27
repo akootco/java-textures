@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/pumpkin_pie"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 1}, "model": "edulis:item/keylime_pie"},
+      {"predicate": {"custom_model_data": 2}, "model": "edulis:item/cheesecake"},
+      {"predicate": {"custom_model_data": 3}, "model": "edulis:item/pizza"},
+      {"predicate": {"custom_model_data": 4}, "model": "edulis:item/whipped_cream_pie"}
+    ]
+  }

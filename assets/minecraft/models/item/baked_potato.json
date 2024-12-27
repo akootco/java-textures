@@ -4,30 +4,6 @@
       "layer0": "item/baked_potato"
     },
     "overrides": [
-      {"predicate":{"custom_model_data":1},"model":"edulis:item/strawberry_shortcake_slice"},
-      {"predicate":{"custom_model_data":2},"model":"edulis:item/blueberry_cake_slice"},
-      {"predicate":{"custom_model_data":3},"model":"edulis:item/carrot_cake_slice"},
-      {"predicate":{"custom_model_data":4},"model":"edulis:item/red_velvet_cake_slice"},
-      {"predicate":{"custom_model_data":5},"model":"edulis:item/fruit_cake_slice"},
-      {"predicate":{"custom_model_data":6},"model":"edulis:item/chocolate_cake_slice"},
-      {"predicate":{"custom_model_data":7},"model":"edulis:item/german_choc_cake_slice"},
-      {"predicate":{"custom_model_data":8},"model":"edulis:item/yoyle_cake_slice"},
-      {"predicate":{"custom_model_data":9},"model":"edulis:item/lemon_cake_slice"},
-      {"predicate":{"custom_model_data":10},"model":"edulis:item/keylime_pie_slice"},
-      {"predicate":{"custom_model_data":11},"model":"edulis:item/cheesecake_slice"},
-      {"predicate":{"custom_model_data":12},"model":"edulis:item/pizza_slice"},
-      {"predicate":{"custom_model_data":13},"model":"edulis:item/whipped_cream_slice"},
-
-
-
-
-
-
-
-
-
-
-      {"predicate": {"custom_model_data": 998}, "model": "edulis:item/pumpkin_pie_slice"},
-      {"predicate": {"custom_model_data": 999}, "model": "edulis:item/cake_slice"}
+      {"predicate":{"custom_model_data":1},"model":"edulis:item/loaded_baked_potato"}
     ]
   }
