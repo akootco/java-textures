@@ -1,0 +1,6 @@
+{
+  "parent": "edulis:block/overlay/cross",
+  "textures": {
+    "cross": "edulis:block/berries/red_grapes_stage3"
+  }
+}

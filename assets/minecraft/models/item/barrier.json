@@ -34,6 +34,11 @@
     { "predicate": {"custom_model_data": 25}, "model":"edulis:block/cakes/red_velvet/red_velvet_cake_slice_3"},
     { "predicate": {"custom_model_data": 26}, "model":"edulis:block/cakes/red_velvet/red_velvet_cake_slice_4"},
     { "predicate": {"custom_model_data": 27}, "model":"edulis:block/cakes/red_velvet/red_velvet_cake_slice_5"},
-    { "predicate": {"custom_model_data": 28}, "model":"edulis:block/cakes/red_velvet/red_velvet_cake_slice_6"}
+    { "predicate": {"custom_model_data": 28}, "model":"edulis:block/cakes/red_velvet/red_velvet_cake_slice_6"},
+
+    { "predicate": {"custom_model_data": 29}, "model":"edulis:block/berries/white_grapes_stage2"},
+		{ "predicate": {"custom_model_data": 30}, "model":"edulis:block/berries/white_grapes_stage3"},
+    { "predicate": {"custom_model_data": 31}, "model":"edulis:block/berries/red_grapes_stage2"},
+		{ "predicate": {"custom_model_data": 32}, "model":"edulis:block/berries/red_grapes_stage3"}
   ]
 }

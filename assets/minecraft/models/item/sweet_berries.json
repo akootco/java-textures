@@ -9,6 +9,8 @@
     {"predicate": {"custom_model_data": 3}, "model": "edulis:item/peas"},
     {"predicate": {"custom_model_data": 4}, "model": "edulis:item/lemons"},
     {"predicate": {"custom_model_data": 5}, "model": "edulis:item/limes"},
-    {"predicate": {"custom_model_data": 6}, "model": "edulis:item/yoyle_berry"}
+    {"predicate": {"custom_model_data": 6}, "model": "edulis:item/yoyle_berry"},
+    {"predicate": {"custom_model_data": 7}, "model": "edulis:item/red_grapes"},
+    {"predicate": {"custom_model_data": 8}, "model": "edulis:item/white_grapes"}
   ]
 }
