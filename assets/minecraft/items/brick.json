@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {"type": "model", "model": "item/brick"},
+    "entries": [
+      {"threshold": 1, "model": {"type": "model", "model": "edulis:item/chocolate"}},
+      {"threshold": 2, "model": {"type": "model", "model": "edulis:item/white_chocolate"}},
+      {"threshold": 3, "model": {"type": "model", "model": "edulis:item/dark_chocolate"}},
+      {"threshold": 4, "model": {"type": "model", "model": "edulis:item/butter"}},
+      {"threshold": 5, "model": {"type": "model", "model": "edulis:item/cheddar_cheese"}},
+      {"threshold": 6, "model": {"type": "model", "model": "edulis:item/creamer"}},
+      {"threshold": 7, "model": {"type": "model", "model": "edulis:item/mre"}},
+      {"threshold": 8, "model": {"type": "model", "model": "edulis:item/coffee_beans"}},
+      {"threshold": 9, "model": {"type": "model", "model": "edulis:item/raw_pizza"}},
+      {"threshold": 10, "model": {"type": "model", "model": "edulis:item/mre"}}
+    ]
+  }
+}

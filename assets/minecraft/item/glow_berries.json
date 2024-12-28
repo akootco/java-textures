@@ -1,9 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-      "layer0": "item/glow_berries"
-    },
-    "overrides": [
-      {"predicate":{"custom_model_data":1},"model":"edulis:item/cherries"}
-    ]
-  }

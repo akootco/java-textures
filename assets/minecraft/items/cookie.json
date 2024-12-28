@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/cookie" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/white_choc_cookie" } },
+      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/dark_white_choc_cookie" } },
+      { "threshold": 3, "model": { "type": "model", "model": "edulis:item/double_chunk_cookie" } },
+      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/mm_cookie" } },
+      { "threshold": 5, "model": { "type": "model", "model": "edulis:item/sugar_cookie" } },
+      { "threshold": 6, "model": { "type": "model", "model": "edulis:item/strawberry_macaron" } },
+      { "threshold": 7, "model": { "type": "model", "model": "edulis:item/blueberry_macaron" } },
+      { "threshold": 8, "model": { "type": "model", "model": "edulis:item/linzer_cookie" } },
+      { "threshold": 9, "model": { "type": "model", "model": "edulis:item/glow_berry_muffin" } },
+      { "threshold": 10, "model": { "type": "model", "model": "edulis:item/croissant" } }
+    ]
+  }
+}

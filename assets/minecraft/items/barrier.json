@@ -1,0 +1,83 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {"type": "model", "model": "block/barrier"},
+    "entries": [
+      {"threshold": 1, "model": {"type": "model", "model": "edulis:block/berries/blueberries_stage2"}},
+      {"threshold": 2, "model": {"type": "model", "model": "edulis:block/berries/blueberries_stage3"}},
+
+      {"threshold": 3, "model": {"type": "model", "model": "edulis:block/berries/strawberries_stage2"}},
+      {"threshold": 4, "model": {"type": "model", "model": "edulis:block/berries/strawberries_stage3"}},
+
+      {"threshold": 5, "model": {"type": "model", "model": "edulis:block/berries/yoyleberry_stage2"}},
+      {"threshold": 6, "model": {"type": "model", "model": "edulis:block/berries/yoyleberry_stage3"}},
+
+      {"threshold": 7, "model": {"type": "model", "model": "edulis:block/berries/lemons_stage2"}},
+      {"threshold": 8, "model": {"type": "model", "model": "edulis:block/berries/lemons_stage3"}},
+
+      {"threshold": 9, "model": {"type": "model", "model": "edulis:block/berries/limes_stage2"}},
+      {"threshold": 10, "model": {"type": "model", "model": "edulis:block/berries/limes_stage3"}},
+
+      {"threshold": 11, "model": {"type": "model", "model": "edulis:block/berries/tomato_stage2"}},
+      {"threshold": 12, "model": {"type": "model", "model": "edulis:block/berries/tomato_stage3"}},
+
+      {"threshold": 13, "model": {"type": "model", "model": "edulis:block/crops/purple_carrot_stage2"}},
+      {"threshold": 14, "model": {"type": "model", "model": "edulis:block/crops/purple_carrot_stage3"}},
+
+      {"threshold": 15, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_full"}},
+      {"threshold": 16, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_slice_1"}},
+      {"threshold": 17, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_slice_2"}},
+      {"threshold": 18, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_slice_3"}},
+      {"threshold": 19, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_slice_4"}},
+      {"threshold": 20, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_slice_5"}},
+      {"threshold": 21, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_slice_6"}},
+
+      {"threshold": 22, "model": {"type": "model", "model": "edulis:block/cakes/red_velvet/red_velvet_cake_full"}},
+      {"threshold": 23, "model": {"type": "model", "model": "edulis:block/cakes/red_velvet/red_velvet_cake_slice_1"}},
+      {"threshold": 24, "model": {"type": "model", "model": "edulis:block/cakes/red_velvet/red_velvet_cake_slice_2"}},
+      {"threshold": 25, "model": {"type": "model", "model": "edulis:block/cakes/red_velvet/red_velvet_cake_slice_3"}},
+      {"threshold": 26, "model": {"type": "model", "model": "edulis:block/cakes/red_velvet/red_velvet_cake_slice_4"}},
+      {"threshold": 27, "model": {"type": "model", "model": "edulis:block/cakes/red_velvet/red_velvet_cake_slice_5"}},
+      {"threshold": 28, "model": {"type": "model", "model": "edulis:block/cakes/red_velvet/red_velvet_cake_slice_6"}},
+
+      {"threshold": 29, "model": {"type": "model", "model": "edulis:block/berries/white_grapes_stage2"}},
+      {"threshold": 30, "model": {"type": "model", "model": "edulis:block/berries/white_grapes_stage3"}},
+
+      {"threshold": 31, "model": {"type": "model", "model": "edulis:block/berries/red_grapes_stage2"}},
+      {"threshold": 32, "model": {"type": "model", "model": "edulis:block/berries/red_grapes_stage3"}},
+
+      {"threshold": 33, "model": {"type": "model", "model": "edulis:block/cakes/german_chocolate/german_chocolate_cake_full"}},
+      {"threshold": 34, "model": {"type": "model", "model": "edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_1"}},
+      {"threshold": 35, "model": {"type": "model", "model": "edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_2"}},
+      {"threshold": 36, "model": {"type": "model", "model": "edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_3"}},
+      {"threshold": 37, "model": {"type": "model", "model": "edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_4"}},
+      {"threshold": 38, "model": {"type": "model", "model": "edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_5"}},
+      {"threshold": 39, "model": {"type": "model", "model": "edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_6"}},
+
+      {"threshold": 40, "model": {"type": "model", "model": "edulis:block/cakes/birthday/birthday_cake_full"}},
+      {"threshold": 41, "model": {"type": "model", "model": "edulis:block/cakes/birthday/birthday_cake_slice_1"}},
+      {"threshold": 42, "model": {"type": "model", "model": "edulis:block/cakes/birthday/birthday_cake_slice_2"}},
+      {"threshold": 43, "model": {"type": "model", "model": "edulis:block/cakes/birthday/birthday_cake_slice_3"}},
+      {"threshold": 44, "model": {"type": "model", "model": "edulis:block/cakes/birthday/birthday_cake_slice_4"}},
+      {"threshold": 45, "model": {"type": "model", "model": "edulis:block/cakes/birthday/birthday_cake_slice_5"}},
+      {"threshold": 46, "model": {"type": "model", "model": "edulis:block/cakes/birthday/birthday_cake_slice_6"}},
+
+      {"threshold": 47, "model": {"type": "model", "model": "edulis:block/cakes/carrot/carrot_cake_full"}},
+      {"threshold": 48, "model": {"type": "model", "model": "edulis:block/cakes/carrot/carrot_cake_slice_1"}},
+      {"threshold": 49, "model": {"type": "model", "model": "edulis:block/cakes/carrot/carrot_cake_slice_2"}},
+      {"threshold": 50, "model": {"type": "model", "model": "edulis:block/cakes/carrot/carrot_cake_slice_3"}},
+      {"threshold": 51, "model": {"type": "model", "model": "edulis:block/cakes/carrot/carrot_cake_slice_4"}},
+      {"threshold": 52, "model": {"type": "model", "model": "edulis:block/cakes/carrot/carrot_cake_slice_5"}},
+      {"threshold": 53, "model": {"type": "model", "model": "edulis:block/cakes/carrot/carrot_cake_slice_6"}},
+
+      {"threshold": 54, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_full"}},
+      {"threshold": 55, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_1"}},
+      {"threshold": 56, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_2"}},
+      {"threshold": 57, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_3"}},
+      {"threshold": 58, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_4"}},
+      {"threshold": 59, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_5"}},
+      {"threshold": 60, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_6"}}
+    ]
+  }
+}

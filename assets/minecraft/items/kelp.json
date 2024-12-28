@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/kelp" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/green_tea_leaves" } },
+      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/lettuce" } },
+      { "threshold": 3, "model": { "type": "model", "model": "edulis:item/basil" } }
+    ]
+  }
+}

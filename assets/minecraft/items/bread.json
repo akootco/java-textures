@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {"type": "model", "model": "item/bread"},
+    "entries": [
+      {"threshold": 1, "model": {"type": "model", "model": "edulis:item/strawberry_short_cake_slice"}},
+      {"threshold": 2, "model": {"type": "model", "model": "edulis:item/blueberry_cake_slice"}},
+      {"threshold": 3, "model": {"type": "model", "model": "edulis:item/carrot_cake_slice"}},
+      {"threshold": 4, "model": {"type": "model", "model": "edulis:item/red_velvet_cake_slice"}},
+      {"threshold": 5, "model": {"type": "model", "model": "edulis:item/fruit_cake_slice"}},
+      {"threshold": 6, "model": {"type": "model", "model": "edulis:item/chocolate_cake_slice"}},
+      {"threshold": 7, "model": {"type": "model", "model": "edulis:item/german_choc_cake_slice"}},
+      {"threshold": 8, "model": {"type": "model", "model": "edulis:item/yoyle_cake_slice"}},
+      {"threshold": 9, "model": {"type": "model", "model": "edulis:item/lemon_cake_slice"}},
+      {"threshold": 10, "model": {"type": "model", "model": "edulis:item/keylime_pie_slice"}},
+      {"threshold": 11, "model": {"type": "model", "model": "edulis:item/cheesecake_slice"}},
+      {"threshold": 12, "model": {"type": "model", "model": "edulis:item/pizza_slice"}},
+      {"threshold": 13, "model": {"type": "model", "model": "edulis:item/whipped_cream_slice"}},
+      {"threshold": 14, "model": {"type": "model", "model": "edulis:item/birthday_cake_slice"}},
+
+      {"threshold": 998, "model": {"type": "model", "model": "edulis:item/pumpkin_pie_slice"}},
+      {"threshold": 999, "model": {"type": "model", "model": "edulis:item/cake_slice"}}
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "edulis:item/red_mushroom"
+    "layer0": "red_mushroom"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {"type": "model", "model": "item/apple"},
+    "entries": [
+      {"threshold": 998, "model": {"type": "model", "model": "edulis:item/magic_red_mushroom"}},
+      {"threshold": 999, "model": {"type": "model", "model": "edulis:item/magic_brown_mushroom"}}
+    ]
+  }
+}
