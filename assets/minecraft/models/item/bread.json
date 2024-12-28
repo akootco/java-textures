@@ -4,7 +4,7 @@
     "layer0": "item/bread"
   },
   "overrides": [
-    {"predicate":{"custom_model_data":1},"model":"edulis:item/strawberry_shortcake_slice"},
+    {"predicate":{"custom_model_data":1},"model":"edulis:item/strawberry_short_cake_slice"},
     {"predicate":{"custom_model_data":2},"model":"edulis:item/blueberry_cake_slice"},
     {"predicate":{"custom_model_data":3},"model":"edulis:item/carrot_cake_slice"},
     {"predicate":{"custom_model_data":4},"model":"edulis:item/red_velvet_cake_slice"},

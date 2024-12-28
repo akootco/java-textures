@@ -1,0 +1,9 @@
+{
+    "parent": "item/template_skull",
+    "textures": {
+      "layer0": "item/player_head"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 1}, "model": "edulis:item/cooked_pufferfish"}
+    ]
+  }

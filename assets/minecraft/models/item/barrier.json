@@ -61,6 +61,22 @@
     { "predicate": {"custom_model_data": 43}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_3"},
     { "predicate": {"custom_model_data": 44}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_4"},
     { "predicate": {"custom_model_data": 45}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_5"},
-    { "predicate": {"custom_model_data": 46}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_6"}
+    { "predicate": {"custom_model_data": 46}, "model":"edulis:block/cakes/birthday/birthday_cake_slice_6"},
+
+    { "predicate": {"custom_model_data": 47}, "model":"edulis:block/cakes/carrot/carrot_cake_full"},
+    { "predicate": {"custom_model_data": 48}, "model":"edulis:block/cakes/carrot/carrot_cake_slice_1"},
+    { "predicate": {"custom_model_data": 49}, "model":"edulis:block/cakes/carrot/carrot_cake_slice_2"},
+    { "predicate": {"custom_model_data": 50}, "model":"edulis:block/cakes/carrot/carrot_cake_slice_3"},
+    { "predicate": {"custom_model_data": 51}, "model":"edulis:block/cakes/carrot/carrot_cake_slice_4"},
+    { "predicate": {"custom_model_data": 52}, "model":"edulis:block/cakes/carrot/carrot_cake_slice_5"},
+    { "predicate": {"custom_model_data": 53}, "model":"edulis:block/cakes/carrot/carrot_cake_slice_6"},
+
+    { "predicate": {"custom_model_data": 54}, "model":"edulis:block/cakes/strawberry/strawberry_short_cake_full"},
+    { "predicate": {"custom_model_data": 55}, "model":"edulis:block/cakes/strawberry/strawberry_short_cake_slice_1"},
+    { "predicate": {"custom_model_data": 56}, "model":"edulis:block/cakes/strawberry/strawberry_short_cake_slice_2"},
+    { "predicate": {"custom_model_data": 57}, "model":"edulis:block/cakes/strawberry/strawberry_short_cake_slice_3"},
+    { "predicate": {"custom_model_data": 58}, "model":"edulis:block/cakes/strawberry/strawberry_short_cake_slice_4"},
+    { "predicate": {"custom_model_data": 59}, "model":"edulis:block/cakes/strawberry/strawberry_short_cake_slice_5"},
+    { "predicate": {"custom_model_data": 60}, "model":"edulis:block/cakes/strawberry/strawberry_short_cake_slice_6"}
   ]
 }

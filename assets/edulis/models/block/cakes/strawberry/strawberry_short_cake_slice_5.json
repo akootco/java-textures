@@ -1,0 +1,6 @@
+{
+  "parent": "edulis:block/overlay/cakes/cake_slice_5",
+  "textures": {
+    "0": "edulis:block/cakes/strawberry_short_cake"
+  }
+}
