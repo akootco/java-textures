@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/rotten_flesh" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/frog_leg_warm" } },
+      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/frog_leg_temperate" } },
+      { "threshold": 3, "model": { "type": "model", "model": "edulis:item/frog_leg_cold" } },
+      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/cooked_frog_leg" } },
+      { "threshold": 5, "model": { "type": "model", "model": "edulis:item/burrito" } },
+      { "threshold": 6, "model": { "type": "model", "model": "edulis:item/hot_dog" } },
+      { "threshold": 7, "model": { "type": "model", "model": "edulis:item/mustard_hot_dog" } },
+      { "threshold": 8, "model": { "type": "model", "model": "edulis:item/beef_wellington" } },
+      { "threshold": 9, "model": { "type": "model", "model": "edulis:item/chimichanga" } },
+      { "threshold": 10, "model": { "type": "model", "model": "edulis:item/super_burrito" } }
+    ]
+  }
+}

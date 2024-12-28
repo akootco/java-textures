@@ -1,0 +1,17 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/sweet_berries" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/strawberry" } },
+      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/blueberry" } },
+      { "threshold": 3, "model": { "type": "model", "model": "edulis:item/peas" } },
+      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/lemons" } },
+      { "threshold": 5, "model": { "type": "model", "model": "edulis:item/limes" } },
+      { "threshold": 6, "model": { "type": "model", "model": "edulis:item/yoyle_berry" } },
+      { "threshold": 7, "model": { "type": "model", "model": "edulis:item/red_grapes" } },
+      { "threshold": 8, "model": { "type": "model", "model": "edulis:item/white_grapes" } }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/cake" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/strawberry_short_cake" } },
+      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/blueberry_cake" } },
+      { "threshold": 3, "model": { "type": "model", "model": "edulis:item/carrot_cake" } },
+      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/red_velvet_cake" } },
+      { "threshold": 5, "model": { "type": "model", "model": "edulis:item/fruit_cake" } },
+      { "threshold": 6, "model": { "type": "model", "model": "edulis:item/chocolate_cake" } },
+      { "threshold": 7, "model": { "type": "model", "model": "edulis:item/german_choc_cake" } },
+      { "threshold": 8, "model": { "type": "model", "model": "edulis:item/yoyle_cake" } },
+      { "threshold": 9, "model": { "type": "model", "model": "edulis:item/lemon_cake" } },
+      { "threshold": 10, "model": { "type": "model", "model": "edulis:item/birthday_cake" } }
+    ]
+  }
+}

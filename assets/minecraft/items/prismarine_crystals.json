@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/prismarine_crystals" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/greentea_mochi" } },
+      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/cherry_mochi" } },
+      { "threshold": 3, "model": { "type": "model", "model": "edulis:item/red_bean_mochi" } },
+      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/rice" } },
+      { "threshold": 5, "model": { "type": "model", "model": "edulis:item/mustard_seeds" } },
+      { "threshold": 6, "model": { "type": "model", "model": "edulis:item/almonds" } },
+      { "threshold": 7, "model": { "type": "model", "model": "edulis:item/red_beans" } },
+      { "threshold": 8, "model": { "type": "model", "model": "edulis:item/coffee_beans" } },
+      { "threshold": 9, "model": { "type": "model", "model": "edulis:item/ice_cubes" } },
+      { "threshold": 10, "model": { "type": "model", "model": "edulis:item/garlic" } },
+      { "threshold": 11, "model": { "type": "model", "model": "edulis:item/pork_rinds" } }
+    ]
+  }
+}

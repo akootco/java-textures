@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/iron_axe" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/iron_cleaver" } }
+    ]
+  }
+}

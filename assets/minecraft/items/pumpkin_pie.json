@@ -1,0 +1,13 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/pumpkin_pie" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/keylime_pie" } },
+      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/cheesecake" } },
+      { "threshold": 3, "model": { "type": "model", "model": "edulis:item/pizza" } },
+      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/whipped_cream_pie" } }
+    ]
+  }
+}

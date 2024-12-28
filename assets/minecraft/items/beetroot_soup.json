@@ -1,0 +1,13 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/beetroot_soup" },
+    "entries": [
+      { "model": { "type": "model", "model": "edulis:item/pesto_pasta" }, "threshold": 1 },
+      { "model": { "type": "model", "model": "edulis:item/gumbo" }, "threshold": 2 },
+      { "model": { "type": "model", "model": "edulis:item/bat_wing_soup" }, "threshold": 3 },
+      { "model": { "type": "model", "model": "edulis:item/squid_ink_pasta" }, "threshold": 4 }
+    ]
+  }
+}
