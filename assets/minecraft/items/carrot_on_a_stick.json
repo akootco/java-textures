@@ -2,7 +2,7 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": { "type": "model", "model": "item/handheld_rod" },
+    "fallback": { "type": "model", "model": "item/carrot_on_a_stick" },
     "entries": [
       {"threshold": 1, "model":{ "type":"model", "model":"edulis:item/purple_carrot_on_a_stick"}},
       {"threshold": 2, "model":{ "type":"model", "model":"edulis:item/potato_on_a_stick"}}
