@@ -1,0 +1,173 @@
+type,name,cmd
+baked potato,loaded baked potato,1
+barrier,blueberries stage2,1
+barrier,blueberries stage3,2
+barrier,strawberries stage2,3
+barrier,strawberries stage3,4
+barrier,yoyleberry stage2,5
+barrier,yoyleberry stage3,6
+barrier,lemons stage2,7
+barrier,lemons stage3,8
+barrier,limes stage2,9
+barrier,limes stage3,10
+barrier,tomato stage2,11
+barrier,tomato stage3,12
+barrier,purple carrot stage2,13
+barrier,purple carrot stage3,14
+barrier,chocolate cake full,15
+barrier,chocolate cake slice1,16
+barrier,chocolate cake slice2,17
+barrier,chocolate cake slice3,18
+barrier,chocolate cake slice4,19
+barrier,chocolate cake slice5,20
+barrier,chocolate cake slice6,21
+barrier,red velvet cake full,22
+barrier,red velvet cake slice1,23
+barrier,red velvet cake slice2,24
+barrier,red velvet cake slice3,25
+barrier,red velvet cake slice4,26
+barrier,red velvet cake slice5,27
+barrier,red velvet cake slice6,28
+barrier,white grapes stage2,29
+barrier,white grapes stage3,30
+barrier,red grapes stage2,31
+barrier,red grapes stage3,32
+barrier,german chocolate cake full,33
+barrier,german chocolate cake slice1,34
+barrier,german chocolate cake slice2,35
+barrier,german chocolate cake slice3,36
+barrier,german chocolate cake slice4,37
+barrier,german chocolate cake slice5,38
+barrier,german chocolate cake slice6,39
+barrier,birthday cake full,40
+barrier,birthday cake slice 1,41
+barrier,birthday cake slice 2,42
+barrier,birthday cake slice 3,43
+barrier,birthday cake slice 4,44
+barrier,birthday cake slice 5,45
+barrier,birthday cake slice 6,46
+barrier,carrot cake full,47
+barrier,carrot cake slice 1,48
+barrier,carrot cake slice 2,49
+barrier,carrot cake slice 3,50
+barrier,carrot cake slice 4,51
+barrier,carrot cake slice 5,52
+barrier,carrot cake slice 6,53
+barrier,strawberry short cake full,54
+barrier,strawberry short cake slice 1,55
+barrier,strawberry short cake slice 2,56
+barrier,strawberry short cake slice 3,57
+barrier,strawberry short cake slice 4,58
+barrier,strawberry short cake slice 5,59
+barrier,strawberry short cake slice 6,60
+barrier,blueberry cake full,61
+barrier,blueberry cake slice 1,62
+barrier,blueberry cake slice 2,63
+barrier,blueberry cake slice 3,64
+barrier,blueberry cake slice 4,65
+barrier,blueberry cake slice 5,66
+barrier,blueberry cake slice 6,67
+beef,raw veal,1
+beetroot soup,pesto pasta,1
+beetroot soup,gumbo,2
+beetroot soup,bat wing soup,3
+beetroot soup,squid ink pasta,4
+bone,kebab,1
+bone,marshmallows,2
+bread,strawberry short cake slice,1
+bread,blueberry cake slice,2
+bread,carrot cake slice,3
+bread,red velvet cake slice,4
+bread,fruit cake slice,5
+bread,chocolate cake slice,6
+bread,german chocolate cake slice,7
+bread,yoyle cake slice,8
+bread,lemon cake slice,9
+bread,keylime pie slice,10
+bread,cheesecake slice,11
+bread,pizza slice,12
+bread,whipped cream slice,13
+bread,birthday cake slice,14
+bread,pumpkin pie slice,998
+bread,cake slice,999
+brick,chocolate,1
+brick,white chocolate,2
+brick,dark chocolate,3
+brick,butter,4
+brick,cheddar cheese,5
+brick,creamer,6
+brick,mre,7
+brick,coffee beans,8
+brick,raw pizza,9
+cake,strawberry short cake,1
+cake,blueberry cake,2
+cake,carrot cake,3
+cake,red velvet cake,4
+cake,fruit cake,5
+cake,chocolate cake,6
+cake,german chocolate cake,7
+cake,yoyle cake,8
+cake,lemon cake,9
+cake,birthday cake,10
+carrot,purple carrot,1
+carrot,pepper,2
+carrot on a stick,purple carrot on a stick,1
+carrot on a stick,potato on a stick,2
+cod,scallops,1
+cooked beef,cooked veal,1
+cooked mutton,cooked goat,1
+cookie,white chocolate cookie,1
+cookie,dark white chocolate cookie,2
+cookie,double chunk cookie,3
+cookie,mm cookie,4
+cookie,sugar cookie,5
+cookie,strawberry macaron,6
+cookie,blueberry macaron,7
+cookie,linzer cookie,8
+cookie,glow berry muffin,9
+cookie,croissant,10
+diamond axe,diamond cleaver,1
+feather,bat wing,1
+glass bottle,glass cup,1
+glow berries,cherries,1
+honey bottle,hot honey,1
+ink sac,tentacle,1
+iron axe,iron cleaver,1
+iron sword,chef knife,1
+kelp,green tea leaves,1
+kelp,lettuce,2
+kelp,basil,3
+mutton,raw goat,1
+netherite axe,netherite cleaver,1
+prismarine crystals,green tea mochi,1
+prismarine crystals,cherry mochi,2
+prismarine crystals,red bean mochi,3
+prismarine crystals,rice,4
+prismarine crystals,mustard seeds,5
+prismarine crystals,almonds,6
+prismarine crystals,red beans,7
+prismarine crystals,coffee beans,8
+prismarine crystals,ice cubes,9
+prismarine crystals,garlic,10
+prismarine crystals,pork rinds,11
+pufferfish,cooked pufferfish,1
+rotten flesh,frog leg warm,1
+rotten flesh,frog leg temperate,2
+rotten flesh,frog leg cold,3
+rotten flesh,cooked frog leg,4
+rotten flesh,burrito,5
+rotten flesh,hot dog,6
+rotten flesh,mustard hot dog,7
+rotten flesh,beef wellington,8
+rotten flesh,chimichanga,9
+rotten flesh,super burrito,10
+slime ball,dough,1
+snowball,tomato,1
+sweet berries,strawberry,1
+sweet berries,blueberry,2
+sweet berries,peas,3
+sweet berries,lemons,4
+sweet berries,limes,5
+sweet berries,yoyle berry,6
+sweet berries,red grapes,7
+sweet berries,white grapes,8
