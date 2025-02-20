@@ -1,173 +1,177 @@
 type,name,cmd
-baked potato,loaded baked potato,1
-barrier,blueberries stage2,1
-barrier,blueberries stage3,2
-barrier,strawberries stage2,3
-barrier,strawberries stage3,4
-barrier,yoyleberry stage2,5
-barrier,yoyleberry stage3,6
-barrier,lemons stage2,7
-barrier,lemons stage3,8
-barrier,limes stage2,9
-barrier,limes stage3,10
-barrier,tomato stage2,11
-barrier,tomato stage3,12
-barrier,purple carrot stage2,13
-barrier,purple carrot stage3,14
-barrier,chocolate cake full,15
-barrier,chocolate cake slice1,16
-barrier,chocolate cake slice2,17
-barrier,chocolate cake slice3,18
-barrier,chocolate cake slice4,19
-barrier,chocolate cake slice5,20
-barrier,chocolate cake slice6,21
-barrier,red velvet cake full,22
-barrier,red velvet cake slice1,23
-barrier,red velvet cake slice2,24
-barrier,red velvet cake slice3,25
-barrier,red velvet cake slice4,26
-barrier,red velvet cake slice5,27
-barrier,red velvet cake slice6,28
-barrier,white grapes stage2,29
-barrier,white grapes stage3,30
-barrier,red grapes stage2,31
-barrier,red grapes stage3,32
-barrier,german chocolate cake full,33
-barrier,german chocolate cake slice1,34
-barrier,german chocolate cake slice2,35
-barrier,german chocolate cake slice3,36
-barrier,german chocolate cake slice4,37
-barrier,german chocolate cake slice5,38
-barrier,german chocolate cake slice6,39
-barrier,birthday cake full,40
-barrier,birthday cake slice 1,41
-barrier,birthday cake slice 2,42
-barrier,birthday cake slice 3,43
-barrier,birthday cake slice 4,44
-barrier,birthday cake slice 5,45
-barrier,birthday cake slice 6,46
-barrier,carrot cake full,47
-barrier,carrot cake slice 1,48
-barrier,carrot cake slice 2,49
-barrier,carrot cake slice 3,50
-barrier,carrot cake slice 4,51
-barrier,carrot cake slice 5,52
-barrier,carrot cake slice 6,53
-barrier,strawberry short cake full,54
-barrier,strawberry short cake slice 1,55
-barrier,strawberry short cake slice 2,56
-barrier,strawberry short cake slice 3,57
-barrier,strawberry short cake slice 4,58
-barrier,strawberry short cake slice 5,59
-barrier,strawberry short cake slice 6,60
-barrier,blueberry cake full,61
-barrier,blueberry cake slice 1,62
-barrier,blueberry cake slice 2,63
-barrier,blueberry cake slice 3,64
-barrier,blueberry cake slice 4,65
-barrier,blueberry cake slice 5,66
-barrier,blueberry cake slice 6,67
-beef,raw veal,1
-beetroot soup,pesto pasta,1
-beetroot soup,gumbo,2
-beetroot soup,bat wing soup,3
-beetroot soup,squid ink pasta,4
+baked_potato,loaded_baked_potato,1
+barrier,blueberries_stage2,1
+barrier,blueberries_stage3,2
+barrier,strawberries_stage2,3
+barrier,strawberries_stage3,4
+barrier,yoyleberry_stage2,5
+barrier,yoyleberry_stage3,6
+barrier,lemons_stage2,7
+barrier,lemons_stage3,8
+barrier,limes_stage2,9
+barrier,limes_stage3,10
+barrier,tomato_stage2,11
+barrier,tomato_stage3,12
+barrier,purple_carrot_stage2,13
+barrier,purple_carrot_stage3,14
+barrier,chocolate_cake_full,15
+barrier,chocolate_cake_slice1,16
+barrier,chocolate_cake_slice2,17
+barrier,chocolate_cake_slice3,18
+barrier,chocolate_cake_slice4,19
+barrier,chocolate_cake_slice5,20
+barrier,chocolate_cake_slice6,21
+barrier,red_velvet_cake_full,22
+barrier,red_velvet_cake_slice1,23
+barrier,red_velvet_cake_slice2,24
+barrier,red_velvet_cake_slice3,25
+barrier,red_velvet_cake_slice4,26
+barrier,red_velvet_cake_slice5,27
+barrier,red_velvet_cake_slice6,28
+barrier,white_grapes_stage2,29
+barrier,white_grapes_stage3,30
+barrier,red_grapes_stage2,31
+barrier,red_grapes_stage3,32
+barrier,german_chocolate_cake_full,33
+barrier,german_chocolate_cake_slice1,34
+barrier,german_chocolate_cake_slice2,35
+barrier,german_chocolate_cake_slice3,36
+barrier,german_chocolate_cake_slice4,37
+barrier,german_chocolate_cake_slice5,38
+barrier,german_chocolate_cake_slice6,39
+barrier,birthday_cake_full,40
+barrier,birthday_cake_slice_1,41
+barrier,birthday_cake_slice_2,42
+barrier,birthday_cake_slice_3,43
+barrier,birthday_cake_slice_4,44
+barrier,birthday_cake_slice_5,45
+barrier,birthday_cake_slice_6,46
+barrier,carrot_cake_full,47
+barrier,carrot_cake_slice_1,48
+barrier,carrot_cake_slice_2,49
+barrier,carrot_cake_slice_3,50
+barrier,carrot_cake_slice_4,51
+barrier,carrot_cake_slice_5,52
+barrier,carrot_cake_slice_6,53
+barrier,strawberry_short_cake_full,54
+barrier,strawberry_short_cake_slice_1,55
+barrier,strawberry_short_cake_slice_2,56
+barrier,strawberry_short_cake_slice_3,57
+barrier,strawberry_short_cake_slice_4,58
+barrier,strawberry_short_cake_slice_5,59
+barrier,strawberry_short_cake_slice_6,60
+barrier,blueberry_cake_full,61
+barrier,blueberry_cake_slice_1,62
+barrier,blueberry_cake_slice_2,63
+barrier,blueberry_cake_slice_3,64
+barrier,blueberry_cake_slice_4,65
+barrier,blueberry_cake_slice_5,66
+barrier,blueberry_cake_slice_6,67
+beef,raw_veal,1
+beetroot_soup,pesto_pasta,1
+beetroot_soup,gumbo,2
+beetroot_soup,bat_wing_soup,3
+beetroot_soup,squid_ink_pasta,4
 bone,kebab,1
 bone,marshmallows,2
-bread,strawberry short cake slice,1
-bread,blueberry cake slice,2
-bread,carrot cake slice,3
-bread,red velvet cake slice,4
-bread,fruit cake slice,5
-bread,chocolate cake slice,6
-bread,german chocolate cake slice,7
-bread,yoyle cake slice,8
-bread,lemon cake slice,9
-bread,keylime pie slice,10
-bread,cheesecake slice,11
-bread,pizza slice,12
-bread,whipped cream slice,13
-bread,birthday cake slice,14
-bread,pumpkin pie slice,998
-bread,cake slice,999
+bread,strawberry_short_cake_slice,1
+bread,blueberry_cake_slice,2
+bread,carrot_cake_slice,3
+bread,red_velvet_cake_slice,4
+bread,fruit_cake_slice,5
+bread,chocolate_cake_slice,6
+bread,german_chocolate_cake_slice,7
+bread,yoyle_cake_slice,8
+bread,lemon_cake_slice,9
+bread,keylime_pie_slice,10
+bread,cheesecake_slice,11
+bread,pizza_slice,12
+bread,whipped_cream_slice,13
+bread,birthday_cake_slice,14
+bread,pumpkin_pie_slice,998
+bread,cake_slice,999
 brick,chocolate,1
-brick,white chocolate,2
-brick,dark chocolate,3
+brick,white_chocolate,2
+brick,dark_chocolate,3
 brick,butter,4
-brick,cheddar cheese,5
+brick,cheddar_cheese,5
 brick,creamer,6
 brick,mre,7
-brick,coffee beans,8
-brick,raw pizza,9
-cake,strawberry short cake,1
-cake,blueberry cake,2
-cake,carrot cake,3
-cake,red velvet cake,4
-cake,fruit cake,5
-cake,chocolate cake,6
-cake,german chocolate cake,7
-cake,yoyle cake,8
-cake,lemon cake,9
-cake,birthday cake,10
-carrot,purple carrot,1
+brick,coffee_beans,8
+cake,strawberry_short_cake,1
+cake,blueberry_cake,2
+cake,carrot_cake,3
+cake,red_velvet_cake,4
+cake,fruit_cake,5
+cake,chocolate_cake,6
+cake,german_chocolate_cake,7
+cake,yoyle_cake,8
+cake,lemon_cake,9
+cake,birthday_cake,10
+carrot,purple_carrot,1
 carrot,pepper,2
-carrot on a stick,purple carrot on a stick,1
-carrot on a stick,potato on a stick,2
+carrot_on_a_stick,purple_carrot_on_a_stick,1
+carrot_on_a_stick,potato_on_a_stick,2
 cod,scallops,1
-cooked beef,cooked veal,1
-cooked mutton,cooked goat,1
-cookie,white chocolate cookie,1
-cookie,dark white chocolate cookie,2
-cookie,double chunk cookie,3
-cookie,mm cookie,4
-cookie,sugar cookie,5
-cookie,strawberry macaron,6
-cookie,blueberry macaron,7
-cookie,linzer cookie,8
-cookie,glow berry muffin,9
+cooked_beef,cooked_veal,1
+cooked_mutton,cooked_goat,1
+cookie,white_chocolate_cookie,1
+cookie,dark_white_chocolate_cookie,2
+cookie,double_chunk_cookie,3
+cookie,mm_cookie,4
+cookie,sugar_cookie,5
+cookie,strawberry_macaron,6
+cookie,blueberry_macaron,7
+cookie,linzer_cookie,8
+cookie,glow_berry_muffin,9
 cookie,croissant,10
-diamond axe,diamond cleaver,1
-feather,bat wing,1
-glass bottle,glass cup,1
-glow berries,cherries,1
-honey bottle,hot honey,1
-ink sac,tentacle,1
-iron axe,iron cleaver,1
-iron sword,chef knife,1
-kelp,green tea leaves,1
+diamond_axe,diamond_cleaver,1
+feather,bat_wing,1
+glass_bottle,glass_cup,1
+glow_berries,cherries,1
+honey_bottle,hot_honey,1
+ink_sac,tentacle,1
+iron_axe,iron_cleaver,1
+iron_sword,chef_knife,1
+kelp,green_tea_leaves,1
 kelp,lettuce,2
 kelp,basil,3
-mutton,raw goat,1
-netherite axe,netherite cleaver,1
-prismarine crystals,green tea mochi,1
-prismarine crystals,cherry mochi,2
-prismarine crystals,red bean mochi,3
-prismarine crystals,rice,4
-prismarine crystals,mustard seeds,5
-prismarine crystals,almonds,6
-prismarine crystals,red beans,7
-prismarine crystals,coffee beans,8
-prismarine crystals,ice cubes,9
-prismarine crystals,garlic,10
-prismarine crystals,pork rinds,11
-pufferfish,cooked pufferfish,1
-rotten flesh,frog leg warm,1
-rotten flesh,frog leg temperate,2
-rotten flesh,frog leg cold,3
-rotten flesh,cooked frog leg,4
-rotten flesh,burrito,5
-rotten flesh,hot dog,6
-rotten flesh,mustard hot dog,7
-rotten flesh,beef wellington,8
-rotten flesh,chimichanga,9
-rotten flesh,super burrito,10
-slime ball,dough,1
+mutton,raw_goat,1
+netherite_axe,netherite_cleaver,1
+prismarine_crystals,green_tea_mochi,1
+prismarine_crystals,cherry_mochi,2
+prismarine_crystals,red_bean_mochi,3
+prismarine_crystals,rice,4
+prismarine_crystals,mustard_seeds,5
+prismarine_crystals,almonds,6
+prismarine_crystals,red_beans,7
+prismarine_crystals,coffee_beans,8
+prismarine_crystals,ice_cubes,9
+prismarine_crystals,garlic,10
+prismarine_crystals,pork_rinds,11
+pufferfish,cooked_pufferfish,1
+pumpkinpie,keylime_pie,1
+pumpkinpie,cheesecake,2
+pumpkinpie,pizza,3
+pumpkinpie,whipped_cream_pie,4
+pumpkinpie,raw_pizza,5
+rotten_flesh,frog_leg_warm,1
+rotten_flesh,frog_leg_temperate,2
+rotten_flesh,frog_leg_cold,3
+rotten_flesh,cooked_frog_leg,4
+rotten_flesh,burrito,5
+rotten_flesh,hot_dog,6
+rotten_flesh,mustard_hot_dog,7
+rotten_flesh,beef_wellington,8
+rotten_flesh,chimichanga,9
+rotten_flesh,super_burrito,10
+slime_ball,dough,1
 snowball,tomato,1
-sweet berries,strawberry,1
-sweet berries,blueberry,2
-sweet berries,peas,3
-sweet berries,lemons,4
-sweet berries,limes,5
-sweet berries,yoyle berry,6
-sweet berries,red grapes,7
-sweet berries,white grapes,8
+sweet_berries,strawberry,1
+sweet_berries,blueberry,2
+sweet_berries,peas,3
+sweet_berries,lemons,4
+sweet_berries,limes,5
+sweet_berries,yoyle_berry,6
+sweet_berries,red_grapes,7
+sweet_berries,white_grapes,8
