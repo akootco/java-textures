@@ -7,7 +7,8 @@
       { "threshold": 1, "model": { "type": "model", "model": "edulis:item/keylime_pie" } },
       { "threshold": 2, "model": { "type": "model", "model": "edulis:item/cheesecake" } },
       { "threshold": 3, "model": { "type": "model", "model": "edulis:item/pizza" } },
-      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/whipped_cream_pie" } }
+      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/whipped_cream_pie" } },
+      { "threshold": 5, "model": { "type": "model", "model": "edulis:item/raw_pizza" } }
     ]
   }
 }

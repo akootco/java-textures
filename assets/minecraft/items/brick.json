@@ -11,9 +11,7 @@
       {"threshold": 5, "model": {"type": "model", "model": "edulis:item/cheddar_cheese"}},
       {"threshold": 6, "model": {"type": "model", "model": "edulis:item/creamer"}},
       {"threshold": 7, "model": {"type": "model", "model": "edulis:item/mre"}},
-      {"threshold": 8, "model": {"type": "model", "model": "edulis:item/coffee_beans"}},
-      {"threshold": 9, "model": {"type": "model", "model": "edulis:item/raw_pizza"}},
-      {"threshold": 10, "model": {"type": "model", "model": "edulis:item/mre"}}
+      {"threshold": 8, "model": {"type": "model", "model": "edulis:item/coffee_beans"}}
     ]
   }
 }

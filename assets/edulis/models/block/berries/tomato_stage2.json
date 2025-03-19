@@ -1,6 +1,6 @@
 {
   "parent": "edulis:block/overlay/cross",
   "textures": {
-    "cross": "edulis:block/hanging_apple"
+    "cross": "edulis:block/berries/tomato_stage2"
   }
 }

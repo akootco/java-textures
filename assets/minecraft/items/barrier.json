@@ -77,7 +77,23 @@
       {"threshold": 57, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_3"}},
       {"threshold": 58, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_4"}},
       {"threshold": 59, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_5"}},
-      {"threshold": 60, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_6"}}
+      {"threshold": 60, "model": {"type": "model", "model": "edulis:block/cakes/strawberry/strawberry_short_cake_slice_6"}},
+
+      {"threshold": 61, "model": {"type": "model", "model": "edulis:block/cakes/blueberry/blueberry_cake_full"}},
+      {"threshold": 62, "model": {"type": "model", "model": "edulis:block/cakes/blueberry/blueberry_cake_slice_1"}},
+      {"threshold": 63, "model": {"type": "model", "model": "edulis:block/cakes/blueberry/blueberry_cake_slice_2"}},
+      {"threshold": 64, "model": {"type": "model", "model": "edulis:block/cakes/blueberry/blueberry_cake_slice_3"}},
+      {"threshold": 65, "model": {"type": "model", "model": "edulis:block/cakes/blueberry/blueberry_cake_slice_4"}},
+      {"threshold": 66, "model": {"type": "model", "model": "edulis:block/cakes/blueberry/blueberry_cake_slice_5"}},
+      {"threshold": 67, "model": {"type": "model", "model": "edulis:block/cakes/blueberry/blueberry_cake_slice_6"}},
+
+      {"threshold": 68, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_full"}},
+      {"threshold": 69, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_1"}},
+      {"threshold": 70, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_2"}},
+      {"threshold": 71, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_3"}},
+      {"threshold": 72, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_4"}},
+      {"threshold": 73, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_5"}},
+      {"threshold": 74, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_6"}}
     ]
   }
 }
