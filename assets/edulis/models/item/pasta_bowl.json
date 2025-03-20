@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "edulis:item/blueberry"
+    "layer0": "edulis:item/pasta_bowl"
   }
 }

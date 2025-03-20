@@ -4,8 +4,8 @@
     "property": "custom_model_data",
     "fallback": { "type": "model", "model": "item/sweet_berries" },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/strawberry" } },
-      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/blueberry" } },
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/strawberries" } },
+      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/blueberries" } },
       { "threshold": 3, "model": { "type": "model", "model": "edulis:item/peas" } },
       { "threshold": 4, "model": { "type": "model", "model": "edulis:item/lemons" } },
       { "threshold": 5, "model": { "type": "model", "model": "edulis:item/limes" } },

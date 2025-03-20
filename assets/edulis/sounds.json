@@ -1,18 +1,10 @@
 {
     "block.stove.place": {
-        "sounds": [
-            {
-                "name": "edulis:block/growl"
-            }
-        ],
+        "sounds": [{"name": "edulis:block/growl"}],
         "subtitle": "Stove placed"
     },
     "block.stove.break": {
-        "sounds": [
-            {
-                "name": "edulis:block/growl"
-            }
-        ],
+        "sounds": [{"name": "edulis:block/growl"}],
         "subtitle": "Stove broken"
     }
 }

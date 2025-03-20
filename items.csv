@@ -162,6 +162,12 @@ pumpkinpie,cheesecake,2
 pumpkinpie,pizza,3
 pumpkinpie,whipped_cream_pie,4
 pumpkinpie,raw_pizza,5
+pumpkinpie,chicken_pot_pie,6
+pumpkinpie,golden_apple_pie,7
+pumpkinpie,meat_pie,8
+pumpkinpie,apple_pie,9
+pumpkinpie,blueberry_pie,10
+pumpkinpie,cherry_pie,11
 rotten_flesh,frog_leg_warm,1
 rotten_flesh,frog_leg_temperate,2
 rotten_flesh,frog_leg_cold,3
@@ -182,3 +188,4 @@ sweet_berries,limes,5
 sweet_berries,yoyle_berry,6
 sweet_berries,red_grapes,7
 sweet_berries,white_grapes,8
+,peach,
