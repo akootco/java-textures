@@ -14,7 +14,8 @@
       { "threshold": 8, "model": { "type": "model", "model": "edulis:item/meat_pie" } },
       { "threshold": 9, "model": { "type": "model", "model": "edulis:item/apple_pie" } },
       { "threshold": 10, "model": { "type": "model", "model": "edulis:item/blueberry_pie" } },
-      { "threshold": 11, "model": { "type": "model", "model": "edulis:item/cherry_pie" } }
+      { "threshold": 11, "model": { "type": "model", "model": "edulis:item/cherry_pie" } },
+      { "threshold": 12, "model": { "type": "model", "model": "edulis:item/strawberry_pie" } }
     ]
   }
 }
