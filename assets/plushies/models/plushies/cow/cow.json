@@ -1,0 +1,7 @@
+{
+  "parent": "plushies:plushies/plush",
+  "textures": {
+    "0": "plushies:item/plushies/cow",
+    "particle": "plushies:item/plushies/cow"
+  }
+}
