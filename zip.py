@@ -27,6 +27,6 @@ def zip_directory(src_dir, zip_name, exclude_folders=[], exclude_files=[]):
                 zipf.write(file_path, os.path.relpath(file_path, src_dir))
 
 folders_to_exclude = ['.git', ".idea"]
-files_to_exclude = ['zip.py', 'zip.bat', 'items.csv']
+files_to_exclude = ['zip.py', 'items.csv']
 
 zip_directory('./', 'food_pack.zip', folders_to_exclude, files_to_exclude)
