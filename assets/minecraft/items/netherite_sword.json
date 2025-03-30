@@ -4,6 +4,11 @@
     "property": "custom_model_data",
     "fallback": { "type": "model", "model": "item/netherite_sword" },
     "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/diamond_cleaver" } },
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/iron_cleaver" } },
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/chef_knife" } },
+      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/netherite_cleaver" } },
+
       {"threshold": 100, "model": {"type": "model", "model": "plushies:swords/akoot"}},
       {"threshold": 101, "model": {"type": "model", "model": "plushies:swords/akoot_og"}}
     ]
