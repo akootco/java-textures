@@ -74,6 +74,7 @@
       { "threshold": 69, "model": { "type": "model", "model": "edulis:item/super_burrito" } },
       { "threshold": 70, "model": { "type": "model", "model": "edulis:item/dough" } },
       { "threshold": 71, "model": { "type": "model", "model": "edulis:item/marshmallows" } },
+      { "threshold": 72, "model": { "type": "model", "model": "edulis:item/peach" } },
 
       { "threshold": 998, "model": { "type": "model", "model": "edulis:item/pumpkin_pie_slice"}},
       { "threshold": 999, "model": { "type": "model", "model": "edulis:item/cake_slice"}}
