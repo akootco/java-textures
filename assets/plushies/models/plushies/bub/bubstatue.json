@@ -1,0 +1,7 @@
+{
+  "parent": "plushies:plushies/plush_statue",
+  "textures": {
+    "0": "plushies:item/plushies/bub",
+    "particle": "plushies:item/plushies/bub"
+  }
+}
