@@ -4,7 +4,11 @@
     "property": "custom_model_data",
     "fallback": { "type": "model", "model": "item/music_disc_11" },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "plushies:discs/le_poisson_steve" } }
+      { "threshold": 1, "model": { "type": "model", "model": "plushies:discs/le_poisson_steve" } },
+      { "threshold": 2, "model": { "type": "model", "model": "plushies:discs/sneezy" } },
+      { "threshold": 3, "model": { "type": "model", "model": "plushies:discs/kahoot" } },
+      { "threshold": 4, "model": { "type": "model", "model": "plushies:discs/niamos" } },
+      { "threshold": 5, "model": { "type": "model", "model": "plushies:discs/shrimp" } }
     ]
   }
 }
