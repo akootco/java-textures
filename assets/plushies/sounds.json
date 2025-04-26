@@ -1,17 +1,37 @@
 {
-    "le_poisson_steve": {
-        "sounds": [{"name": "plushies:le_poisson_steve"}]
-    },
-    "sneezy": {
-        "sounds": [{"name": "plushies:sneezy"}]
-    },
-    "kahoot": {
-        "sounds": [{"name": "plushies:kahoot"}]
-    },
-    "niamos": {
-        "sounds": [{"name": "plushies:niamos"}]
-    },
-    "shrimp": {
-        "sounds": [{"name": "plushies:shrimp"}]
-    }
+  "kahoot": {
+    "sounds": [
+      {
+        "name": "plushies:kahoot"
+      }
+    ]
+  },
+  "le_poisson_steve": {
+    "sounds": [
+      {
+        "name": "plushies:le_poisson_steve"
+      }
+    ]
+  },
+  "niamos": {
+    "sounds": [
+      {
+        "name": "plushies:niamos"
+      }
+    ]
+  },
+  "shrimp": {
+    "sounds": [
+      {
+        "name": "plushies:shrimp"
+      }
+    ]
+  },
+  "sneezy": {
+    "sounds": [
+      {
+        "name": "plushies:sneezy"
+      }
+    ]
+  }
 }
