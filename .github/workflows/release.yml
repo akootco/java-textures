@@ -1,0 +1,56 @@
+name: Create java release
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Release pushed branch
+    runs-on: ubuntu-22.04
+    # only create a release if the commit message contains '!zip'
+    if: contains(github.event.head_commit.message, '!zip')
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run Python script
+        run: |
+          python zip.py
+
+      - name: Create zip archive
+        run: |
+          zip -r java.zip . -x ".*" "zip.py" "changes.md"
+
+      - name: Create release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          export TZ="America/Los_Angeles"
+          TAG=$(date +'%y-%m-%d_%H-%M')
+          HASH=$(shasum -a 1 java.zip | awk '{ print $1 }')
+          
+          echo -e "hash: \`$HASH\`\n$(cat changes.md)" > notes.md
+          
+          # Create the release
+          gh release create "$TAG" \
+            --repo="$GITHUB_REPOSITORY" \
+            --target master \
+            --title="Java pack" \
+            --notes-file notes.md \
+            java.zip
