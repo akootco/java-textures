@@ -2,35 +2,40 @@
   "kahoot": {
     "sounds": [
       {
-        "name": "plushies:kahoot"
+        "name": "plushies:kahoot",
+        "stream": true
       }
     ]
   },
   "le_poisson_steve": {
     "sounds": [
       {
-        "name": "plushies:le_poisson_steve"
+        "name": "plushies:le_poisson_steve",
+        "stream": true
       }
     ]
   },
   "niamos": {
     "sounds": [
       {
-        "name": "plushies:niamos"
+        "name": "plushies:niamos",
+        "stream": true
       }
     ]
   },
   "shrimp": {
     "sounds": [
       {
-        "name": "plushies:shrimp"
+        "name": "plushies:shrimp",
+        "stream": true
       }
     ]
   },
   "sneezy": {
     "sounds": [
       {
-        "name": "plushies:sneezy"
+        "name": "plushies:sneezy",
+        "stream": true
       }
     ]
   }
