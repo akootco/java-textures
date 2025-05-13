@@ -15,14 +15,6 @@
       }
     ]
   },
-  "niamos": {
-    "sounds": [
-      {
-        "name": "plushies:niamos",
-        "stream": true
-      }
-    ]
-  },
   "shrimp": {
     "sounds": [
       {

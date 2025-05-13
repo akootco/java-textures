@@ -146,7 +146,9 @@
       {"model": {  "type": "model",  "model": "plushies:plushies/rat/rat3"},"threshold": 219},
       {"model": {  "type": "model",  "model": "plushies:plushies/rat/rat3statue"},"threshold": 220},
       {"model": {  "type": "model",  "model": "plushies:plushies/bee/bee2"},"threshold": 221},
-      {"model": {  "type": "model",  "model": "plushies:plushies/bee/bee2statue"},"threshold": 222}
+      {"model": {  "type": "model",  "model": "plushies:plushies/bee/bee2statue"},"threshold": 222},
+      {"model": {  "type": "model",  "model": "plushies:plushies/muffin/muffin"},"threshold": 223},
+      {"model": {  "type": "model",  "model": "plushies:plushies/muffin/muffinstatue"},"threshold": 224}
     ]
   }
 }
