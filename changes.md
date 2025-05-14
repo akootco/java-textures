@@ -3,6 +3,4 @@
 
 ---
 
-- lowered volume on discs
-- removed niamos disc
-- added starrize plushie
+- YummieMeow plushie
