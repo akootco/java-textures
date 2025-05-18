@@ -3,4 +3,4 @@
 
 ---
 
-- YummieMeow plushie
+- Fixed food texture mapping
