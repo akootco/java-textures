@@ -1,7 +1,0 @@
-{
-  "parent": "plushies:plushies/plush_statue",
-  "textures": {
-    "0": "plushies:item/plushies/kestrael",
-    "particle": "plushies:item/plushies/kestrael"
-  }
-}

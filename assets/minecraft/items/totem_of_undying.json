@@ -133,12 +133,8 @@
       {"model": {  "type": "model",  "model": "plushies:plushies/special/lambstatue"},"threshold": 206},
       {"model": {  "type": "model",  "model": "plushies:plushies/special/choso"},"threshold": 207},
       {"model": {  "type": "model",  "model": "plushies:plushies/special/chosostatue"},"threshold": 208},
-      {"model": {  "type": "model",  "model": "plushies:plushies/kestrael/kestrael"},"threshold": 209},
-      {"model": {  "type": "model",  "model": "plushies:plushies/kestrael/kestraelstatue"},"threshold": 210},
       {"model": {  "type": "model",  "model": "plushies:plushies/eva/eva"},"threshold": 211},
       {"model": {  "type": "model",  "model": "plushies:plushies/eva/evastatue"},"threshold": 212},
-      {"model": {  "type": "model",  "model": "plushies:plushies/noah/noah"},"threshold": 213},
-      {"model": {  "type": "model",  "model": "plushies:plushies/noah/noahstatue"},"threshold": 214},
       {"model": {  "type": "model",  "model": "plushies:plushies/bill/bill"},"threshold": 215},
       {"model": {  "type": "model",  "model": "plushies:plushies/bill/billstatue"},"threshold": 216},
       {"model": {  "type": "model",  "model": "plushies:plushies/kirbo/kirbo"},"threshold": 217},
@@ -150,7 +146,11 @@
       {"model": {  "type": "model",  "model": "plushies:plushies/muffin/muffin"},"threshold": 223},
       {"model": {  "type": "model",  "model": "plushies:plushies/muffin/muffinstatue"},"threshold": 224},
       {"model": {  "type": "model",  "model": "plushies:plushies/yummie/yummie"},"threshold": 225},
-      {"model": {  "type": "model",  "model": "plushies:plushies/yummie/yummiestatue"},"threshold": 226}
+      {"model": {  "type": "model",  "model": "plushies:plushies/yummie/yummiestatue"},"threshold": 226},
+      {"model": {  "type": "model",  "model": "plushies:plushies/dad/dad"},"threshold": 227},
+      {"model": {  "type": "model",  "model": "plushies:plushies/dad/dadstatue"},"threshold": 228},
+      {"model": {  "type": "model",  "model": "plushies:plushies/shadow/shadow"},"threshold": 229},
+      {"model": {  "type": "model",  "model": "plushies:plushies/shadow/shadowstatue"},"threshold": 230}
     ]
   }
 }
