@@ -1,0 +1,12 @@
+{
+  "parent": "plushies:items/laptop",
+  "textures": {
+    "trackpad": "block/black_concrete_powder",
+    "logo": "plushies:item/laptop/logo",
+    "keys": "block/purple_concrete_powder",
+    "laptop": "block/light_blue_terracotta",
+    "screen": "plushies:item/laptop/screen",
+    "stickers": "item/blank",
+    "particle": "block/light_gray_concrete"
+  }
+}

@@ -4,7 +4,9 @@
 		"property": "custom_model_data",
 		"fallback": { "type": "model", "model": "item/popped_chorus_fruit" },
 		"entries": [
-			{"threshold": 1, "model": {"type": "model", "model": "plushies:hats/party_hat"}}
+			{"threshold": 1, "model": {"type": "model", "model": "plushies:hats/party_hat"}},
+			{"threshold": 2, "model": {"type": "model", "model": "plushies:items/laptop"}},
+			{"threshold": 3, "model": {"type": "model", "model": "plushies:items/laptop2"}}
 		]
 	}
 }
