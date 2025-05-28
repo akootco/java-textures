@@ -7,6 +7,7 @@
 		"keys": "block/black_concrete_powder",
 		"laptop": "block/netherite_block",
 		"screen": "block/nether_portal",
+		"screen_fix": "block/black_concrete",
 		"stickers": "item/blank"
 	},
 	"elements": [
@@ -39,8 +40,8 @@
 		},
 		{
 			"name": "screen",
-			"from": [-4.55, 3.4, -10.1],
-			"to": [-3.85, 23.4, 26.1],
+			"from": [-4.54, 3.4, -10.1],
+			"to": [-3.84, 23.4, 26.1],
 			"light_emission": 15,
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [-3.85, 5.4, 0]},
 			"faces": {
@@ -48,13 +49,13 @@
 			}
 		},
 		{
-			"name": "screen_back",
-			"from": [-4.8, 3.4, -10.1],
-			"to": [-4.1, 23.4, 26.1],
+			"name": "screen_fix",
+			"from": [-4.55, 3.4, -10.1],
+			"to": [-3.85, 23.4, 26.1],
 			"light_emission": 15,
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [-4.1, 5.4, 0]},
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [-3.85, 5.4, 0]},
 			"faces": {
-				"east": {"uv": [0.5, 1, 15.41667, 15], "texture": "#laptop"}
+				"east": {"uv": [0.5, 1, 15.41667, 15], "texture": "#screen_fix"}
 			}
 		},
 		{

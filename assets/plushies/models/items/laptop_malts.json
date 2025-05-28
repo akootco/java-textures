@@ -3,6 +3,7 @@
   "textures": {
     "keys": "block/amethyst_block",
     "laptop": "block/netherite_block",
-    "stickers": "plushies:item/laptop/malts"
+    "stickers": "plushies:item/laptop/malts",
+    "screen": "block/campfire_fire"
   }
 }
