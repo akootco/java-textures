@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"particle": "block/light_gray_concrete",
 		"trackpad": "block/light_gray_concrete",
 		"logo": "plushies:item/laptop/logo",
 		"keys": "block/black_concrete_powder",
-		"laptop": "block/cyan_terracotta",
-		"screen": "plushies:item/laptop/screen",
-		"stickers": "item/blank",
-		"particle": "block/light_gray_concrete"
+		"laptop": "block/netherite_block",
+		"screen": "block/nether_portal",
+		"stickers": "item/blank"
 	},
 	"elements": [
 		{
@@ -38,10 +38,56 @@
 			}
 		},
 		{
+			"name": "screen",
+			"from": [-4.55, 3.4, -10.1],
+			"to": [-3.85, 23.4, 26.1],
+			"light_emission": 15,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [-3.85, 5.4, 0]},
+			"faces": {
+				"east": {"uv": [0.5, 1, 15.41667, 15], "texture": "#screen"}
+			}
+		},
+		{
+			"name": "screen_back",
+			"from": [-4.8, 3.4, -10.1],
+			"to": [-4.1, 23.4, 26.1],
+			"light_emission": 15,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [-4.1, 5.4, 0]},
+			"faces": {
+				"east": {"uv": [0.5, 1, 15.41667, 15], "texture": "#laptop"}
+			}
+		},
+		{
+			"name": "trackpad",
+			"from": [12.6, 1, 2.6],
+			"to": [19.1, 2.1, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.6, 1, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 6.5, 1.1], "texture": "#trackpad"},
+				"east": {"uv": [0, 0, 11.4, 1.1], "texture": "#trackpad"},
+				"south": {"uv": [0, 0, 6.5, 1.1], "texture": "#trackpad"},
+				"west": {"uv": [0, 0, 11.4, 1.1], "texture": "#trackpad"},
+				"up": {"uv": [0, 0, 6.5, 11.4], "texture": "#trackpad"},
+				"down": {"uv": [0, 0, 6.5, 11.4], "texture": "#trackpad"}
+			}
+		},
+		{
+			"name": "logo",
+			"from": [-8.75281, 9.25298, 6],
+			"to": [-8.75281, 14.25298, 11],
+			"light_emission": 15,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [-8.75281, 11.75298, 8.5]},
+			"faces": {
+				"west": {"uv": [0, 0, 16, 16], "texture": "#logo"}
+			}
+		},
+		{
 			"from": [-12.1, -1.8, -11],
 			"to": [-12.1, 21.5, 27],
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [-14.1, 19.5, -11]},
-			"faces": {"west": {"uv": [0, 0, 16, 16], "texture": "#stickers"}}
+			"faces": {
+				"west": {"uv": [0, 0, 16, 16], "texture": "#stickers"}
+			}
 		},
 		{
 			"from": [0, 0.3, 22.75],
@@ -896,36 +942,6 @@
 				"up": {"uv": [0, 0, 2, 2], "texture": "#keys"},
 				"down": {"uv": [0, 0, 2, 2], "texture": "#keys"}
 			}
-		},
-		{
-			"name": "screen",
-			"from": [-4.55, 3.4, -10.1],
-			"to": [-3.85, 23.4, 26.1],
-			"light_emission": 15,
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [-3.85, 5.4, 0]},
-			"faces": {"east": {"uv": [0.5, 1, 15.41667, 15], "texture": "#screen"}}
-		},
-		{
-			"name": "trackpad",
-			"from": [12.6, 1, 2.6],
-			"to": [19.1, 2.1, 14],
-			"rotation": {"angle": 0, "axis": "y", "origin": [15.6, 1, 7]},
-			"faces": {
-				"north": {"uv": [0, 0, 6.5, 1.1], "texture": "#trackpad"},
-				"east": {"uv": [0, 0, 11.4, 1.1], "texture": "#trackpad"},
-				"south": {"uv": [0, 0, 6.5, 1.1], "texture": "#trackpad"},
-				"west": {"uv": [0, 0, 11.4, 1.1], "texture": "#trackpad"},
-				"up": {"uv": [0, 0, 6.5, 11.4], "texture": "#trackpad"},
-				"down": {"uv": [0, 0, 6.5, 11.4], "texture": "#trackpad"}
-			}
-		},
-		{
-			"name": "logo",
-			"from": [-8.75281, 9.25298, 6],
-			"to": [-8.75281, 14.25298, 11],
-			"light_emission": 15,
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [-8.75281, 11.75298, 8.5]},
-			"faces": {"west": {"uv": [0, 0, 16, 16], "texture": "#logo"}}
 		}
 	],
 	"display": {
@@ -971,20 +987,22 @@
 		0,
 		1,
 		{
+			"name": "features",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2, 3, 4, 5]
+		},
+		{
 			"name": "stickers",
 			"origin": [-6.1, 5.4, -3],
 			"color": 0,
-			"children": [2]
+			"children": [6]
 		},
 		{
 			"name": "keys",
 			"origin": [0, 0, 0],
 			"color": 0,
 			"children": [
-				3,
-				4,
-				5,
-				6,
 				7,
 				8,
 				9,
@@ -1041,14 +1059,12 @@
 				60,
 				61,
 				62,
-				63
+				63,
+				64,
+				65,
+				66,
+				67
 			]
-		},
-		{
-			"name": "features",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [64, 65, 66]
 		}
 	]
 }

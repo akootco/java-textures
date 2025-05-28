@@ -1,0 +1,6 @@
+{
+  "parent": "plushies:items/laptop",
+  "textures": {
+    "stickers": "plushies:item/laptop/akoot"
+  }
+}
