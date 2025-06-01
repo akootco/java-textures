@@ -1,5 +1,5 @@
 {
-  "parent": "plushies:items/laptop",
+  "parent": "plushies:laptop/laptop",
   "textures": {
     "keys": "block/amethyst_block",
     "laptop": "block/netherite_block",
