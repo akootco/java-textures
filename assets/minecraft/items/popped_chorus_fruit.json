@@ -8,7 +8,8 @@
 			{"threshold": 2, "model": {"type": "model", "model": "plushies:laptop/laptop"}},
 			{"threshold": 3, "model": {"type": "model", "model": "plushies:laptop/malts"}},
 			{"threshold": 4, "model": {"type": "model", "model": "plushies:laptop/akoot"}},
-			{"threshold": 5, "model": {"type": "model", "model": "plushies:laptop/imac"}}
+			{"threshold": 5, "model": {"type": "model", "model": "plushies:laptop/imac"}},
+			{"threshold": 6, "model": {"type": "model", "model": "plushies:laptop/moose"}}
 		]
 	}
 }

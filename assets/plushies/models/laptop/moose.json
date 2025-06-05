@@ -1,0 +1,10 @@
+{
+  "parent": "plushies:laptop/laptop",
+  "textures": {
+    "stickers": "plushies:item/laptop/moose",
+    "screen": "entity/end_portal",
+    "laptop": "block/black_concrete_powder",
+    "keys": "block/honey_block_side",
+    "trackpad": "block/gray_concrete"
+  }
+}

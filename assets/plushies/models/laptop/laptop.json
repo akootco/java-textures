@@ -8,7 +8,7 @@
 		"laptop": "block/netherite_block",
 		"screen": "block/nether_portal",
 		"screen_fix": "block/black_concrete",
-		"stickers": "item/blank"
+		"stickers": "plushies:item/blank"
 	},
 	"elements": [
 		{

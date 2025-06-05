@@ -3,5 +3,5 @@
 
 ---
 
-- added Heytiredimdad and Shadowmanu8 plushies
-- fixed cake display not mapping correctly on the north side
+- boxing gloves
+- more laptops
