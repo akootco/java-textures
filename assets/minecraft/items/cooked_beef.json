@@ -28,7 +28,8 @@
       { "threshold": 22, "model": { "type": "model", "model": "edulis:item/raw_pizza" } },
       { "threshold": 23, "model": { "type": "model", "model": "edulis:item/meat_pie" } },
       { "threshold": 24, "model": { "type": "model", "model": "edulis:item/pizza_slice"}},
-      { "threshold": 25, "model": { "type": "model", "model": "edulis:item/pizza" } }
+      { "threshold": 25, "model": { "type": "model", "model": "edulis:item/pizza" } },
+      { "threshold": 26, "model": { "type": "model", "model": "edulis:item/empanada" } }
     ]
   }
 }
