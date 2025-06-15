@@ -93,7 +93,23 @@
       {"threshold": 71, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_3"}},
       {"threshold": 72, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_4"}},
       {"threshold": 73, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_5"}},
-      {"threshold": 74, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_6"}}
+      {"threshold": 74, "model": {"type": "model", "model": "edulis:block/cakes/lemon/lemon_cake_slice_6"}},
+
+      {"threshold": 75, "model": {"type": "model", "model": "edulis:block/cakes/yoyle/yoyle_cake_full"}},
+      {"threshold": 76, "model": {"type": "model", "model": "edulis:block/cakes/yoyle/yoyle_cake_slice_1"}},
+      {"threshold": 77, "model": {"type": "model", "model": "edulis:block/cakes/yoyle/yoyle_cake_slice_2"}},
+      {"threshold": 78, "model": {"type": "model", "model": "edulis:block/cakes/yoyle/yoyle_cake_slice_3"}},
+      {"threshold": 79, "model": {"type": "model", "model": "edulis:block/cakes/yoyle/yoyle_cake_slice_4"}},
+      {"threshold": 80, "model": {"type": "model", "model": "edulis:block/cakes/yoyle/yoyle_cake_slice_5"}},
+      {"threshold": 81, "model": {"type": "model", "model": "edulis:block/cakes/yoyle/yoyle_cake_slice_6"}},
+
+      {"threshold": 81, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_full"}},
+      {"threshold": 83, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_1"}},
+      {"threshold": 84, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_2"}},
+      {"threshold": 85, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_3"}},
+      {"threshold": 86, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_4"}},
+      {"threshold": 87, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_5"}},
+      {"threshold": 88, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_6"}}
     ]
   }
 }
