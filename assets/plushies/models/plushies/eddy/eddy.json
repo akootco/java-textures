@@ -1,7 +1,1 @@
-{
-  "parent": "plushies:plushies/plush",
-  "textures": {
-    "0": "plushies:item/plushies/eddy",
-    "particle": "plushies:item/plushies/eddy"
-  }
-}
+{"parent": "plushies:plushies/plush", "textures": {"0": "plushies:item/plushies/eddy"}}

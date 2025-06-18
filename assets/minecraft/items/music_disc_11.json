@@ -7,7 +7,10 @@
       { "threshold": 1, "model": { "type": "model", "model": "plushies:discs/le_poisson_steve" } },
       { "threshold": 2, "model": { "type": "model", "model": "plushies:discs/sneezy" } },
       { "threshold": 3, "model": { "type": "model", "model": "plushies:discs/kahoot" } },
-      { "threshold": 5, "model": { "type": "model", "model": "plushies:discs/shrimp" } }
+      { "threshold": 5, "model": { "type": "model", "model": "plushies:discs/shrimp" } },
+      { "threshold": 6, "model": { "type": "model", "model": "plushies:discs/jp9" } },
+      { "threshold": 7, "model": { "type": "model", "model": "plushies:discs/well" } },
+      { "threshold": 8, "model": { "type": "model", "model": "plushies:discs/limerence" } }
     ]
   }
 }

@@ -1,7 +1,6 @@
 {
-  "parent": "plushies:plushies/plush_statue",
-  "textures": {
-    "0": "plushies:item/plushies/mayzface",
-    "particle": "plushies:item/plushies/mayzface"
-  }
+"parent": "plushies:plushies/plush_statue",
+"textures": {
+"0": "plushies:item/plushies/mayzface"
+}
 }

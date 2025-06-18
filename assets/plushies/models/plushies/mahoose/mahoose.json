@@ -1,7 +1,6 @@
 {
-  "parent": "plushies:plushies/plush",
-  "textures": {
-    "0": "plushies:item/plushies/mahoose",
-    "particle": "plushies:item/plushies/mahoose"
-  }
+"parent": "plushies:plushies/plush",
+"textures": {
+"0": "plushies:item/plushies/mahoose"
+}
 }

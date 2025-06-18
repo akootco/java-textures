@@ -3,5 +3,4 @@
 
 ---
 
-- boxing gloves
-- more laptops
+- 3D MACE (REAL)

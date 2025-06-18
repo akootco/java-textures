@@ -1,7 +1,6 @@
 {
-  "parent": "plushies:plushies/plush",
-  "textures": {
-    "0": "plushies:item/plushies/bobafett",
-    "particle": "plushies:item/plushies/bobafett"
-  }
+"parent": "plushies:plushies/plush",
+"textures": {
+"0": "plushies:item/plushies/bobafett"
+}
 }
