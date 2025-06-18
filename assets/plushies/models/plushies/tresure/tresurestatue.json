@@ -1,7 +1,6 @@
 {
-  "parent": "plushies:plushies/plush_statue",
-  "textures": {
-    "0": "plushies:item/plushies/tresure",
-    "particle": "plushies:item/plushies/treasure"
-  }
+"parent": "plushies:plushies/plush_statue",
+"textures": {
+"0": "plushies:item/plushies/tresure"
+}
 }

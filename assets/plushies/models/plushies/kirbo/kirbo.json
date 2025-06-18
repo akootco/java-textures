@@ -1,8 +1,1 @@
-{
-  "parent": "plushies:plushies/plush",
-  "textures": {
-    "0": "plushies:item/plushies/kirbo",
-    "particle": "plushies:item/plushies/kirbo"
-
-  }
-}
+{"parent": "plushies:plushies/plush", "textures": {"0": "plushies:item/plushies/kirbo"}}

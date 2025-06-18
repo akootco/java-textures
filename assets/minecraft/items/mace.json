@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/mace" },
+    "entries": [
+      { "threshold": 999, "model": { "type": "model", "model": "plushies:mace_3d" } }
+    ]
+  }
+}

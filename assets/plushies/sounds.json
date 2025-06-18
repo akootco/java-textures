@@ -1,4 +1,28 @@
 {
+  "well": {
+    "sounds": [
+      {
+        "name": "plushies:well",
+        "stream": true
+      }
+    ]
+  },
+  "limerence": {
+    "sounds": [
+      {
+        "name": "plushies:limerence",
+        "stream": true
+      }
+    ]
+  },
+  "jp9": {
+    "sounds": [
+      {
+        "name": "plushies:jp9",
+        "stream": true
+      }
+    ]
+  },
   "kahoot": {
     "sounds": [
       {

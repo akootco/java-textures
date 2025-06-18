@@ -1,7 +1,6 @@
 {
-  "parent": "plushies:plushies/plush_statue",
-  "textures": {
-    "0": "plushies:item/plushies/finalmilwaukee",
-    "particle": "plushies:item/plushies/finalmilwaukee"
-  }
+"parent": "plushies:plushies/plush_statue",
+"textures": {
+"0": "plushies:item/plushies/finalmilwaukee"
+}
 }

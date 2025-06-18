@@ -2,7 +2,7 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {"type": "model", "model": "block/barrier"},
+    "fallback": {"type": "model", "model": "item/barrier"},
     "entries": [
       {"threshold": 1, "model": {"type": "model", "model": "edulis:block/berries/blueberries_stage2"}},
       {"threshold": 2, "model": {"type": "model", "model": "edulis:block/berries/blueberries_stage3"}},
