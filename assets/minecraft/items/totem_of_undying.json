@@ -150,7 +150,9 @@
       {"model": {  "type": "model",  "model": "plushies:plushies/dad/dad"},"threshold": 227},
       {"model": {  "type": "model",  "model": "plushies:plushies/dad/dadstatue"},"threshold": 228},
       {"model": {  "type": "model",  "model": "plushies:plushies/shadow/shadow"},"threshold": 229},
-      {"model": {  "type": "model",  "model": "plushies:plushies/shadow/shadowstatue"},"threshold": 230}
+      {"model": {  "type": "model",  "model": "plushies:plushies/shadow/shadowstatue"},"threshold": 230},
+      {"model": {  "type": "model",  "model": "plushies:plushies/entity/entity"},"threshold": 231},
+      {"model": {  "type": "model",  "model": "plushies:plushies/entity/entitystatue"},"threshold": 232}
     ]
   }
 }

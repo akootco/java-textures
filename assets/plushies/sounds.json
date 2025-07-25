@@ -1,20 +1,4 @@
 {
-  "well": {
-    "sounds": [
-      {
-        "name": "plushies:well",
-        "stream": true
-      }
-    ]
-  },
-  "limerence": {
-    "sounds": [
-      {
-        "name": "plushies:limerence",
-        "stream": true
-      }
-    ]
-  },
   "jp9": {
     "sounds": [
       {
@@ -39,6 +23,14 @@
       }
     ]
   },
+  "limerence": {
+    "sounds": [
+      {
+        "name": "plushies:limerence",
+        "stream": true
+      }
+    ]
+  },
   "shrimp": {
     "sounds": [
       {
@@ -51,6 +43,14 @@
     "sounds": [
       {
         "name": "plushies:sneezy",
+        "stream": true
+      }
+    ]
+  },
+  "well": {
+    "sounds": [
+      {
+        "name": "plushies:well",
         "stream": true
       }
     ]

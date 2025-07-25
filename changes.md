@@ -3,4 +3,4 @@
 
 ---
 
-- 3D MACE (REAL)
+- add entity plushie
