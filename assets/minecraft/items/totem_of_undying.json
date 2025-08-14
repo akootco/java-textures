@@ -152,7 +152,11 @@
       {"model": {  "type": "model",  "model": "plushies:plushies/shadow/shadow"},"threshold": 229},
       {"model": {  "type": "model",  "model": "plushies:plushies/shadow/shadowstatue"},"threshold": 230},
       {"model": {  "type": "model",  "model": "plushies:plushies/entity/entity"},"threshold": 231},
-      {"model": {  "type": "model",  "model": "plushies:plushies/entity/entitystatue"},"threshold": 232}
+      {"model": {  "type": "model",  "model": "plushies:plushies/entity/entitystatue"},"threshold": 232},
+      {"model": {  "type": "model",  "model": "plushies:plushies/dad/dad2"},"threshold": 233},
+      {"model": {  "type": "model",  "model": "plushies:plushies/dad/dad2statue"},"threshold": 234},
+      {"model": {  "type": "model",  "model": "plushies:plushies/dad/dad3"},"threshold": 235},
+      {"model": {  "type": "model",  "model": "plushies:plushies/dad/dad3statue"},"threshold": 236}
     ]
   }
 }
