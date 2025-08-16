@@ -33,6 +33,8 @@
       {"model": {  "type": "model",  "model": "plushies:plushies/ipa/ipa2statue"},"threshold": 26},
       {"model": {  "type": "model",  "model": "plushies:plushies/ipa/ipa3"},"threshold": 27},
       {"model": {  "type": "model",  "model": "plushies:plushies/ipa/ipa3statue"},"threshold": 28},
+      {"model": {  "type": "model",  "model": "plushies:plushies/jamie/jamie"},"threshold": 29},
+      {"model": {  "type": "model",  "model": "plushies:plushies/jamie/jamiestatue"},"threshold": 30},
       {"model": {  "type": "model",  "model": "plushies:plushies/joe/joe"},"threshold": 31},
       {"model": {  "type": "model",  "model": "plushies:plushies/joe/joestatue"},"threshold": 32},
       {"model": {  "type": "model",  "model": "plushies:plushies/jozef/jozef"},"threshold": 33},
@@ -65,6 +67,14 @@
       {"model": {  "type": "model",  "model": "plushies:plushies/joe/joe4statue"},"threshold": 60},
       {"model": {  "type": "model",  "model": "plushies:plushies/bread/bread2"},"threshold": 63},
       {"model": {  "type": "model",  "model": "plushies:plushies/bread/bread2statue"},"threshold": 64},
+
+      {"model": {  "type": "model",  "model": "plushies:plushies/jamie/jamie2"},"threshold": 65},
+      {"model": {  "type": "model",  "model": "plushies:plushies/jamie/jamie2statue"},"threshold": 66},
+      {"model": {  "type": "model",  "model": "plushies:plushies/jamie/jamie3"},"threshold": 67},
+      {"model": {  "type": "model",  "model": "plushies:plushies/jamie/jamie3statue"},"threshold": 68},
+      {"model": {  "type": "model",  "model": "plushies:plushies/jamie/jamie4"},"threshold": 69},
+      {"model": {  "type": "model",  "model": "plushies:plushies/jamie/jamie4statue"},"threshold": 70},
+
       {"model": {  "type": "model",  "model": "plushies:plushies/mahoose/mahoose4"},"threshold": 71},
       {"model": {  "type": "model",  "model": "plushies:plushies/mahoose/mahoose4statue"},"threshold": 72},
       {"model": {  "type": "model",  "model": "plushies:plushies/special/wookie"},"threshold": 75},
