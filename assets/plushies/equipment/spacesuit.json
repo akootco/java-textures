@@ -1,0 +1,6 @@
+{
+  "layers": {
+    "humanoid": [{"texture": "plushies:spacesuit"}],
+    "humanoid_leggings": [{"texture": "plushies:spacesuit"}]
+  }
+}
