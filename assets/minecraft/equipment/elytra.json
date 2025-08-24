@@ -1,1 +1,8 @@
-{"layers": {"wings": [{"dyeable": {"color_when_undyed": 7440271 }, "texture": "elytra"}]}}
+{
+  "layers": {
+    "wings": [
+      {"texture": "elytra", "dyeable": {"color_when_undyed": -1},"use_player_texture": true},
+      {"texture": "dyed_elytra", "dyeable": {}, "use_player_texture": false}
+    ]
+  }
+}
