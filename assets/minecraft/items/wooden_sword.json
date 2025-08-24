@@ -1,0 +1,18 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/wooden_sword"
+    },
+    "cases": [
+      {"when": "kunai.wooden", "model": {"type": "model", "model": "plushies:swords/wood_kunai"}},
+      {"when": "kunai.stone", "model": {"type": "model", "model": "plushies:swords/stone_kunai"}},
+      {"when": "kunai.golden", "model": {"type": "model", "model": "plushies:swords/gold_kunai"}},
+      {"when": "kunai.iron", "model": {"type": "model", "model": "plushies:swords/iron_kunai"}},
+      {"when": "kunai.diamond", "model": {"type": "model", "model": "plushies:swords/diamond_kunai"}},
+      {"when": "kunai.netherite", "model": {"type": "model", "model": "plushies:swords/netherite_kunai"}}
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "plushies:item/swords/iron_kunai",
+    "particle": "plushies:item/swords/iron_kunai"
+  }
+}
