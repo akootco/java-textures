@@ -3,5 +3,5 @@
 
 ---
 
-- DYEABLE ELYTRA
-- KUNAIS
+- Dyed elytra will now show cape texture if undyed
+- broken elytra item texture now shows correctly

@@ -1,1 +1,15 @@
-{"model": {"type": "model", "model": "item/elytra", "tints": [{ "type": "minecraft:dye", "default": -1 }]}}
+{
+  "model": {
+    "type": "condition", "property": "has_component", "component": "dyed_color",
+    "on_true": {
+      "type": "condition", "property": "broken",
+      "on_true": {"type": "model", "model": "plushies:elytra_broken", "tints": [{"type": "dye", "default": -1}]},
+      "on_false": {"type": "model", "model": "plushies:elytra", "tints": [{"type": "dye", "default": -1}]}
+    },
+    "on_false": {
+      "type": "condition", "property": "broken",
+      "on_true": {"type": "model", "model": "item/elytra_broken"},
+      "on_false": {"type": "model", "model": "item/elytra"}
+    }
+  }
+}
