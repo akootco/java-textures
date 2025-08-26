@@ -109,7 +109,9 @@
       {"threshold": 85, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_3"}},
       {"threshold": 86, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_4"}},
       {"threshold": 87, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_5"}},
-      {"threshold": 88, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_6"}}
+      {"threshold": 88, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_6"}},
+
+      {"threshold": 89, "model": {"type": "model", "model": "plushies:block/atm"}}
     ]
   }
 }
