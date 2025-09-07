@@ -2,7 +2,7 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {"type": "model", "model": "item/barrier"},
+    "fallback": {"type": "model", "model": "block/air"},
     "entries": [
       {"threshold": 1, "model": {"type": "model", "model": "edulis:block/berries/blueberries_stage2"}},
       {"threshold": 2, "model": {"type": "model", "model": "edulis:block/berries/blueberries_stage3"}},
@@ -103,13 +103,15 @@
       {"threshold": 80, "model": {"type": "model", "model": "edulis:block/cakes/yoyle/yoyle_cake_slice_5"}},
       {"threshold": 81, "model": {"type": "model", "model": "edulis:block/cakes/yoyle/yoyle_cake_slice_6"}},
 
-      {"threshold": 81, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_full"}},
+      {"threshold": 82, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_full"}},
       {"threshold": 83, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_1"}},
       {"threshold": 84, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_2"}},
       {"threshold": 85, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_3"}},
       {"threshold": 86, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_4"}},
       {"threshold": 87, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_5"}},
-      {"threshold": 88, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_6"}}
+      {"threshold": 88, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_6"}},
+
+      {"threshold": 89, "model": {"type": "model", "model": "plushies:block/atm"}}
     ]
   }
 }

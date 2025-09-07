@@ -3,5 +3,6 @@
 
 ---
 
-- Dyed elytra will now show cape texture if undyed
-- broken elytra item texture now shows correctly
+- added blackberry plushies
+- +1 kirbo plushie
+- erm, added air overrides for custom blocks ()
