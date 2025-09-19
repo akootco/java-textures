@@ -1,58 +1,31 @@
 {
   "jp9": {
-    "sounds": [
-      {
-        "name": "plushies:jp9",
-        "stream": true
-      }
-    ]
+    "sounds": [{"name": "plushies:jp9", "stream": true}]
   },
   "kahoot": {
-    "sounds": [
-      {
-        "name": "plushies:kahoot",
-        "stream": true
-      }
-    ]
+    "sounds": [{"name": "plushies:kahoot", "stream": true}]
   },
   "le_poisson_steve": {
-    "sounds": [
-      {
-        "name": "plushies:le_poisson_steve",
-        "stream": true
-      }
-    ]
+    "sounds": [{"name": "plushies:le_poisson_steve", "stream": true}]
   },
   "limerence": {
-    "sounds": [
-      {
-        "name": "plushies:limerence",
-        "stream": true
-      }
-    ]
+    "sounds": [{"name": "plushies:limerence", "stream": true}]
   },
   "shrimp": {
-    "sounds": [
-      {
-        "name": "plushies:shrimp",
-        "stream": true
-      }
-    ]
+    "sounds": [{"name": "plushies:shrimp", "stream": true}]
   },
   "sneezy": {
-    "sounds": [
-      {
-        "name": "plushies:sneezy",
-        "stream": true
-      }
-    ]
+    "sounds": [{"name": "plushies:sneezy", "stream": true}]
   },
   "well": {
+    "sounds": [{"name": "plushies:well", "stream": true}]
+  },
+  "squeak": {
+    "subtitle": "Squeak",
     "sounds": [
-      {
-        "name": "plushies:well",
-        "stream": true
-      }
+      {"name": "plushies:squeak/1", "weight": 2},
+      {"name": "plushies:squeak/2", "weight": 1},
+      {"name": "plushies:squeak/3", "weight": 1}
     ]
   }
 }
