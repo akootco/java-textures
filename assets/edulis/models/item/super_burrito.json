@@ -1,28 +1,41 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "edulis:item/super_burrito"
-  },
-"display": {
-    "thirdperson_righthand": {
-      "scale": [2, 2, 2],
-      "translation": [0, 8, -2],
-      "rotation": [0, 90, 45]
-    },
-    "thirdperson_lefthand": {
-      "scale": [2, 2, 2],
-      "translation": [0, 8, -2],
-      "rotation": [0, -90, -45]
-    },
-    "firstperson_righthand": {
-      "scale": [1.5, 1.5, 1.5],
-      "translation": [0, 2, 0],
-      "rotation": [0, -90, 45]
-    },
-    "firstperson_lefthand": {
-      "scale": [1.5, 1.5, 1.5],
-      "translation": [0, 2, 0],
-      "rotation": [0, 90, -45]
-    }
-  }
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "edulis:item/super_burrito"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 45],
+			"translation": [0, 8, -2],
+			"scale": [2, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -45],
+			"translation": [0, 8, -2],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 2, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 2, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"ground": {
+			"translation": [0, 9, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [0, 24, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"scale": [2, 2, 2]
+		}
+	}
 }
