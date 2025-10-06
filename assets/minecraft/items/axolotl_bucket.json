@@ -1,0 +1,14 @@
+{
+  "model": {
+    "fallback": {"type": "minecraft:model", "model": "minecraft:item/axolotl_bucket"},
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:axolotl/variant",
+    "cases": [
+      {"when": "wild", "model": {"type": "minecraft:model", "model": "plushies:axo/wild"}},
+      {"when": "gold", "model": {"type": "minecraft:model", "model": "plushies:axo/gold"}},
+      {"when": "cyan", "model": {"type": "minecraft:model", "model": "plushies:axo/cyan"}},
+      {"when": "blue", "model": {"type": "minecraft:model", "model": "plushies:axo/blue"}}
+    ]
+  }
+}
