@@ -1,68 +1,1782 @@
 {
-  "model": { "type": "range_dispatch",
+  "model": {
+    "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": { "type": "model", "model": "item/baked_potato"},
+    "fallback": {
+      "type": "model",
+      "model": "item/baked_potato"
+    },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/strawberry_short_cake_slice"}},
-      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/blueberry_cake_slice"}},
-      { "threshold": 3, "model": { "type": "model", "model": "edulis:item/carrot_cake_slice"}},
-      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/red_velvet_cake_slice"}},
-      { "threshold": 5, "model": { "type": "model", "model": "edulis:item/fruit_cake_slice"}},
-      { "threshold": 6, "model": { "type": "model", "model": "edulis:item/chocolate_cake_slice"}},
-      { "threshold": 7, "model": { "type": "model", "model": "edulis:item/german_choc_cake_slice"}},
-      { "threshold": 8, "model": { "type": "model", "model": "edulis:item/yoyle_cake_slice"}},
-      { "threshold": 9, "model": { "type": "model", "model": "edulis:item/lemon_cake_slice"}},
-      { "threshold": 10, "model": { "type": "model", "model": "edulis:item/keylime_pie_slice"}},
-      { "threshold": 11, "model": { "type": "model", "model": "edulis:item/cheesecake_slice"}},
-      { "threshold": 13, "model": { "type": "model", "model": "edulis:item/whipped_cream_slice"}},
-      { "threshold": 14, "model": { "type": "model", "model": "edulis:item/birthday_cake_slice"}},
-      { "threshold": 15, "model": { "type": "model", "model": "edulis:item/chocolate"}},
-      { "threshold": 16, "model": { "type": "model", "model": "edulis:item/white_chocolate"}},
-      { "threshold": 17, "model": { "type": "model", "model": "edulis:item/dark_chocolate"}},
-      { "threshold": 18, "model": { "type": "model", "model": "edulis:item/butter"}},
-      { "threshold": 19, "model": { "type": "model", "model": "edulis:item/cheddar_cheese"}},
-      { "threshold": 21, "model": { "type": "model", "model": "edulis:item/creamer"}},
-      { "threshold": 22, "model": { "type": "model", "model": "edulis:item/coffee_beans"}},
-      { "threshold": 23, "model": { "type": "model", "model": "edulis:item/white_choc_cookie" } },
-      { "threshold": 24, "model": { "type": "model", "model": "edulis:item/dark_white_choc_cookie" } },
-      { "threshold": 25, "model": { "type": "model", "model": "edulis:item/double_chunk_cookie" } },
-      { "threshold": 26, "model": { "type": "model", "model": "edulis:item/mm_cookie" } },
-      { "threshold": 27, "model": { "type": "model", "model": "edulis:item/sugar_cookie" } },
-      { "threshold": 28, "model": { "type": "model", "model": "edulis:item/strawberry_macaron" } },
-      { "threshold": 29, "model": { "type": "model", "model": "edulis:item/blueberry_macaron" } },
-      { "threshold": 30, "model": { "type": "model", "model": "edulis:item/linzer_cookie" } },
-      { "threshold": 31, "model": { "type": "model", "model": "edulis:item/glow_berry_muffin" } },
-      { "threshold": 32, "model": { "type": "model", "model": "edulis:item/croissant" } },
-      { "threshold": 33, "model": { "type": "model", "model": "edulis:item/cherries" } },
-      { "threshold": 34, "model": { "type": "model", "model": "edulis:item/hot_honey" } },
-      { "threshold": 36, "model": { "type": "model", "model": "edulis:item/green_tea_leaves" } },
-      { "threshold": 37, "model": { "type": "model", "model": "edulis:item/lettuce" } },
-      { "threshold": 38, "model": { "type": "model", "model": "edulis:item/basil" } },
-      { "threshold": 39, "model": { "type": "model", "model": "edulis:item/greentea_mochi" } },
-      { "threshold": 40, "model": { "type": "model", "model": "edulis:item/cherry_mochi" } },
-      { "threshold": 41, "model": { "type": "model", "model": "edulis:item/red_bean_mochi" } },
-      { "threshold": 42, "model": { "type": "model", "model": "edulis:item/rice" } },
-      { "threshold": 43, "model": { "type": "model", "model": "edulis:item/mustard_seeds" } },
-      { "threshold": 44, "model": { "type": "model", "model": "edulis:item/almonds" } },
-      { "threshold": 45, "model": { "type": "model", "model": "edulis:item/red_beans" } },
-      { "threshold": 46, "model": { "type": "model", "model": "edulis:item/coffee_beans" } },
-      { "threshold": 47, "model": { "type": "model", "model": "edulis:item/garlic" } },
-      { "threshold": 48, "model": { "type": "model", "model": "edulis:item/keylime_pie" } },
-      { "threshold": 49, "model": { "type": "model", "model": "edulis:item/cheesecake" } },
-      { "threshold": 51, "model": { "type": "model", "model": "edulis:item/whipped_cream_pie" } },
-      { "threshold": 53, "model": { "type": "model", "model": "edulis:item/chicken_pot_pie" } },
-      { "threshold": 54, "model": { "type": "model", "model": "edulis:item/golden_apple_pie" } },
-      { "threshold": 56, "model": { "type": "model", "model": "edulis:item/apple_pie" } },
-      { "threshold": 57, "model": { "type": "model", "model": "edulis:item/blueberry_pie" } },
-      { "threshold": 58, "model": { "type": "model", "model": "edulis:item/cherry_pie" } },
-      { "threshold": 59, "model": { "type": "model", "model": "edulis:item/strawberry_pie" } },
-      { "threshold": 70, "model": { "type": "model", "model": "edulis:item/dough" } },
-      { "threshold": 71, "model": { "type": "model", "model": "edulis:item/marshmallows" } },
-      { "threshold": 72, "model": { "type": "model", "model": "edulis:item/peach" } },
-      { "threshold": 73, "model": { "type": "model", "model": "edulis:item/loaded_baked_potato"}},
-
-      { "threshold": 998, "model": { "type": "model", "model": "edulis:item/pumpkin_pie_slice"}},
-      { "threshold": 999, "model": { "type": "model", "model": "edulis:item/cake_slice"}}
+      {
+        "threshold": 1,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/strawberry_short_cake_slice/strawberry_short_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/strawberry_short_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/strawberry_short_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/blueberry_cake_slice/blueberry_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/blueberry_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/blueberry_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/carrot_cake_slice/carrot_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/carrot_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/carrot_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/red_velvet_cake_slice/red_velvet_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/red_velvet_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/red_velvet_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/fruit_cake_slice/fruit_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/fruit_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/fruit_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/chocolate_cake_slice/chocolate_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/chocolate_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/chocolate_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/german_choc_cake_slice/german_choc_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/german_choc_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/german_choc_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/yoyle_cake_slice/yoyle_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/yoyle_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/yoyle_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/lemon_cake_slice/lemon_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/lemon_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/lemon_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/keylime_pie_slice/keylime_pie_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/keylime_pie_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/keylime_pie_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cheesecake_slice/cheesecake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cheesecake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cheesecake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/whipped_cream_slice/whipped_cream_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/whipped_cream_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/whipped_cream_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/birthday_cake_slice/birthday_cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/birthday_cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/birthday_cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/chocolate/chocolate"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/chocolate/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/chocolate/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/white_chocolate/white_chocolate"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/white_chocolate/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/white_chocolate/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/dark_chocolate/dark_chocolate"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/dark_chocolate/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/dark_chocolate/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/butter/butter"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/butter/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/butter/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cheddar_cheese/cheddar_cheese"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cheddar_cheese/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cheddar_cheese/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/creamer/creamer"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/creamer/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/creamer/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/coffee_beans/coffee_beans"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/coffee_beans/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/coffee_beans/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/white_choc_cookie/white_choc_cookie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/white_choc_cookie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/white_choc_cookie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/dark_white_choc_cookie/dark_white_choc_cookie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/dark_white_choc_cookie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/dark_white_choc_cookie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/double_chunk_cookie/double_chunk_cookie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/double_chunk_cookie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/double_chunk_cookie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/mm_cookie/mm_cookie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/mm_cookie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/mm_cookie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/sugar_cookie/sugar_cookie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/sugar_cookie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/sugar_cookie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/strawberry_macaron/strawberry_macaron"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/strawberry_macaron/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/strawberry_macaron/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/blueberry_macaron/blueberry_macaron"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/blueberry_macaron/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/blueberry_macaron/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/linzer_cookie/linzer_cookie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/linzer_cookie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/linzer_cookie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/glow_berry_muffin/glow_berry_muffin"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/glow_berry_muffin/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/glow_berry_muffin/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/croissant/croissant"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/croissant/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/croissant/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cherries/cherries"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cherries/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cherries/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/hot_honey/hot_honey"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/hot_honey/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/hot_honey/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/green_tea_leaves/green_tea_leaves"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/green_tea_leaves/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/green_tea_leaves/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/lettuce/lettuce"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/lettuce/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/lettuce/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/basil/basil"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/basil/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/basil/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/greentea_mochi/greentea_mochi"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/greentea_mochi/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/greentea_mochi/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cherry_mochi/cherry_mochi"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cherry_mochi/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cherry_mochi/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/red_bean_mochi/red_bean_mochi"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/red_bean_mochi/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/red_bean_mochi/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/rice/rice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/rice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/rice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/mustard_seeds/mustard_seeds"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/mustard_seeds/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/mustard_seeds/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/almonds/almonds"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/almonds/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/almonds/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/red_beans/red_beans"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/red_beans/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/red_beans/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/coffee_beans/coffee_beans"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/coffee_beans/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/coffee_beans/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/garlic/garlic"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/garlic/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/garlic/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/keylime_pie/keylime_pie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/keylime_pie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/keylime_pie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cheesecake/cheesecake"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cheesecake/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cheesecake/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/whipped_cream_pie/whipped_cream_pie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/whipped_cream_pie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/whipped_cream_pie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/chicken_pot_pie/chicken_pot_pie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/chicken_pot_pie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/chicken_pot_pie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/golden_apple_pie/golden_apple_pie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/golden_apple_pie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/golden_apple_pie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/apple_pie/apple_pie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/apple_pie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/apple_pie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/blueberry_pie/blueberry_pie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/blueberry_pie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/blueberry_pie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cherry_pie/cherry_pie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cherry_pie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cherry_pie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/strawberry_pie/strawberry_pie"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/strawberry_pie/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/strawberry_pie/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/dough/dough"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/dough/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/dough/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/marshmallows/marshmallows"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/marshmallows/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/marshmallows/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/peach/peach"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/peach/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/peach/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/loaded_baked_potato/loaded_baked_potato"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/loaded_baked_potato/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/loaded_baked_potato/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 998,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/pumpkin_pie_slice/pumpkin_pie_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/pumpkin_pie_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/pumpkin_pie_slice/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 999,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cake_slice/cake_slice"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cake_slice/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/cake_slice/bite2"
+              }
+            }
+          ]
+        }
+      }
     ]
   }
 }
