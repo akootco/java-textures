@@ -3,6 +3,4 @@
 
 ---
 
-- added blackberry plushies
-- +1 kirbo plushie
-- erm, added air overrides for custom blocks ()
+- hats!

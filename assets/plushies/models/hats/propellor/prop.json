@@ -1,0 +1,35 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "plushies:hats/parent",
+	"textures": {
+		"prop": "plushies:item/hats/prop",
+		"base": "block/green_concrete_powder"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [7.4, 16, 7.4],
+			"to": [8.6, 18.3, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 17, 8]},
+			"faces": {
+				"north": {"uv": [3, 2, 2, 8], "texture": "#base"},
+				"east": {"uv": [3, 2, 2, 8], "texture": "#base"},
+				"south": {"uv": [3, 2, 2, 8], "texture": "#base"},
+				"west": {"uv": [3, 2, 2, 8], "texture": "#base"},
+				"up": {"uv": [2, 2, 6, 8], "texture": "#base"},
+				"down": {"uv": [0, 2, 2, 15], "texture": "#base"}
+			}
+		},
+		{
+			"name": "prop",
+			"from": [1, 18, 1],
+			"to": [15, 18, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 17, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#prop", "tintindex": 0},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#prop", "tintindex": 0}
+			}
+		}
+	]
+}

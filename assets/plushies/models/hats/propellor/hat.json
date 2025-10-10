@@ -1,0 +1,10 @@
+{
+  "parent": "plushies:hats/hat",
+  "textures": {
+    "1": "block/red_concrete_powder",
+    "2": "block/blue_concrete_powder",
+    "3": "block/yellow_concrete_powder",
+    "4": "block/orange_concrete_powder",
+    "brim": "block/lime_concrete_powder"
+  }
+}

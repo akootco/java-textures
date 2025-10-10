@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "block/carved_pumpkin" },
+    "cases": [
+      { "when": "hat", "model": { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] } },
+      { "when": "hat_back", "model": { "type": "model", "model": "plushies:hats/hat_back", "tints": [ { "type": "minecraft:dye", "default": -1 } ] } },
+      { "when": "party_hat", "model": { "type": "model", "model": "plushies:hats/party_hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] } },
+
+      { "when": "antlers", "model": { "type": "model", "model": "plushies:hats/antlers" } },
+      { "when": "moose", "model": { "type": "model", "model": "plushies:hats/moose/og" } },
+      { "when": "moose2", "model": { "type": "model", "model": "plushies:hats/moose/old" } },
+      {
+        "when": "propellor",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/propellor/hat" },
+            { "type": "model", "model": "plushies:hats/propellor/prop", "tints": [ { "type": "minecraft:dye", "default": 4282795770 } ] }
+          ]
+        }
+      },
+      {
+        "when": "smitty",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/smitty/hat" },
+            { "type": "model", "model": "plushies:hats/smitty/cans" }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -3,13 +3,9 @@
 		"type": "range_dispatch",
 		"property": "custom_model_data",
 		"fallback": { "type": "model", "model": "item/leather_helmet",
-			"tints": [{"type": "minecraft:dye", "default": -6265536}]
-		},
+			"tints": [{"type": "minecraft:dye", "default": -6265536}]},
 		"entries": [
 			{"threshold": 1, "model": {"type": "model", "model": "plushies:laptop/dyeable_laptop",
-				"tints": [{"type": "minecraft:dye", "default": -1}]}
-			},
-			{"threshold": 2, "model": {"type": "model", "model": "plushies:boxing_gloves",
 				"tints": [{"type": "minecraft:dye", "default": -1}]}
 			}
 		]
