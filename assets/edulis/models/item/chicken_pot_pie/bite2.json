@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "edulis:item/chicken_pot_pie/bite2"
+  }
+}

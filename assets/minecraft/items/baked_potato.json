@@ -347,21 +347,21 @@
               "threshold": 0,
               "model": {
                 "type": "model",
-                "model": "edulis:item/whipped_cream_slice/whipped_cream_slice"
+                "model": "edulis:item/whipped_cream_pie_slice/whipped_cream_pie_slice"
               }
             },
             {
               "threshold": 16,
               "model": {
                 "type": "model",
-                "model": "edulis:item/whipped_cream_slice/bite1"
+                "model": "edulis:item/whipped_cream_pie_slice/bite1"
               }
             },
             {
               "threshold": 24,
               "model": {
                 "type": "model",
-                "model": "edulis:item/whipped_cream_slice/bite2"
+                "model": "edulis:item/whipped_cream_pie_slice/bite2"
               }
             }
           ]
@@ -490,31 +490,8 @@
       {
         "threshold": 18,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/butter/butter"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/butter/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/butter/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/butter"
         }
       },
       {
@@ -550,61 +527,8 @@
       {
         "threshold": 21,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/creamer/creamer"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/creamer/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/creamer/bite2"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 22,
-        "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/coffee_beans/coffee_beans"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/coffee_beans/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/coffee_beans/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/creamer"
         }
       },
       {
@@ -940,121 +864,29 @@
       {
         "threshold": 34,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/hot_honey/hot_honey"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/hot_honey/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/hot_honey/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/hot_honey"
         }
       },
       {
         "threshold": 36,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/green_tea_leaves/green_tea_leaves"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/green_tea_leaves/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/green_tea_leaves/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/green_tea_leaves"
         }
       },
       {
         "threshold": 37,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/lettuce/lettuce"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/lettuce/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/lettuce/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/lettuce"
         }
       },
       {
         "threshold": 38,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/basil/basil"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/basil/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/basil/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/basil"
         }
       },
       {
@@ -1150,181 +982,43 @@
       {
         "threshold": 42,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/rice/rice"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/rice/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/rice/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/rice"
         }
       },
       {
         "threshold": 43,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/mustard_seeds/mustard_seeds"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/mustard_seeds/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/mustard_seeds/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/mustard_seeds"
         }
       },
       {
         "threshold": 44,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/almonds/almonds"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/almonds/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/almonds/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/almonds"
         }
       },
       {
         "threshold": 45,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/red_beans/red_beans"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/red_beans/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/red_beans/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/red_beans"
         }
       },
       {
         "threshold": 46,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/coffee_beans/coffee_beans"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/coffee_beans/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/coffee_beans/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/coffee_beans"
         }
       },
       {
         "threshold": 47,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/garlic/garlic"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/garlic/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/garlic/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/garlic"
         }
       },
       {
@@ -1600,31 +1294,8 @@
       {
         "threshold": 70,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/dough/dough"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/dough/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/dough/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/dough"
         }
       },
       {
@@ -1660,31 +1331,8 @@
       {
         "threshold": 72,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/peach/peach"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/peach/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/peach/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/peach"
         }
       },
       {

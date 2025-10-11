@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "edulis:item/pumpkin_pie_slice/bite1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "edulis:item/dark_white_choc_cookie/bite2"
+  }
+}

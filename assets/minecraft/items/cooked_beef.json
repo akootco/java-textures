@@ -160,31 +160,8 @@
       {
         "threshold": 6,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/mre/mre"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/mre/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/mre/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/mre"
         }
       },
       {
@@ -250,31 +227,8 @@
       {
         "threshold": 9,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/pork_rinds/pork_rinds"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/pork_rinds/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/pork_rinds/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/pork_rinds"
         }
       },
       {
@@ -640,31 +594,8 @@
       {
         "threshold": 22,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/raw_pizza/raw_pizza"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/raw_pizza/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/raw_pizza/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/raw_pizza"
         }
       },
       {
@@ -730,31 +661,8 @@
       {
         "threshold": 25,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/pizza/pizza"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/pizza/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/pizza/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/pizza"
         }
       },
       {

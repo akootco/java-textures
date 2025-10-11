@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "edulis:item/cheddar_cheese/cheddar_cheese"
+  }
+}

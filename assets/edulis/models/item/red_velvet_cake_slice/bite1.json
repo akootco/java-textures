@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "edulis:item/red_velvet_cake_slice/bite1"
+  }
+}
