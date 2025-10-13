@@ -1,0 +1,6 @@
+{
+  "parent": "item/fixed",
+  "textures": {
+    "layer0": "edulis:item/lemon_cake_slice/lemon_cake_slice"
+  }
+}

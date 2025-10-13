@@ -4,8 +4,66 @@
     "property": "custom_model_data",
     "fallback": { "type": "model", "model": "item/carrot" },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/purple_carrot" } },
-      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/pepper" } }
+      {
+        "threshold": 1,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/purple_carrot/purple_carrot"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/purple_carrot/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/purple_carrot/bite2"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/pepper/pepper"
+              }
+            },
+            {
+              "threshold": 16,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/pepper/bite1"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "edulis:item/pepper/bite2"
+              }
+            }
+          ]
+        }
+      }
     ]
   }
 }

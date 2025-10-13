@@ -1,0 +1,6 @@
+{
+  "parent": "item/fixed",
+  "textures": {
+    "layer0": "edulis:item/frog_leg_warm/bite2"
+  }
+}

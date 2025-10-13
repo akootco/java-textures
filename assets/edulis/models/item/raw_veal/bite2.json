@@ -1,0 +1,6 @@
+{
+  "parent": "item/fixed",
+  "textures": {
+    "layer0": "edulis:item/raw_veal/bite2"
+  }
+}

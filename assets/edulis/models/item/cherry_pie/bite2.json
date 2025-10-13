@@ -1,0 +1,6 @@
+{
+  "parent": "item/fixed",
+  "textures": {
+    "layer0": "edulis:item/cherry_pie/bite2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/fixed",
+  "textures": {
+    "layer0": "edulis:item/red_bean_mochi/bite1"
+  }
+}

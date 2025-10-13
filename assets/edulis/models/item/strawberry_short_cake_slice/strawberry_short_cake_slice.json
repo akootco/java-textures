@@ -1,0 +1,6 @@
+{
+  "parent": "item/fixed",
+  "textures": {
+    "layer0": "edulis:item/strawberry_short_cake_slice/strawberry_short_cake_slice"
+  }
+}

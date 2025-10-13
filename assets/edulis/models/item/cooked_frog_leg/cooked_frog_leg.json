@@ -1,0 +1,6 @@
+{
+  "parent": "item/fixed",
+  "textures": {
+    "layer0": "edulis:item/cooked_frog_leg/cooked_frog_leg"
+  }
+}
