@@ -1,0 +1,6 @@
+{
+  "parent": "item/fixed",
+  "textures": {
+    "layer0": "edulis:item/green_tea_mochi/green_tea_mochi"
+  }
+}

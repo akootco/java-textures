@@ -1,5 +1,5 @@
 {
-  "parent": "item/generated",
+  "parent": "item/fixed",
   "textures": {
     "layer0": "edulis:item/strawberry_short_cake_slice/bite2"
   }

@@ -167,31 +167,8 @@
       {
         "threshold": 7,
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/scallops/scallops"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/scallops/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/scallops/bite2"
-              }
-            }
-          ]
+          "type": "model",
+          "model": "edulis:item/scallops"
         }
       },
       {

@@ -1,5 +1,5 @@
 {
-  "parent": "item/generated",
+  "parent": "edulis:item/cake_slice/cake_slice",
   "textures": {
     "layer0": "edulis:item/cake_slice/bite2"
   }

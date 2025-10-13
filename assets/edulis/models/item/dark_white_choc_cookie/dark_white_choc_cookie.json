@@ -1,5 +1,5 @@
 {
-  "parent": "item/generated",
+  "parent": "item/fixed",
   "textures": {
     "layer0": "edulis:item/dark_white_choc_cookie/dark_white_choc_cookie"
   }

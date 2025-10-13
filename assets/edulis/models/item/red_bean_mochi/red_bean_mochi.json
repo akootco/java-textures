@@ -1,5 +1,5 @@
 {
-  "parent": "item/generated",
+  "parent": "item/fixed",
   "textures": {
     "layer0": "edulis:item/red_bean_mochi/red_bean_mochi"
   }

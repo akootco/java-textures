@@ -899,21 +899,21 @@
               "threshold": 0,
               "model": {
                 "type": "model",
-                "model": "edulis:item/greentea_mochi/greentea_mochi"
+                "model": "edulis:item/green_tea_mochi/green_tea_mochi"
               }
             },
             {
               "threshold": 16,
               "model": {
                 "type": "model",
-                "model": "edulis:item/greentea_mochi/bite1"
+                "model": "edulis:item/green_tea_mochi/bite1"
               }
             },
             {
               "threshold": 24,
               "model": {
                 "type": "model",
-                "model": "edulis:item/greentea_mochi/bite2"
+                "model": "edulis:item/green_tea_mochi/bite2"
               }
             }
           ]

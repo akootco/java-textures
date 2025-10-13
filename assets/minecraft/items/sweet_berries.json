@@ -1,14 +1,10 @@
 {
   "model": {
-    "type": "range_dispatch",
+    "type": "select",
     "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "item/sweet_berries"
-    },
-    "entries": [
+    "cases": [
       {
-        "threshold": 1,
+        "when": "blackberries",
         "model": {
           "type": "range_dispatch",
           "property": "use_duration",
@@ -17,236 +13,276 @@
               "threshold": 0,
               "model": {
                 "type": "model",
-                "model": "edulis:item/strawberries/strawberries"
+                "model": "edulis:item/blackberries/blackberries"
               }
             },
             {
               "threshold": 16,
               "model": {
                 "type": "model",
-                "model": "edulis:item/strawberries/bite1"
+                "model": "edulis:item/blackberries/bite1"
               }
             },
             {
               "threshold": 24,
               "model": {
                 "type": "model",
-                "model": "edulis:item/strawberries/bite2"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/blueberries/blueberries"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/blueberries/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/blueberries/bite2"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/peas/peas"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/peas/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/peas/bite2"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/lemons/lemons"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/lemons/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/lemons/bite2"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/limes/limes"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/limes/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/limes/bite2"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 6,
-        "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/yoyle_berry/yoyle_berry"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/yoyle_berry/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/yoyle_berry/bite2"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 7,
-        "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/red_grapes/red_grapes"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/red_grapes/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/red_grapes/bite2"
-              }
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 8,
-        "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
-          "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/white_grapes/white_grapes"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/white_grapes/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/white_grapes/bite2"
+                "model": "edulis:item/blackberries/bite2"
               }
             }
           ]
         }
       }
-    ]
+    ],
+    "fallback": {
+      "type": "range_dispatch",
+      "property": "custom_model_data",
+      "fallback": {
+        "type": "model",
+        "model": "item/sweet_berries"
+      },
+      "entries": [
+        {
+          "threshold": 1,
+          "model": {
+            "type": "range_dispatch",
+            "property": "use_duration",
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/strawberries/strawberries"
+                }
+              },
+              {
+                "threshold": 16,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/strawberries/bite1"
+                }
+              },
+              {
+                "threshold": 24,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/strawberries/bite2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "threshold": 2,
+          "model": {
+            "type": "range_dispatch",
+            "property": "use_duration",
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/blueberries/blueberries"
+                }
+              },
+              {
+                "threshold": 16,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/blueberries/bite1"
+                }
+              },
+              {
+                "threshold": 24,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/blueberries/bite2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "threshold": 3,
+          "model": {
+            "type": "range_dispatch",
+            "property": "use_duration",
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/peas/peas"
+                }
+              },
+              {
+                "threshold": 16,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/peas/bite1"
+                }
+              },
+              {
+                "threshold": 24,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/peas/bite2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "threshold": 4,
+          "model": {
+            "type": "range_dispatch",
+            "property": "use_duration",
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/lemons/lemons"
+                }
+              },
+              {
+                "threshold": 16,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/lemons/bite1"
+                }
+              },
+              {
+                "threshold": 24,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/lemons/bite2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "threshold": 5,
+          "model": {
+            "type": "range_dispatch",
+            "property": "use_duration",
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/limes/limes"
+                }
+              },
+              {
+                "threshold": 16,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/limes/bite1"
+                }
+              },
+              {
+                "threshold": 24,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/limes/bite2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "threshold": 6,
+          "model": {
+            "type": "range_dispatch",
+            "property": "use_duration",
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/yoyle_berry/yoyle_berry"
+                }
+              },
+              {
+                "threshold": 16,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/yoyle_berry/bite1"
+                }
+              },
+              {
+                "threshold": 24,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/yoyle_berry/bite2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "threshold": 7,
+          "model": {
+            "type": "range_dispatch",
+            "property": "use_duration",
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/red_grapes/red_grapes"
+                }
+              },
+              {
+                "threshold": 16,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/red_grapes/bite1"
+                }
+              },
+              {
+                "threshold": 24,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/red_grapes/bite2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "threshold": 8,
+          "model": {
+            "type": "range_dispatch",
+            "property": "use_duration",
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/white_grapes/white_grapes"
+                }
+              },
+              {
+                "threshold": 16,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/white_grapes/bite1"
+                }
+              },
+              {
+                "threshold": 24,
+                "model": {
+                  "type": "model",
+                  "model": "edulis:item/white_grapes/bite2"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
   }
 }

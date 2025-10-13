@@ -1,5 +1,13 @@
 {
   "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "cases": [
+      {"when": "blackberries_stage2", "model": {"type": "model", "model": "edulis:block/berries/blackberries_stage2"}},
+      {"when": "blackberries_stage3", "model": {"type": "model", "model": "edulis:block/berries/blackberries_stage3"}}
+    ],
+    "fallback":
+    {
     "type": "range_dispatch",
     "property": "custom_model_data",
     "fallback": {"type": "model", "model": "block/air"},
@@ -114,4 +122,4 @@
       {"threshold": 89, "model": {"type": "model", "model": "plushies:block/atm"}}
     ]
   }
-}
+}}

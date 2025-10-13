@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
+  "parent": "item/fixed",
   "textures": {
-    "layer0": "edulis:item/birthday_cake/birthday_cake_slice"
+    "layer0": "edulis:item/birthday_cake_slice/birthday_cake_slice"
   }
 }
