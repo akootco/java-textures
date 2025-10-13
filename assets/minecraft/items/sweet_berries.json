@@ -6,30 +6,11 @@
       {
         "when": "blackberries",
         "model": {
-          "type": "range_dispatch",
-          "property": "use_duration",
+          "type": "range_dispatch", "property": "use_duration",
           "entries": [
-            {
-              "threshold": 0,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/blackberries/blackberries"
-              }
-            },
-            {
-              "threshold": 16,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/blackberries/bite1"
-              }
-            },
-            {
-              "threshold": 24,
-              "model": {
-                "type": "model",
-                "model": "edulis:item/blackberries/bite2"
-              }
-            }
+            {"threshold": 0, "model": {"type": "model", "model": "edulis:item/blackberries/blackberries"}},
+            {"threshold": 16, "model": {"type": "model", "model": "edulis:item/blackberries/bite1"}},
+            {"threshold": 24, "model": {"type": "model", "model": "edulis:item/blackberries/bite2"}}
           ]
         }
       }
