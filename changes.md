@@ -3,4 +3,4 @@
 
 ---
 
-- im just fixing my mistakes and adding more things!
+- im just fixing my mistakes part 2

@@ -3,17 +3,6 @@
     "type": "select",
     "property": "custom_model_data",
     "cases": [
-      {
-        "when": "taco",
-        "model": {
-          "type": "range_dispatch", "property": "use_duration",
-          "entries": [
-            {"threshold": 0, "model": {"type": "model", "model": "edulis:item/taco/taco"}},
-            {"threshold": 16, "model": {"type": "model", "model": "edulis:item/taco/bite1"}},
-            {"threshold": 24, "model": {"type": "model", "model": "edulis:item/taco/bite2"}}
-          ]
-        }
-      },
       {"when": "shrimp", "model": {"type": "model", "model": "edulis:item/shrimp"}},
       {"when": "krab", "model": {"type": "model", "model": "edulis:item/krab"}},
       {
