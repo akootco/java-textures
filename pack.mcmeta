@@ -1,6 +1,9 @@
 {
   "pack": {
-    "pack_format": 64,
-    "description": "\u00A76Akoot&Co"
+    "pack_format": 69,
+    "min_format": 46,
+    "max_format": 69,
+    "supported_formats": [46, 64],
+    "description": "§6Akoot&Co"
   }
 }
