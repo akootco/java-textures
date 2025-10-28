@@ -3,6 +3,8 @@
     "type": "select",
     "property": "custom_model_data",
     "cases": [
+      {"when": "shrimp", "model": {"type": "model", "model": "edulis:item/shrimp"}},
+      {"when": "krab", "model": {"type": "model", "model": "edulis:item/krab"}},
       {
         "when": "taco",
         "model": {

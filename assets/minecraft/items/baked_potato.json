@@ -4,7 +4,9 @@
     "property": "custom_model_data",
     "cases": [
       {"when": "corn", "model": {"type": "model", "model": "edulis:item/corn"}},
-      {"when": "taco_shell", "model": {"type": "model", "model": "edulis:item/taco_shell"}}
+      {"when": "taco_shell", "model": {"type": "model", "model": "edulis:item/taco_shell"}},
+      {"when": "corn_tortilla", "model": {"type": "model", "model": "edulis:item/corn_tortilla"}},
+      {"when": "avocado", "model": {"type": "model", "model": "edulis:item/avocado"}}
     ],
     "fallback": {
       "type": "range_dispatch",
