@@ -344,6 +344,7 @@
 		}
 	],
 	"display": {
+		"on_shelf": {"rotation": [0, 180, 0]},
 		"head": {
 			"translation": [0, 7.5, 0],
 			"scale": [1.6, 1.93789, 1.89961]
