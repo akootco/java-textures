@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "cases": [{"when": "coffee_beans", "model": {"type": "model", "model": "edulis:item/coffee_beans/raw"}}],
+    "fallback": {
+        "type": "model",
+        "model": "item/melon_seeds"
+      }
+  }
+}

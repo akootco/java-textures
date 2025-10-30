@@ -4,7 +4,13 @@
     "property": "custom_model_data",
     "cases": [
       {"when": "blackberries_stage2", "model": {"type": "model", "model": "edulis:block/berries/blackberries_stage2"}},
-      {"when": "blackberries_stage3", "model": {"type": "model", "model": "edulis:block/berries/blackberries_stage3"}}
+      {"when": "blackberries_stage3", "model": {"type": "model", "model": "edulis:block/berries/blackberries_stage3"}},
+
+      {"when": "coffee_sprout", "model": {"type": "model", "model": "edulis:block/crops/coffee/sprout"}},
+      {"when": "coffee_flowering", "model": {"type": "model", "model": "edulis:block/crops/coffee/flowering"}},
+      {"when": "coffee_fruiting", "model": {"type": "model", "model": "edulis:block/crops/coffee/fruiting"}},
+      {"when": "coffee_ripe", "model": {"type": "model", "model": "edulis:block/crops/coffee/ripe"}},
+
     ],
     "fallback":
     {
@@ -30,8 +36,8 @@
       {"threshold": 11, "model": {"type": "model", "model": "edulis:block/berries/tomato_stage2"}},
       {"threshold": 12, "model": {"type": "model", "model": "edulis:block/berries/tomato_stage3"}},
 
-      {"threshold": 13, "model": {"type": "model", "model": "edulis:block/crops/purple_carrot_stage2"}},
-      {"threshold": 14, "model": {"type": "model", "model": "edulis:block/crops/purple_carrot_stage3"}},
+      {"threshold": 13, "model": {"type": "model", "model": "edulis:block/crops/purple_carrot/stage2"}},
+      {"threshold": 14, "model": {"type": "model", "model": "edulis:block/crops/purple_carrot/stage3"}},
 
       {"threshold": 15, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_full"}},
       {"threshold": 16, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_slice_1"}},

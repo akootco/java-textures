@@ -1,6 +1,6 @@
 {
   "parent": "edulis:block/overlay/crop",
   "textures": {
-    "crop": "edulis:block/crops/purple_carrot_stage2"
+    "crop": "edulis:block/crops/purple_carrot/stage3"
   }
 }

@@ -6,7 +6,9 @@
       {"when": "corn", "model": {"type": "model", "model": "edulis:item/corn"}},
       {"when": "taco_shell", "model": {"type": "model", "model": "edulis:item/taco_shell"}},
       {"when": "corn_tortilla", "model": {"type": "model", "model": "edulis:item/corn_tortilla"}},
-      {"when": "avocado", "model": {"type": "model", "model": "edulis:item/avocado"}}
+      {"when": "avocado", "model": {"type": "model", "model": "edulis:item/avocado"}},
+      {"when": "coffee_beans_cooked", "model": {"type": "model", "model": "edulis:item/coffee_beans/cooked"}},
+      {"when": "coffee_beans_roasted", "model": {"type": "model", "model": "edulis:item/coffee_beans/roasted"}}
     ],
     "fallback": {
       "type": "range_dispatch",
@@ -1020,7 +1022,7 @@
           "threshold": 46,
           "model": {
             "type": "model",
-            "model": "edulis:item/coffee_beans"
+            "model": "edulis:item/coffee_beans/dark_roast"
           }
         },
         {

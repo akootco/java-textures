@@ -1,0 +1,6 @@
+{
+  "parent": "edulis:block/overlay/cross_tall_farmland",
+  "textures": {
+    "cross": "edulis:block/crops/coffee/fruiting"
+  }
+}
