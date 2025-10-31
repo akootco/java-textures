@@ -9,8 +9,7 @@
       {"when": "coffee_sprout", "model": {"type": "model", "model": "edulis:block/crops/coffee/sprout"}},
       {"when": "coffee_flowering", "model": {"type": "model", "model": "edulis:block/crops/coffee/flowering"}},
       {"when": "coffee_fruiting", "model": {"type": "model", "model": "edulis:block/crops/coffee/fruiting"}},
-      {"when": "coffee_ripe", "model": {"type": "model", "model": "edulis:block/crops/coffee/ripe"}},
-
+      {"when": "coffee_ripe", "model": {"type": "model", "model": "edulis:block/crops/coffee/ripe"}}
     ],
     "fallback":
     {
