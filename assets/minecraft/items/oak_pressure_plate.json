@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "condition", "property": "has_component", "component": "custom_model_data",
+    "on_true": {"type": "model", "model": "block/air"},
+    "on_false": {"type": "model", "model": "block/oak_pressure_plate"}
+  }
+}
