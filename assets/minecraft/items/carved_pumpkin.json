@@ -11,6 +11,8 @@
       { "when": "antlers", "model": { "type": "model", "model": "plushies:hats/antlers" } },
       { "when": "moose", "model": { "type": "model", "model": "plushies:hats/moose/og" } },
       { "when": "moose2", "model": { "type": "model", "model": "plushies:hats/moose/old" } },
+
+      { "when": "sprout", "model": { "type": "model", "model": "plushies:hats/sprout" } },
       {
         "when": "propellor",
         "model": {

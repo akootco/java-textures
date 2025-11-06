@@ -2,7 +2,7 @@
   "model": {
     "type": "select",
     "property": "custom_model_data",
-    "fallback": {"type": "model", "model": "block/smoker"},
+    "fallback": {"type": "model", "model": "block/barrel"},
     "cases": [
       {"when": "ingredient_shelf", "model": {"type": "model", "model": "edulis:block/ingredient_shelf"}}
     ]
