@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "#north",
+    "down": "block/chiseled_bookshelf_top",
+    "east": "plushies:block/seamstress/spools",
+    "north": "plushies:block/seamstress/sewing_machine",
+    "south": "plushies:block/seamstress/hoops",
+    "up": "plushies:block/seamstress/table_top",
+    "west": "plushies:block/seamstress/spools"
+  }
+}

@@ -11,7 +11,8 @@
       {"when": "coffee_fruiting", "model": {"type": "model", "model": "edulis:block/crops/coffee/fruiting"}},
       {"when": "coffee_ripe", "model": {"type": "model", "model": "edulis:block/crops/coffee/ripe"}},
 
-      {"when": "ingredient_shelf", "model": {"type": "model", "model": "edulis:block/ingredient_shelf"}}
+      {"when": "ingredient_shelf", "model": {"type": "model", "model": "edulis:block/ingredient_shelf"}},
+      {"when": "seamstress", "model": {"type": "model", "model": "plushies:block/seamstress"}}
     ],
     "fallback":
     {

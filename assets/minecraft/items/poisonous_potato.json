@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "item/poisonous_potato" },
+    "cases": [
+      { "when": "hopcoin", "model": { "type": "model", "model": "edulis:item/tomato" } }
+    ]
+  }
+}
