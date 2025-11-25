@@ -16,7 +16,10 @@
       {"when": "maya_red", "model": {"type": "model", "model": "plushies:plushies/maya/red"}},
       {"when": "maya_red.st", "model": {"type": "model", "model": "plushies:plushies/maya/red.st"}},
       {"when": "maya_miku", "model": {"type": "model", "model": "plushies:plushies/maya/miku"}},
-      {"when": "maya_miku.st", "model": {"type": "model", "model": "plushies:plushies/maya/miku.st"}}
+      {"when": "maya_miku.st", "model": {"type": "model", "model": "plushies:plushies/maya/miku.st"}},
+
+      {"when": "rivtar", "model": {"type": "model", "model": "plushies:plushies/rivtar/rivtar"}},
+      {"when": "rivtar.st", "model": {"type": "model", "model": "plushies:plushies/rivtar/rivtar.st"}}
 
     ],
     "fallback": {"type": "range_dispatch", "property": "custom_model_data",
