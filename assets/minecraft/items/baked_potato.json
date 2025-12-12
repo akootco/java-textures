@@ -11,8 +11,8 @@
       {"when": "coffee_beans_roasted", "model": {"type": "model", "model": "edulis:item/coffee_beans/roasted"}},
       {"when":  "sugar_cube", "model":  {"type": "range_dispatch", "property": "use_duration", "entries": [
         {"threshold": 0, "model": {"type": "model", "model": "edulis:item/sugar_cube/sugar_cube"}},
-        {"threshold": 16, "model": {"type": "model", "model": "edulis:item/sugar_cube/sugar_cube/bite1"}},
-        {"threshold": 24, "model": {"type": "model", "model": "edulis:item/sugar_cube/sugar_cube/bite2"}}
+        {"threshold": 16, "model": {"type": "model", "model": "edulis:item/sugar_cube/bite1"}},
+        {"threshold": 24, "model": {"type": "model", "model": "edulis:item/sugar_cube/bite2"}}
       ]}}
     ],
     "fallback": {
