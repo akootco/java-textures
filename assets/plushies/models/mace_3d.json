@@ -1,9 +1,9 @@
 {
 	"credit": "Created by Stridey",
 	"textures": {
-		"particle": "item/mace",
+		"head": "plushies:item/heavy_core",
 		"handle": "item/mace",
-		"head": "block/heavy_core"
+		"particle": "#handle"
 	},
 	"elements": [
 		{
