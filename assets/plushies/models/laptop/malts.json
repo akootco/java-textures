@@ -1,9 +1,6 @@
 {
   "parent": "plushies:laptop/laptop",
   "textures": {
-    "keys": "block/amethyst_block",
-    "laptop": "block/netherite_block",
-    "stickers": "plushies:item/laptop/malts",
-    "screen": "block/campfire_fire"
+    "stickers": "plushies:item/laptop/malts"
   }
 }

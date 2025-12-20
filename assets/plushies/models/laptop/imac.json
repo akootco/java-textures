@@ -1,9 +1,4 @@
 {
   "parent": "plushies:laptop/laptop",
-  "textures": {
-    "keys": "block/gray_concrete_powder",
-    "laptop": "block/light_gray_concrete",
-    "screen": "painting/sunset",
-    "logo": "item/apple"
-  }
+  "textures": {"laptop": "plushies:item/laptop/mac", "logo": "item/apple"}
 }
