@@ -1,7 +1,4 @@
 {
 	"parent": "plushies:laptop/laptop",
-	"textures": {
-		"laptop": "block/white_concrete_powder",
-		"keys": "block/gray_concrete_powder"
-	}
+	"textures": {"laptop": "plushies:item/laptop/dyeable"}
 }

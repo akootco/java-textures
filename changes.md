@@ -1,6 +1,6 @@
 # Akoot&Co Resource Pack
-### Java 1.21.10
+### Java 1.21.11
 
 ---
 
-- elf plushies
+- fix atlas changes

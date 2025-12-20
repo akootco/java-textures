@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 69,
+    "pack_format": 46,
     "min_format": 46,
-    "max_format": 69,
-    "supported_formats": [46, 64],
-    "description": "§6Akoot&Co"
-  }
+    "max_format": 75,
+		"supported_formats": {"min_inclusive": 46, "max_inclusive": 75},
+        "description": "§6Akoot&Co"
+    }
 }
