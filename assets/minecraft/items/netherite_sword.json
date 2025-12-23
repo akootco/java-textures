@@ -1,16 +1,37 @@
 {
   "model": {
-    "type": "range_dispatch",
+    "type": "select",
     "property": "custom_model_data",
-    "fallback": { "type": "model", "model": "item/netherite_sword" },
-    "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "edulis:item/iron_cleaver" } },
-      { "threshold": 2, "model": { "type": "model", "model": "edulis:item/diamond_cleaver" } },
-      { "threshold": 3, "model": { "type": "model", "model": "edulis:item/netherite_cleaver" } },
-      { "threshold": 4, "model": { "type": "model", "model": "edulis:item/chef_knife" } },
-
-      {"threshold": 100, "model": {"type": "model", "model": "plushies:swords/akoot"}},
-      {"threshold": 101, "model": {"type": "model", "model": "plushies:swords/akoot_og"}}
-    ]
+    "cases": [
+      {
+        "when": "saber",
+        "model": {
+          "type": "select",
+          "property": "display_context",
+          "cases": [{"when": "ground", "model": {"type": "model", "model": "plushies:swords/saber/off"}}],
+          "fallback": {"type": "select", "property": "context_dimension",
+            "cases": [
+              {"when": "minecraft:overworld", "model": {"type": "model", "model": "plushies:swords/saber/green"}},
+              {"when": "minecraft:the_nether", "model": {"type": "model", "model": "plushies:swords/saber/red"}},
+              {"when": "minecraft:the_end", "model": {"type": "model", "model": "plushies:swords/saber/blue"}}
+            ]
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "range_dispatch",
+      "property": "custom_model_data",
+      "fallback": {"type": "model", "model": "item/netherite_sword"},
+      "entries": [
+        {"threshold": 1, "model": {"type": "model", "model": "edulis:item/iron_cleaver"}},
+        {"threshold": 2, "model": {"type": "model", "model": "edulis:item/diamond_cleaver"}},
+        {"threshold": 3, "model": {"type": "model", "model": "edulis:item/netherite_cleaver"}},
+        {"threshold": 4, "model": {"type": "model", "model": "edulis:item/chef_knife"}},
+        {"threshold": 100, "model": {"type": "model", "model": "plushies:swords/akoot"}},
+        {"threshold": 101, "model": {"type": "model", "model": "plushies:swords/akoot_og"}
+        }
+      ]
+    }
   }
 }
