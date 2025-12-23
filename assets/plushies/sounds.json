@@ -33,5 +33,11 @@
       {"name": "plushies:squeak/2", "weight": 1},
       {"name": "plushies:squeak/3", "weight": 1}
     ]
+  },
+  "saber": {
+    "sounds": [
+      {"name": "plushies:saber/1", "weight": 1},
+      {"name": "plushies:saber/2", "weight": 1}
+    ]
   }
 }
