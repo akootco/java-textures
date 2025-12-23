@@ -35,7 +35,7 @@ jobs:
 
       - name: Create zip archive
         run: |
-          zip -r java.zip . -x ".*" "zip.py" "changes.md"
+          zip -r java.zip . -x ".*" "zip.py" "README.md"
 
       - name: Create release
         env:
@@ -45,7 +45,7 @@ jobs:
           TAG=$(date +'%y-%m-%d_%H-%M')
           HASH=$(shasum -a 1 java.zip | awk '{ print $1 }')
           
-          echo -e "hash: \`$HASH\`\n$(cat changes.md)" > notes.md
+          echo -e "hash: \`$HASH\`\n$(cat README.md)" > notes.md
           
           # Create the release
           gh release create "$TAG" \
