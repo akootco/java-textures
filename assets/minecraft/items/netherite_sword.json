@@ -11,10 +11,9 @@
           "cases": [{"when": "ground", "model": {"type": "model", "model": "plushies:swords/saber/off"}}],
           "fallback": {"type": "select", "property": "context_dimension",
             "cases": [
-              {"when": "minecraft:overworld", "model": {"type": "model", "model": "plushies:swords/saber/green"}},
               {"when": "minecraft:the_nether", "model": {"type": "model", "model": "plushies:swords/saber/red"}},
               {"when": "minecraft:the_end", "model": {"type": "model", "model": "plushies:swords/saber/blue"}}
-            ]
+            ], "fallback": {"type": "model", "model": "plushies:swords/saber/green"}
           }
         }
       }
