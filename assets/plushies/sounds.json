@@ -20,6 +20,12 @@
   "well": {
     "sounds": [{"name": "plushies:well", "stream": true}]
   },
+  "lofi_chopin": {
+    "sounds": [{"name": "plushies:lofi_chopin", "stream": true}]
+  },
+  "lofi_beethoven": {
+    "sounds": [{"name": "plushies:lofi_beethoven", "stream": true}]
+  },
   "squeak": {
     "subtitle": "Squeak",
     "sounds": [

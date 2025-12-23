@@ -10,7 +10,9 @@
       { "threshold": 5, "model": { "type": "model", "model": "plushies:discs/shrimp" } },
       { "threshold": 6, "model": { "type": "model", "model": "plushies:discs/jp9" } },
       { "threshold": 7, "model": { "type": "model", "model": "plushies:discs/well" } },
-      { "threshold": 8, "model": { "type": "model", "model": "plushies:discs/limerence" } }
+      { "threshold": 8, "model": { "type": "model", "model": "plushies:discs/limerence" } },
+      { "threshold": 9, "model": { "type": "model", "model": "plushies:discs/lofi_chopin" } },
+      { "threshold": 10, "model": { "type": "model", "model": "plushies:discs/lofi_beethoven" } }
     ]
   }
 }
