@@ -1,8 +1,9 @@
 {
   "model": {
-    "type": "range_dispatch",
+    "type": "select",
     "property": "custom_model_data",
-    "fallback": { "type": "model", "model": "item/cake" },
+    "cases": [{"when": "bat_wing_cake", "model": {"type": "model", "model": "edulis:item/bat_wing_cake"}}],
+    "fallback": {"type": "range_dispatch", "property": "custom_model_data", "fallback": {"type": "model", "model": "item/cake"},
     "entries": [
       { "threshold": 1, "model": { "type": "model", "model": "edulis:item/strawberry_short_cake" } },
       { "threshold": 2, "model": { "type": "model", "model": "edulis:item/blueberry_cake" } },
@@ -15,5 +16,4 @@
       { "threshold": 9, "model": { "type": "model", "model": "edulis:item/lemon_cake" } },
       { "threshold": 10, "model": { "type": "model", "model": "edulis:item/birthday_cake" } }
     ]
-  }
-}
+  }}}

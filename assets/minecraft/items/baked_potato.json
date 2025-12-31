@@ -13,6 +13,11 @@
         {"threshold": 0, "model": {"type": "model", "model": "edulis:item/sugar_cube/sugar_cube"}},
         {"threshold": 16, "model": {"type": "model", "model": "edulis:item/sugar_cube/bite1"}},
         {"threshold": 24, "model": {"type": "model", "model": "edulis:item/sugar_cube/bite2"}}
+      ]}},
+      {"when":  "bat_wing_cake_slice", "model":  {"type": "range_dispatch", "property": "use_duration", "entries": [
+        {"threshold": 0, "model": {"type": "model", "model": "edulis:item/bat_wing_cake_slice/bat_wing_cake_slice"}},
+        {"threshold": 16, "model": {"type": "model", "model": "edulis:item/bat_wing_cake_slice/bite1"}},
+        {"threshold": 24, "model": {"type": "model", "model": "edulis:item/bat_wing_cake_slice/bite2"}}
       ]}}
     ],
     "fallback": {

@@ -12,7 +12,15 @@
       {"when": "coffee_ripe", "model": {"type": "model", "model": "edulis:block/crops/coffee/ripe"}},
 
       {"when": "ingredient_shelf", "model": {"type": "model", "model": "edulis:block/ingredient_shelf"}},
-      {"when": "seamstress", "model": {"type": "model", "model": "plushies:block/seamstress"}}
+      {"when": "seamstress", "model": {"type": "model", "model": "plushies:block/seamstress"}},
+
+      {"when": "bw_cake_full", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/full"}},
+      {"when": "bw_cake_1", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_1"}},
+      {"when": "bw_cake_2", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_2"}},
+      {"when": "bw_cake_3", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_3"}},
+      {"when": "bw_cake_4", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_4"}},
+      {"when": "bw_cake_5", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_5"}},
+      {"when": "bw_cake_6", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_6"}}
     ],
     "fallback":
     {
@@ -125,9 +133,7 @@
       {"threshold": 85, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_3"}},
       {"threshold": 86, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_4"}},
       {"threshold": 87, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_5"}},
-      {"threshold": 88, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_6"}},
-
-      {"threshold": 89, "model": {"type": "model", "model": "plushies:block/atm"}}
+      {"threshold": 88, "model": {"type": "model", "model": "edulis:block/cakes/fruitcake/fruitcake_slice_6"}}
     ]
   }
 }}

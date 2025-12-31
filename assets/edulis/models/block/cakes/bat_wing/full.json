@@ -1,0 +1,6 @@
+{
+  "parent": "edulis:block/overlay/cakes/cake_full",
+  "textures": {
+    "0": "edulis:block/cakes/bat_wing_cake"
+  }
+}
