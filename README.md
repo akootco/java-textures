@@ -4,5 +4,4 @@
 ---
 
 
-- Added **Bat Wing Cake**
-  - Item, block, and slices
+- Added Hacktivision Plushie

@@ -19,7 +19,10 @@
       {"when": "maya_miku.st", "model": {"type": "model", "model": "plushies:plushies/maya/miku.st"}},
 
       {"when": "rivtar", "model": {"type": "model", "model": "plushies:plushies/rivtar/rivtar"}},
-      {"when": "rivtar.st", "model": {"type": "model", "model": "plushies:plushies/rivtar/rivtar.st"}}
+      {"when": "rivtar.st", "model": {"type": "model", "model": "plushies:plushies/rivtar/rivtar.st"}},
+
+      {"when": "hacktivision", "model": {"type": "model", "model": "plushies:plushies/hacktivision"}},
+      {"when": "hacktivision.st", "model": {"type": "model", "model": "plushies:plushies/hacktivision.st"}}
 
     ],
     "fallback": {"type": "range_dispatch", "property": "custom_model_data",
