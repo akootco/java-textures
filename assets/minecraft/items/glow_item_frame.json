@@ -4,18 +4,18 @@
     "property": "custom_model_data",
     "fallback": {"type": "model", "model": "item/glow_item_frame"},
     "cases": [
-      {"when": "cb.oak", "model": {"type": "model", "model": "edulis:block/cutting_board/oak"}},
-      {"when": "cb.dark_oak", "model": {"type": "model", "model": "edulis:block/cutting_board/dark_oak"}},
-      {"when": "cb.pale_oak", "model": {"type": "model", "model": "edulis:block/cutting_board/pale_oak"}},
-      {"when": "cb.spruce", "model": {"type": "model", "model": "edulis:block/cutting_board/spruce"}},
-      {"when": "cb.acacia", "model": {"type": "model", "model": "edulis:block/cutting_board/acacia"}},
-      {"when": "cb.jungle", "model": {"type": "model", "model": "edulis:block/cutting_board/jungle"}},
-      {"when": "cb.bamboo", "model": {"type": "model", "model": "edulis:block/cutting_board/bamboo"}},
-      {"when": "cb.cherry", "model": {"type": "model", "model": "edulis:block/cutting_board/cherry"}},
-      {"when": "cb.mangrove", "model": {"type": "model", "model": "edulis:block/cutting_board/mangrove"}},
-      {"when": "cb.birch", "model": {"type": "model", "model": "edulis:block/cutting_board/birch"}},
-      {"when": "cb.warped", "model": {"type": "model", "model": "edulis:block/cutting_board/warped"}},
-      {"when": "cb.crimson", "model": {"type": "model", "model": "edulis:block/cutting_board/crimson"}}
+      {"when": "oak_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/oak"}},
+      {"when": "dark_oak_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/dark_oak"}},
+      {"when": "pale_oak_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/pale_oak"}},
+      {"when": "spruce_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/spruce"}},
+      {"when": "acacia_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/acacia"}},
+      {"when": "jungle_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/jungle"}},
+      {"when": "bamboo_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/bamboo"}},
+      {"when": "cherry_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/cherry"}},
+      {"when": "mangrove_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/mangrove"}},
+      {"when": "birch_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/birch"}},
+      {"when": "warped_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/warped"}},
+      {"when": "crimson_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/crimson"}}
     ]
   }
 }

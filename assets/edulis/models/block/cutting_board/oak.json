@@ -3,7 +3,7 @@
 	"credit": "Created by Maltsburg",
 	"textures": {
 		"material": "block/oak_planks",
-		"particle": "block/oak_planks"
+		"particle": "#material"
 	},
 	"elements": [
 		{
@@ -84,7 +84,7 @@
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"gui": {
-			"rotation": [90, -180, 0],
+			"rotation": [90, 0, 0],
 			"translation": [0, 0, 7],
 			"scale": [2, 2, 2]
 		},
@@ -92,7 +92,7 @@
 			"scale": [2, 2, 2]
 		},
 		"on_shelf": {
-			"rotation": [90, -180, 0],
+			"rotation": [90, 0, 0],
 			"translation": [0, 0, 7],
 			"scale": [2, 2, 2]
 		}
