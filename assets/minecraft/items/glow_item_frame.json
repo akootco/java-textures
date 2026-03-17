@@ -1,0 +1,21 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {"type": "model", "model": "item/glow_item_frame"},
+    "cases": [
+      {"when": "cb.oak", "model": {"type": "model", "model": "edulis:block/cutting_board/oak"}},
+      {"when": "cb.dark_oak", "model": {"type": "model", "model": "edulis:block/cutting_board/dark_oak"}},
+      {"when": "cb.pale_oak", "model": {"type": "model", "model": "edulis:block/cutting_board/pale_oak"}},
+      {"when": "cb.spruce", "model": {"type": "model", "model": "edulis:block/cutting_board/spruce"}},
+      {"when": "cb.acacia", "model": {"type": "model", "model": "edulis:block/cutting_board/acacia"}},
+      {"when": "cb.jungle", "model": {"type": "model", "model": "edulis:block/cutting_board/jungle"}},
+      {"when": "cb.bamboo", "model": {"type": "model", "model": "edulis:block/cutting_board/bamboo"}},
+      {"when": "cb.cherry", "model": {"type": "model", "model": "edulis:block/cutting_board/cherry"}},
+      {"when": "cb.mangrove", "model": {"type": "model", "model": "edulis:block/cutting_board/mangrove"}},
+      {"when": "cb.birch", "model": {"type": "model", "model": "edulis:block/cutting_board/birch"}},
+      {"when": "cb.warped", "model": {"type": "model", "model": "edulis:block/cutting_board/warped"}},
+      {"when": "cb.crimson", "model": {"type": "model", "model": "edulis:block/cutting_board/crimson"}}
+    ]
+  }
+}
