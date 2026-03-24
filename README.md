@@ -4,6 +4,4 @@
 ---
 
 
-- updated Jukebox texture
-- updated Bubbly plushie
-- fixed plushie texture mapping issue
+- CUTTING BOARDS
