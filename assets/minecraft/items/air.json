@@ -20,7 +20,15 @@
       {"when": "bw_cake_3", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_3"}},
       {"when": "bw_cake_4", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_4"}},
       {"when": "bw_cake_5", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_5"}},
-      {"when": "bw_cake_6", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_6"}}
+      {"when": "bw_cake_6", "model": {"type": "model", "model": "edulis:block/cakes/bat_wing/slice_6"}},
+
+      {"when": "cheese_full", "model": {"type": "model", "model": "edulis:block/cakes/cheese_wheel/full"}},
+      {"when": "cheese_1", "model": {"type": "model", "model": "edulis:block/cakes/cheese_wheel/slice_1"}},
+      {"when": "cheese_2", "model": {"type": "model", "model": "edulis:block/cakes/cheese_wheel/slice_2"}},
+      {"when": "cheese_3", "model": {"type": "model", "model": "edulis:block/cakes/cheese_wheel/slice_3"}},
+      {"when": "cheese_4", "model": {"type": "model", "model": "edulis:block/cakes/cheese_wheel/slice_4"}},
+      {"when": "cheese_5", "model": {"type": "model", "model": "edulis:block/cakes/cheese_wheel/slice_5"}},
+      {"when": "cheese_6", "model": {"type": "model", "model": "edulis:block/cakes/cheese_wheel/slice_6"}}
     ],
     "fallback":
     {

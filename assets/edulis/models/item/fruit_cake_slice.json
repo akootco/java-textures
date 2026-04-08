@@ -1,6 +1,6 @@
 {
   "parent": "item/fixed",
   "textures": {
-    "layer0": "edulis:item/fruit_cake_slice/fruit_cake_slice"
+    "layer0": "edulis:item/fruit_cake_slice"
   }
 }

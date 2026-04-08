@@ -1,5 +1,5 @@
 {
-  "parent": "edulis:item/super_burrito/super_burrito",
+  "parent": "edulis:item/super_burrito",
   "textures": {
     "layer0": "edulis:item/super_burrito/bite2"
   }

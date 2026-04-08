@@ -1,6 +1,0 @@
-{
-  "parent": "item/fixed",
-  "textures": {
-    "layer0": "edulis:item/cheddar_cheese/cheddar_cheese"
-  }
-}

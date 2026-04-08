@@ -1,6 +1,6 @@
 {
   "parent": "item/fixed",
   "textures": {
-    "layer0": "edulis:item/pizza_slice/pizza_slice"
+    "layer0": "edulis:item/pizza_slice"
   }
 }

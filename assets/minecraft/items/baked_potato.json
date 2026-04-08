@@ -73,11 +73,6 @@
           {"threshold": 16, "model": {"type": "model", "model": "edulis:item/keylime_pie_slice/bite1"}},
           {"threshold": 24, "model": {"type": "model", "model": "edulis:item/keylime_pie_slice/bite2"}}]}},
 
-        {"threshold": 11, "model": {"type": "range_dispatch", "property": "use_duration", "entries": [
-          {"threshold": 0, "model": {"type": "model", "model": "edulis:item/cheesecake_slice"}},
-          {"threshold": 16, "model": {"type": "model", "model": "edulis:item/cheesecake_slice/bite1"}},
-          {"threshold": 24, "model": {"type": "model", "model": "edulis:item/cheesecake_slice/bite2"}}]}},
-
         {"threshold": 13, "model": {"type": "range_dispatch", "property": "use_duration", "entries": [
           {"threshold": 0, "model": {"type": "model", "model": "edulis:item/whipped_cream_pie_slice"}},
           {"threshold": 16, "model": {"type": "model", "model": "edulis:item/whipped_cream_pie_slice/bite1"}},
@@ -106,9 +101,9 @@
         {"threshold": 18, "model": {"type": "model", "model": "edulis:item/butter"}},
 
         {"threshold": 19, "model": {"type": "range_dispatch", "property": "use_duration", "entries": [
-          {"threshold": 0, "model": {"type": "model", "model": "edulis:item/cheddar_cheese"}},
-          {"threshold": 16, "model": {"type": "model", "model": "edulis:item/cheddar_cheese/bite1"}},
-          {"threshold": 24, "model": {"type": "model", "model": "edulis:item/cheddar_cheese/bite2"}}]}},
+          {"threshold": 0, "model": {"type": "model", "model": "edulis:item/cheese_slice"}},
+          {"threshold": 16, "model": {"type": "model", "model": "edulis:item/cheese_slice/bite1"}},
+          {"threshold": 24, "model": {"type": "model", "model": "edulis:item/cheese_slice/bite2"}}]}},
 
         {"threshold": 21, "model": {"type": "model", "model": "edulis:item/creamer"}},
 

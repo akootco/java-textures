@@ -1,6 +1,6 @@
 {
   "parent": "item/fixed",
   "textures": {
-    "layer0": "edulis:item/sugar_cookie/sugar_cookie"
+    "layer0": "edulis:item/sugar_cookie"
   }
 }

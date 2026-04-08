@@ -1,6 +1,6 @@
 {
   "parent": "item/fixed",
   "textures": {
-    "layer0": "edulis:item/mustard_hot_dog/mustard_hot_dog"
+    "layer0": "edulis:item/mustard_hot_dog"
   }
 }

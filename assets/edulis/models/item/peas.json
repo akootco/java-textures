@@ -1,6 +1,6 @@
 {
   "parent": "item/fixed",
   "textures": {
-    "layer0": "edulis:item/peas/peas"
+    "layer0": "edulis:item/peas"
   }
 }

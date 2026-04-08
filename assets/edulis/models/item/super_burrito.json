@@ -1,7 +1,7 @@
 {
   "parent": "item/fixed",
   "textures": {
-    "layer0": "edulis:item/super_burrito/super_burrito"
+    "layer0": "edulis:item/super_burrito"
   },
   "display": {
     "thirdperson_righthand": {
