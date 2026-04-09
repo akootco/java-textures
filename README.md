@@ -3,5 +3,7 @@
 
 ---
 
+- added Cheese Wheel (item and block)
+- updated Cheese Slice
 
-- CUTTING BOARDS
+made by ![hash](https://maltsburg.com/head/lilhashbrown/16)
