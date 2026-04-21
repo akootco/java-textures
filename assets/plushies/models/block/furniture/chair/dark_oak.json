@@ -1,0 +1,7 @@
+{
+	"format_version": "1.21.11",
+	"parent": "plushies:block/furniture/chair/oak",
+	"textures": {
+		"material": "block/stripped_dark_oak_log"
+	}
+}
