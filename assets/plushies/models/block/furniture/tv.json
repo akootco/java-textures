@@ -1,0 +1,103 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Created by Maltsburg",
+	"textures": {
+		"0": "block/nether_portal",
+		"1": "block/netherite_block",
+		"2": "block/black_concrete",
+		"particle": "block/netherite_block"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 5.5],
+			"to": [12, 0.5, 9.5],
+			"rotation": {"x": 0, "y": -180, "z": 0, "origin": [8, 3.45, 7.755]},
+			"faces": {
+				"north": {"uv": [1, 0.5, 9, 1], "texture": "#1"},
+				"east": {"uv": [1, 0.5, 5, 1], "texture": "#1"},
+				"south": {"uv": [0, 0.5, 8, 1], "texture": "#1"},
+				"west": {"uv": [0, 0.5, 4, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 0.5, 7],
+			"to": [9, 1.5, 8],
+			"rotation": {"x": 0, "y": -180, "z": 0, "origin": [8, 3.45, 7.755]},
+			"faces": {
+				"north": {"uv": [4, 0, 6, 1], "texture": "#1"},
+				"east": {"uv": [2.5, 0, 3.5, 1], "texture": "#1"},
+				"south": {"uv": [3, 0, 5, 1], "texture": "#1"},
+				"west": {"uv": [1.5, 0, 2.5, 1], "texture": "#1"},
+				"up": {"uv": [3, 1.5, 5, 2.5], "texture": "#1"},
+				"down": {"uv": [3, 2.5, 5, 3.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 1.5, 7],
+			"to": [16, 11.5, 8],
+			"rotation": {"x": 0, "y": -180, "z": 0, "origin": [8, 3.45, 7.755]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [2.5, 0, 3.5, 10], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [1.5, 0, 2.5, 10], "texture": "#1"},
+				"up": {"uv": [0, 1.5, 16, 2.5], "texture": "#1"},
+				"down": {"uv": [0, 2.5, 16, 3.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0.25, 2.05, 8.01],
+			"to": [15.75, 11.25, 8.01],
+			"rotation": {"x": 0, "y": -180, "z": 0, "origin": [8, 3.45, 7.755]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 15.75, 9.75], "texture": "#0"},
+				"east": {"uv": [2.5, 0.25, 2.5, 9.75], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [2.5, 0.25, 2.5, 9.75], "texture": "#0"},
+				"up": {"uv": [0.25, 2.5, 15.75, 2.5], "texture": "#0"},
+				"down": {"uv": [0.25, 2.5, 15.75, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.25, 2.05, 8],
+			"to": [15.75, 11.25, 8],
+			"rotation": {"x": 0, "y": -180, "z": 0, "origin": [8, 3.45, 7.755]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 15.75, 9.75], "texture": "#2"},
+				"east": {"uv": [2.5, 0.25, 2.5, 9.75], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [2.5, 0.25, 2.5, 9.75], "texture": "#2"},
+				"up": {"uv": [0.25, 2.5, 15.75, 2.5], "texture": "#2"},
+				"down": {"uv": [0.25, 2.5, 15.75, 2.5], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-165.53, 19.01, -160.5],
+			"translation": [0, 3, 1.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-165.53, 19.01, -160.5],
+			"translation": [0, 3, 1.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"on_shelf": {
+			"rotation": [-180, 0, -180]
+		}
+	}
+}

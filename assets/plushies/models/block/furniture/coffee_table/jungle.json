@@ -1,0 +1,7 @@
+{
+	"format_version": "1.21.11",
+	"parent": "plushies:block/furniture/coffee_table/oak",
+	"textures": {
+		"material": "block/stripped_jungle_log"
+	}
+}
