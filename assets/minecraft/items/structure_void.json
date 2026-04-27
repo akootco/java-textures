@@ -10,6 +10,9 @@
       {"when": "love_seat", "model": {"type": "model", "model": "plushies:block/furniture/love_seat",  "tints": [{"type": "dye", "default": -1}]}},
       {"when": "arm_chair", "model": {"type": "model", "model": "plushies:block/furniture/arm_chair",  "tints": [{"type": "dye", "default": -1}]}},
 
+      {"when": "chair", "model": {"type": "model", "model": "plushies:block/furniture/chair",  "tints": [{"type": "dye", "default": -1}]}},
+      {"when": "office_chair", "model": {"type": "model", "model": "plushies:block/furniture/office_chair",  "tints": [{"type": "dye", "default": -1}]}},
+
       {"when": "oak_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/oak"}},
       {"when": "birch_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/birch"}},
       {"when": "dark_oak_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/dark_oak"}},
