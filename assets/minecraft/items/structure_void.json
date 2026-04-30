@@ -4,6 +4,13 @@
     "property": "custom_model_data",
     "fallback": {"type": "model", "model": "item/structure_void"},
     "cases": [
+      {
+        "when": "folding_chair",
+        "model": {"type": "select", "property": "display_context",
+          "cases": [{"when": "fixed", "model": {"type": "model", "model": "plushies:block/furniture/folding_chair"}}],
+          "fallback": {"type": "model", "model": "plushies:block/furniture/folded_chair"}
+        }
+      },
 
       {"when": "tv", "model": {"type": "model", "model": "plushies:block/furniture/tv"}},
 
@@ -16,7 +23,7 @@
       {"when": "oak_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/oak"}},
       {"when": "birch_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/birch"}},
       {"when": "dark_oak_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/dark_oak"}},
-      {"when": "pale_oak_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/pale_oak"}},
+      {"when": "pale_oak_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/pale_oak", "tints": [{"type": "dye", "default": -1}]}} ,
       {"when": "acacia_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/acacia"}},
       {"when": "bamboo_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/bamboo"}},
       {"when": "cherry_chair", "model": {"type": "model", "model": "plushies:block/furniture/chair/cherry"}},
