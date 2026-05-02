@@ -1,9 +1,6 @@
 # Akoot & Co. Resource Pack
-**Minecraft Java Edition — 1.21.11**
+**Minecraft Java Edition — 26.2.1**
 
 ---
 
-- added Cheese Wheel (item and block)
-- updated Cheese Slice
-
-made by ![hash](https://maltsburg.com/head/lilhashbrown/16)
+- more HATS

@@ -1,1 +1,9 @@
-{"parent": "plushies:hats/hat", "display": {"head": {"rotation": [0, 180, 0]}}}
+{
+  "parent": "plushies:hats/hat",
+  "display": {
+    "head": {
+      "rotation": [4.75, 180, 0],
+      "translation": [0, 0, -0.25]
+    }
+  }
+}

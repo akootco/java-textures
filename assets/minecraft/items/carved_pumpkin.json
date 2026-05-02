@@ -32,7 +32,28 @@
             { "type": "model", "model": "plushies:hats/smitty/cans" }
           ]
         }
-      }
+      },
+
+      { "when": "flower_hat", "model": { "type": "model", "model": "plushies:hats/flower/parent/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] } },
+      { "when": "cornflower_hat", "model": { "type": "model", "model": "plushies:hats/flower/cornflower", "tints": [ { "type": "minecraft:dye", "default": 4282795770 } ] } },
+      { "when": "allium_hat", "model": { "type": "model", "model": "plushies:hats/flower/allium", "tints": [ { "type": "minecraft:dye", "default": 13061821 } ] } },
+      { "when": "blue_orchid_hat", "model": { "type": "model", "model": "plushies:hats/flower/blue_orchid", "tints": [ { "type": "minecraft:dye", "default": 3847130 } ] } },
+      { "when": "poppy_hat", "model": { "type": "model", "model": "plushies:hats/flower/poppy", "tints": [ { "type": "minecraft:dye", "default": 11546150 } ] } },
+      { "when": "pink_tulip_hat", "model": { "type": "model", "model": "plushies:hats/flower/pink_tulip", "tints": [ { "type": "minecraft:dye", "default": 15961002 } ] } },
+      { "when": "azure_bluet_hat", "model": { "type": "model", "model": "plushies:hats/flower/azure_bluet", "tints": [ { "type": "minecraft:dye", "default": 10329495 } ] } },
+      { "when": "open_eyeblossom_hat", "model": { "type": "model", "model": "plushies:hats/flower/open_eyeblossom", "tints": [ { "type": "minecraft:dye", "default": 16351261 } ] } },
+      { "when": "closed_eyeblossom_hat", "model": { "type": "model", "model": "plushies:hats/flower/closed_eyeblossom", "tints": [ { "type": "minecraft:dye", "default": 4673362 } ] } },
+      { "when": "white_tulip_hat", "model": { "type": "model", "model": "plushies:hats/flower/white_tulip", "tints": [ { "type": "minecraft:dye", "default": 10329495 } ] } },
+      { "when": "orange_tulip_hat", "model": { "type": "model", "model": "plushies:hats/flower/orange_tulip", "tints": [ { "type": "minecraft:dye", "default": 14188339 } ] } },
+      { "when": "oxeye_daisy_hat", "model": { "type": "model", "model": "plushies:hats/flower/oxeye_daisy", "tints": [ { "type": "minecraft:dye", "default": 10329495 } ] } },
+      { "when": "wither_rose_hat", "model": { "type": "model", "model": "plushies:hats/flower/wither_rose", "tints": [ { "type": "minecraft:dye", "default": 1908001 } ] } },
+      { "when": "lily_of_the_valley_hat", "model": { "type": "model", "model": "plushies:hats/flower/lily_of_the_valley", "tints": [ { "type": "minecraft:dye", "default": -1 } ] } },
+      { "when": "torchflower_hat", "model": { "type": "model", "model": "plushies:hats/flower/torchflower", "tints": [ { "type": "minecraft:dye", "default": 16351261 } ] } },
+      { "when": "sunflower_hat", "model": { "type": "model", "model": "plushies:hats/flower/parent/sunflower", "tints": [ { "type": "minecraft:dye", "default": 16701501 } ] } },
+      { "when": "dandelion_hat", "model": { "type": "model", "model": "plushies:hats/flower/dandelion", "tints": [ { "type": "minecraft:dye", "default": 16701501 } ] } },
+
+      { "when": "brown_mushroom_hat", "model": { "type": "model", "model": "plushies:hats/flower/brown_mushroom", "tints": [ { "type": "minecraft:dye", "default": 8606770 } ] } },
+      { "when": "red_mushroom_hat", "model": { "type": "model", "model": "plushies:hats/flower/red_mushroom", "tints": [ { "type": "minecraft:dye", "default": 11546150 } ] } }
     ]
   }
 }

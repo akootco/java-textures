@@ -1,0 +1,4 @@
+{
+	"parent": "plushies:hats/flower/parent/hat",
+	"textures": {"flower": "block/orange_tulip"}
+}

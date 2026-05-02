@@ -1,0 +1,4 @@
+{
+	"parent": "plushies:hats/flower/parent/hat_small",
+	"textures": {"flower": "block/closed_eyeblossom"}
+}

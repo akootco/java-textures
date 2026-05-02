@@ -6,6 +6,12 @@
 	"textures": {
 		"7": "plushies:item/hats/smitty"
 	},
+	"display": {
+		"head": {
+			"rotation": [5.75, 0, 0],
+			"translation": [0, 0, -0.25]
+		}
+	},
 	"elements": [
 		{
 			"from": [10, 13.05, 0.075],
