@@ -1,0 +1,7 @@
+{
+	"parent": "plushies:hats/flower/parent/hat_small",
+	"textures": {
+		"flower": "block/open_eyeblossom",
+		"4": "block/open_eyeblossom_emissive"
+	}
+}

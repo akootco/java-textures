@@ -2,8 +2,8 @@
   "pack": {
     "pack_format": 46,
     "min_format": 46,
-    "max_format": 75,
-		"supported_formats": {"min_inclusive": 46, "max_inclusive": 75},
+    "max_format": 84,
+		"supported_formats": {"min_inclusive": 46, "max_inclusive": 84},
         "description": "§6Akoot&Co"
     }
 }
