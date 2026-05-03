@@ -2,6 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made by IPA",
 	"texture_size": [14, 44],
+	"textures" : { "particle" : "#0"},
 	"elements": [
 		{
 			"from": [0.98, -0.01, 0.98],
