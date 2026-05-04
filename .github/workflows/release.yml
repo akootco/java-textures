@@ -20,22 +20,9 @@ jobs:
         with:
           ref: master
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          pip install requests
-
-      - name: Run Python script
-        run: |
-          python zip.py
-
       - name: Create zip archive
         run: |
-          zip -r java.zip . -x ".*" "zip.py" "README.md"
+          zip -r java.zip . -x ".*" "README.md"
 
       - name: Create release
         env:
