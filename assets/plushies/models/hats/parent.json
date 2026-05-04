@@ -1,4 +1,7 @@
 {
+  "textures": {
+    "particle": "plushies:item/blank"
+  },
   "display": {
     "thirdperson_righthand": {
       "translation": [0, -0.5, 0],
