@@ -3,7 +3,8 @@
 	"credit": "Created by Maltsburg",
 	"textures": {
 		"0": "block/white_wool",
-		"1": "block/stripped_oak_log"
+		"1": "block/stripped_oak_log",
+		"particle" : "#0"
 	},
 	"elements": [
 		{

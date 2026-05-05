@@ -2,7 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Created by Maltsburg",
 	"textures": {
-		"material": "block/stripped_oak_log"
+		"material": "block/stripped_oak_log",
+		"particle" : "#material"
 	},
 	"elements": [
 		{

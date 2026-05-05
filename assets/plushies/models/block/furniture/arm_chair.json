@@ -1,10 +1,10 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Created by Maltsburg",
-	"parent": "plushies:block/furniture/parent",
 	"textures": {
 		"1": "block/dark_oak_planks",
-		"2": "block/white_concrete_powder"
+		"2": "block/white_concrete_powder",
+		"particle" : "#2"
 	},
 	"elements": [
 		{
