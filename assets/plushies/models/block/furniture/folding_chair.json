@@ -2,7 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Created by Maltsburg",
 	"textures": {
-		"1": "block/light_gray_terracotta"
+		"1": "block/light_gray_terracotta",
+		"particle" : "#1"
 	},
 	"elements": [
 		{

@@ -4,7 +4,8 @@
 	"parent": "item/generated",
 	"textures": {
 		"glass": "block/light_gray_stained_glass",
-		"material": "block/stripped_oak_log"
+		"material": "block/stripped_oak_log",
+		"particle" : "#material"
 	},
 	"elements": [
 		{
