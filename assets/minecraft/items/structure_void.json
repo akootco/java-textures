@@ -13,6 +13,8 @@
       },
 
       {"when": "tv", "model": {"type": "model", "model": "plushies:block/furniture/tv"}},
+      {"when": "desk", "model": {"type": "model", "model": "plushies:block/furniture/desk",  "tints": [{"type": "dye", "default": -1}]}},
+      {"when": "barstool", "model": {"type": "model", "model": "plushies:block/furniture/barstool"}},
 
       {"when": "love_seat", "model": {"type": "model", "model": "plushies:block/furniture/love_seat",  "tints": [{"type": "dye", "default": -1}]}},
       {"when": "arm_chair", "model": {"type": "model", "model": "plushies:block/furniture/arm_chair",  "tints": [{"type": "dye", "default": -1}]}},
