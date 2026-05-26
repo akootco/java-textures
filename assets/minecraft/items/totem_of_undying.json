@@ -22,8 +22,16 @@
       {"when": "rivtar.st", "model": {"type": "model", "model": "plushies:plushies/rivtar/rivtar.st"}},
 
       {"when": "hacktivision", "model": {"type": "model", "model": "plushies:plushies/hacktivision"}},
-      {"when": "hacktivision.st", "model": {"type": "model", "model": "plushies:plushies/hacktivision.st"}}
+      {"when": "hacktivision.st", "model": {"type": "model", "model": "plushies:plushies/hacktivision.st"}},
 
+      {"when": "teo_exe_", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_"}},
+      {"when": "teo_exe_.st", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_.st"}},
+
+      {"when": "lucky_cristi", "model": {"type": "model", "model": "plushies:plushies/lucky_cristi/lucky_cristi"}},
+      {"when": "lucky_cristi.st", "model": {"type": "model", "model": "plushies:plushies/lucky_cristi/lucky_cristi.st"}},
+
+      {"when": "danielwildchild", "model": {"type": "model", "model": "plushies:plushies/danielwildchild/danielwildchild"}},
+      {"when": "danielwildchild.st", "model": {"type": "model", "model": "plushies:plushies/danielwildchild/danielwildchild.st"}}
     ],
     "fallback": {"type": "range_dispatch", "property": "custom_model_data",
       "fallback": {"type": "model", "model": "item/totem_of_undying"},

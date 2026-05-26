@@ -3,4 +3,4 @@
 
 ---
 
-- more HATS
+- changes to hats

@@ -51,6 +51,7 @@
       { "when": "torchflower_hat", "model": { "type": "model", "model": "plushies:hats/flower/torchflower", "tints": [ { "type": "minecraft:dye", "default": 16351261 } ] } },
       { "when": "sunflower_hat", "model": { "type": "model", "model": "plushies:hats/flower/parent/sunflower", "tints": [ { "type": "minecraft:dye", "default": 16701501 } ] } },
       { "when": "dandelion_hat", "model": { "type": "model", "model": "plushies:hats/flower/dandelion", "tints": [ { "type": "minecraft:dye", "default": 16701501 } ] } },
+      { "when": "red_tulip_hat", "model": { "type": "model", "model": "plushies:hats/flower/red_tulip", "tints": [ { "type": "minecraft:dye", "default": 11546150 } ] } },
 
       { "when": "brown_mushroom_hat", "model": { "type": "model", "model": "plushies:hats/flower/brown_mushroom", "tints": [ { "type": "minecraft:dye", "default": 8606770 } ] } },
       { "when": "red_mushroom_hat", "model": { "type": "model", "model": "plushies:hats/flower/red_mushroom", "tints": [ { "type": "minecraft:dye", "default": 11546150 } ] } }
