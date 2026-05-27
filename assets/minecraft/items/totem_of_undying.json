@@ -31,7 +31,10 @@
       {"when": "lucky_cristi.st", "model": {"type": "model", "model": "plushies:plushies/lucky_cristi/lucky_cristi.st"}},
 
       {"when": "danielwildchild", "model": {"type": "model", "model": "plushies:plushies/danielwildchild/danielwildchild"}},
-      {"when": "danielwildchild.st", "model": {"type": "model", "model": "plushies:plushies/danielwildchild/danielwildchild.st"}}
+      {"when": "danielwildchild.st", "model": {"type": "model", "model": "plushies:plushies/danielwildchild/danielwildchild.st"}},
+
+      {"when": "melontania", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania"}},
+      {"when": "melontania.st", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania.st"}}
     ],
     "fallback": {"type": "range_dispatch", "property": "custom_model_data",
       "fallback": {"type": "model", "model": "item/totem_of_undying"},
