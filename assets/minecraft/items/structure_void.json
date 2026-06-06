@@ -38,7 +38,7 @@
       {"when": "oak_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/oak"}},
       {"when": "birch_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/birch"}},
       {"when": "dark_oak_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/dark_oak"}},
-      {"when": "pale_oak_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/pale_oak"}},
+      {"when": "pale_oak_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/pale_oak", "tints": [{"type": "dye", "default": -1}]}},
       {"when": "acacia_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/acacia"}},
       {"when": "bamboo_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/bamboo"}},
       {"when": "cherry_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/cherry"}},
@@ -46,7 +46,20 @@
       {"when": "jungle_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/jungle"}},
       {"when": "mangrove_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/mangrove"}},
       {"when": "spruce_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/spruce"}},
-      {"when": "warped_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/warped"}}
+      {"when": "warped_coffee_table", "model": {"type": "model", "model": "plushies:block/furniture/coffee_table/warped"}},
+
+      {"when": "oak_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/oak"}},
+      {"when": "birch_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/birch"}},
+      {"when": "dark_oak_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/dark_oak"}},
+      {"when": "pale_oak_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/pale_oak", "tints": [{"type": "dye", "default": -1}]}},
+      {"when": "acacia_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/acacia"}},
+      {"when": "bamboo_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/bamboo"}},
+      {"when": "cherry_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/cherry"}},
+      {"when": "crimson_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/crimson"}},
+      {"when": "jungle_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/jungle"}},
+      {"when": "mangrove_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/mangrove"}},
+      {"when": "spruce_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/spruce"}},
+      {"when": "warped_stool", "model": {"type": "model", "model": "plushies:block/furniture/stool/warped"}}
     ]
   }
 }
