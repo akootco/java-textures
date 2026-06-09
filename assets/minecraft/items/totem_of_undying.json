@@ -34,7 +34,13 @@
       {"when": "danielwildchild.st", "model": {"type": "model", "model": "plushies:plushies/danielwildchild/danielwildchild.st"}},
 
       {"when": "melontania", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania"}},
-      {"when": "melontania.st", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania.st"}}
+      {"when": "melontania.st", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania.st"}},
+
+      {"when": "luminous0ryx", "model": {"type": "model", "model": "plushies:plushies/luminous0ryx/luminous0ryx"}},
+      {"when": "luminous0ryx.st", "model": {"type": "model", "model": "plushies:plushies/luminous0ryx/luminous0ryx.st"}},
+
+      {"when": "_witch_craft_", "model": {"type": "model", "model": "plushies:plushies/_witch_craft_/_witch_craft_"}},
+      {"when": "_witch_craft_.st", "model": {"type": "model", "model": "plushies:plushies/_witch_craft_/_witch_craft_.st"}}
     ],
     "fallback": {"type": "range_dispatch", "property": "custom_model_data",
       "fallback": {"type": "model", "model": "item/totem_of_undying"},
