@@ -170,6 +170,9 @@
 		"head": {
 			"scale": [0, 0, 0]
 		},
+		"fixed": {
+			"scale": [0.8, 1, 0.8]
+		},
 		"on_shelf": {
 			"rotation": [0, -180, 0],
 			"translation": [0, 0, 2]
