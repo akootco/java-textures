@@ -34,6 +34,28 @@
         }
       },
 
+      {
+        "when": "uh",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/uh" }
+          ]
+        }
+      },
+
+      {
+        "when": "akc",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/hat" }
+          ]
+        }
+      },
+
       { "when": "flower_hat", "model": { "type": "model", "model": "plushies:hats/flower/parent/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] } },
       { "when": "cornflower_hat", "model": { "type": "model", "model": "plushies:hats/flower/cornflower", "tints": [ { "type": "minecraft:dye", "default": 4282795770 } ] } },
       { "when": "allium_hat", "model": { "type": "model", "model": "plushies:hats/flower/allium", "tints": [ { "type": "minecraft:dye", "default": 13061821 } ] } },

@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "plushies:hats/custom/hat",
+	"textures": {
+		"front": "plushies:item/hats/custom/uh/uh",
+		"back": "plushies:item/hats/custom/uh/cougar_logo",
+		"side": "plushies:item/hats/custom/uh/cougar_text"
+	}
+}
