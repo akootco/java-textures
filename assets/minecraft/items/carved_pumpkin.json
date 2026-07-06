@@ -56,6 +56,94 @@
         }
       },
 
+      {
+        "when": "penjamin",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/penjamin" }
+          ]
+        }
+      },
+
+      {
+        "when": "ipa_hat",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/mons/ipa_hat" }
+          ]
+        }
+      },
+
+      {
+        "when": "hash_hat",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/mons/hash_hat" }
+          ]
+        }
+      },
+
+      {
+        "when": "xan_hat",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/mons/xan_hat" }
+          ]
+        }
+      },
+
+      {
+        "when": "visc_hat",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/mons/visc_hat" }
+          ]
+        }
+      },
+
+      {
+        "when": "akoot_hat",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/mons/akoot_hat" }
+          ]
+        }
+      },
+
+      {
+        "when": "berry_hat",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/mons/berry_hat" }
+          ]
+        }
+      },
+
+      {
+        "when": "moose_hat",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "plushies:hats/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] },
+            { "type": "model", "model": "plushies:hats/custom/mons/moose_hat" }
+          ]
+        }
+      }
+    ,
       { "when": "flower_hat", "model": { "type": "model", "model": "plushies:hats/flower/parent/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] } },
       { "when": "cornflower_hat", "model": { "type": "model", "model": "plushies:hats/flower/cornflower", "tints": [ { "type": "minecraft:dye", "default": 4282795770 } ] } },
       { "when": "allium_hat", "model": { "type": "model", "model": "plushies:hats/flower/allium", "tints": [ { "type": "minecraft:dye", "default": 13061821 } ] } },

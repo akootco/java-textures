@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "plushies:hats/custom/hat",
+	"textures": {
+		"front": "plushies:item/mons/viscmon"
+	}
+}

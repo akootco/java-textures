@@ -3,6 +3,8 @@
     "type": "select",
     "property": "custom_model_data",
     "cases": [
+      {"when": "gidget", "model": {"type": "model", "model": "plushies:plushies/gidget"}},
+
       {"when": "blackberry_shades", "model": {"type": "model", "model": "plushies:plushies/blackberry/shades"}},
       {"when": "blackberry_shades.st", "model": {"type": "model", "model": "plushies:plushies/blackberry/shades.st"}},
       {"when": "blackberry_sweater", "model": {"type": "model", "model": "plushies:plushies/blackberry/sweater"}},
