@@ -40,12 +40,12 @@
       {"name": "plushies:saber/2", "weight": 1}
     ]
   },
-  "faaah": {"sounds": [{"name": "plushies:faaah", "stream": true}]},
-  "pluh": {"sounds": [{"name": "plushies:pluh", "stream": true}]},
+  "faaah": {"sounds": [{"name": "plushies:faaah", "stream": true}], "subtitle": "FAAAH"},
+  "pluh": {"sounds": [{"name": "plushies:pluh", "stream": true}],"subtitle": "pluh"},
   "tacobell": {"sounds": [{"name": "plushies:tacobell", "stream": true, "volume": 0.5}]},
-  "ack": {"sounds": [{"name": "plushies:ack", "stream": true}]},
+  "ack": {"sounds": [{"name": "plushies:ack", "stream": true}],"subtitle": "ACK"},
   "tug_boat": {"sounds": [{"name": "plushies:tug_boat", "stream": true, "volume": 0.5}]},
   "core": {"sounds": [{"name": "plushies:core", "stream": true, "volume": 0.5}]},
-  "smoke_alarm": {"sounds": [{"name": "plushies:smoke_alarm", "stream": true}]},
+  "smoke_alarm": {"sounds": [{"name": "plushies:smoke_alarm", "stream": true}],"subtitle": "*beep*"},
   "fail": {"sounds": [{"name": "plushies:fail", "stream": true}]}
 }
