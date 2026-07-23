@@ -1,0 +1,139 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "prefix": "item/",
+      "source": "item"
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "minecraft:trims/color_palettes/trim_palette",
+      "permutations": {
+        "amethyst": "minecraft:trims/color_palettes/amethyst",
+        "copper": "minecraft:trims/color_palettes/copper",
+        "copper_darker": "minecraft:trims/color_palettes/copper_darker",
+        "diamond": "minecraft:trims/color_palettes/diamond",
+        "diamond_darker": "minecraft:trims/color_palettes/diamond_darker",
+        "emerald": "minecraft:trims/color_palettes/emerald",
+        "gold": "minecraft:trims/color_palettes/gold",
+        "gold_darker": "minecraft:trims/color_palettes/gold_darker",
+        "iron": "minecraft:trims/color_palettes/iron",
+        "iron_darker": "minecraft:trims/color_palettes/iron_darker",
+        "lapis": "minecraft:trims/color_palettes/lapis",
+        "netherite": "minecraft:trims/color_palettes/netherite",
+        "netherite_darker": "minecraft:trims/color_palettes/netherite_darker",
+        "quartz": "minecraft:trims/color_palettes/quartz",
+        "redstone": "minecraft:trims/color_palettes/redstone",
+        "resin": "minecraft:trims/color_palettes/resin"
+      },
+      "textures": [
+        "minecraft:trims/items/helmet_trim",
+        "minecraft:trims/items/chestplate_trim",
+        "minecraft:trims/items/leggings_trim",
+        "minecraft:trims/items/boots_trim",
+        "trimmed_wings:trims/items/sword_bolt_trim",
+        "trimmed_wings:trims/items/sword_coast_trim",
+        "trimmed_wings:trims/items/sword_dune_trim",
+        "trimmed_wings:trims/items/sword_eye_trim",
+        "trimmed_wings:trims/items/sword_flow_trim",
+        "trimmed_wings:trims/items/sword_host_trim",
+        "trimmed_wings:trims/items/sword_raiser_trim",
+        "trimmed_wings:trims/items/sword_rib_trim",
+        "trimmed_wings:trims/items/sword_sentry_trim",
+        "trimmed_wings:trims/items/sword_shaper_trim",
+        "trimmed_wings:trims/items/sword_silence_trim",
+        "trimmed_wings:trims/items/sword_snout_trim",
+        "trimmed_wings:trims/items/sword_spire_trim",
+        "trimmed_wings:trims/items/sword_tide_trim",
+        "trimmed_wings:trims/items/sword_vex_trim",
+        "trimmed_wings:trims/items/sword_ward_trim",
+        "trimmed_wings:trims/items/sword_wayfinder_trim",
+        "trimmed_wings:trims/items/sword_wild_trim",
+
+
+        "trimmed_wings:trims/items/pickaxe_bolt_trim",
+        "trimmed_wings:trims/items/pickaxe_coast_trim",
+        "trimmed_wings:trims/items/pickaxe_dune_trim",
+        "trimmed_wings:trims/items/pickaxe_eye_trim",
+        "trimmed_wings:trims/items/pickaxe_flow_trim",
+        "trimmed_wings:trims/items/pickaxe_host_trim",
+        "trimmed_wings:trims/items/pickaxe_raiser_trim",
+        "trimmed_wings:trims/items/pickaxe_rib_trim",
+        "trimmed_wings:trims/items/pickaxe_sentry_trim",
+        "trimmed_wings:trims/items/pickaxe_shaper_trim",
+        "trimmed_wings:trims/items/pickaxe_silence_trim",
+        "trimmed_wings:trims/items/pickaxe_snout_trim",
+        "trimmed_wings:trims/items/pickaxe_spire_trim",
+        "trimmed_wings:trims/items/pickaxe_tide_trim",
+        "trimmed_wings:trims/items/pickaxe_vex_trim",
+        "trimmed_wings:trims/items/pickaxe_ward_trim",
+        "trimmed_wings:trims/items/pickaxe_wayfinder_trim",
+        "trimmed_wings:trims/items/pickaxe_wild_trim",
+
+
+        "trimmed_wings:trims/items/axe_bolt_trim",
+        "trimmed_wings:trims/items/axe_coast_trim",
+        "trimmed_wings:trims/items/axe_dune_trim",
+        "trimmed_wings:trims/items/axe_eye_trim",
+        "trimmed_wings:trims/items/axe_flow_trim",
+        "trimmed_wings:trims/items/axe_host_trim",
+        "trimmed_wings:trims/items/axe_raiser_trim",
+        "trimmed_wings:trims/items/axe_rib_trim",
+        "trimmed_wings:trims/items/axe_sentry_trim",
+        "trimmed_wings:trims/items/axe_shaper_trim",
+        "trimmed_wings:trims/items/axe_silence_trim",
+        "trimmed_wings:trims/items/axe_snout_trim",
+        "trimmed_wings:trims/items/axe_spire_trim",
+        "trimmed_wings:trims/items/axe_tide_trim",
+        "trimmed_wings:trims/items/axe_vex_trim",
+        "trimmed_wings:trims/items/axe_ward_trim",
+        "trimmed_wings:trims/items/axe_wayfinder_trim",
+        "trimmed_wings:trims/items/axe_wild_trim",
+
+
+        "trimmed_wings:trims/items/shovel_bolt_trim",
+        "trimmed_wings:trims/items/shovel_coast_trim",
+        "trimmed_wings:trims/items/shovel_dune_trim",
+        "trimmed_wings:trims/items/shovel_eye_trim",
+        "trimmed_wings:trims/items/shovel_flow_trim",
+        "trimmed_wings:trims/items/shovel_host_trim",
+        "trimmed_wings:trims/items/shovel_raiser_trim",
+        "trimmed_wings:trims/items/shovel_rib_trim",
+        "trimmed_wings:trims/items/shovel_sentry_trim",
+        "trimmed_wings:trims/items/shovel_shaper_trim",
+        "trimmed_wings:trims/items/shovel_silence_trim",
+        "trimmed_wings:trims/items/shovel_snout_trim",
+        "trimmed_wings:trims/items/shovel_spire_trim",
+        "trimmed_wings:trims/items/shovel_tide_trim",
+        "trimmed_wings:trims/items/shovel_vex_trim",
+        "trimmed_wings:trims/items/shovel_ward_trim",
+        "trimmed_wings:trims/items/shovel_wayfinder_trim",
+        "trimmed_wings:trims/items/shovel_wild_trim",
+
+
+
+        "trimmed_wings:trims/items/elytra_trim"
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
