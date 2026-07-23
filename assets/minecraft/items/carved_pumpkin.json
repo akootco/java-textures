@@ -142,8 +142,16 @@
             { "type": "model", "model": "plushies:hats/custom/mons/moose_hat" }
           ]
         }
-      }
-    ,
+      },
+
+      { "when": "armorer_hat", "model": { "type": "model", "model": "plushies:hats/villager/armorer_hat" } },
+      { "when": "butcher_hat", "model": { "type": "model", "model": "plushies:hats/villager/butcher_hat" } },
+      { "when": "farmer_hat", "model": { "type": "model", "model": "plushies:hats/villager/farmer_hat" } },
+      { "when": "fisherman_hat", "model": { "type": "model", "model": "plushies:hats/villager/fisherman_hat" } },
+      { "when": "fletcher_hat", "model": { "type": "model", "model": "plushies:hats/villager/fletcher_hat" } },
+      { "when": "librarian_hat", "model": { "type": "model", "model": "plushies:hats/villager/librarian_hat" } },
+      { "when": "shepherd_hat", "model": { "type": "model", "model": "plushies:hats/villager/shepherd_hat" } },
+
       { "when": "flower_hat", "model": { "type": "model", "model": "plushies:hats/flower/parent/hat", "tints": [ { "type": "minecraft:dye", "default": -1 } ] } },
       { "when": "cornflower_hat", "model": { "type": "model", "model": "plushies:hats/flower/cornflower", "tints": [ { "type": "minecraft:dye", "default": 4282795770 } ] } },
       { "when": "allium_hat", "model": { "type": "model", "model": "plushies:hats/flower/allium", "tints": [ { "type": "minecraft:dye", "default": 13061821 } ] } },
