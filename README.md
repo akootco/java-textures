@@ -3,4 +3,4 @@
 
 ---
 
-- changes to hats
+- ELYTRA TRIMS

@@ -254,7 +254,7 @@
         "component": "minecraft:dyed_color",
         "on_true": {
           "type": "minecraft:model",
-          "model": "trimmed_wings:item/elytra",
+          "model": "plushies:elytra",
           "tints": [
             {
               "type": "minecraft:dye",
