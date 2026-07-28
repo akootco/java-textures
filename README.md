@@ -1,6 +1,6 @@
 # Akoot & Co. Resource Pack
-**Minecraft Java Edition — 26.2.1**
+**Minecraft Java Edition — 26.1.2**
 
 ---
 
-- ELYTRA TRIMS
+- Dyeable Books

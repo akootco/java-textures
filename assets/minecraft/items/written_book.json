@@ -1,11 +1,19 @@
 {
-  "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "item/written_book"
-   },
+  "model": {"type": "condition", "property": "has_component", "component": "dyed_color",
+
+    "on_true": {"type": "composite",
+      "models": [
+        {"type": "model", "model": "plushies:books/pages"},
+        {
+          "type": "model", "model": "plushies:books/cover",
+          "tints": [{"type": "dye", "default": 4282795770}]
+        }
+      ]
+    },
+
+    "on_false": {"type": "range_dispatch", "property": "custom_model_data",
+      "fallback": {"type": "model", "model": "item/written_book"},
+
     "entries": [
       {"model": { "type": "model","model": "plushies:books/1"},"threshold": 1},
       {"model": { "type": "model","model": "plushies:books/2"},"threshold": 2},
@@ -81,4 +89,4 @@
       {"model": { "type": "model","model": "plushies:books/72"},"threshold": 72}
     ]
   }
-}
+}}
