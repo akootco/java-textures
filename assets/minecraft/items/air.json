@@ -3,8 +3,17 @@
     "type": "select",
     "property": "custom_model_data",
     "cases": [
-      {"when": "blackberries_stage2", "model": {"type": "model", "model": "edulis:block/berries/blackberries_stage2"}},
-      {"when": "blackberries_stage3", "model": {"type": "model", "model": "edulis:block/berries/blackberries_stage3"}},
+      {"when": "blackberries_stage2", "model": {
+          "type": "select",
+          "property": "display_context",
+          "cases": [{"when": "head", "model": {"type": "model", "model": "edulis:item/blackberries"}}],
+          "fallback": {"type": "model", "model": "edulis:block/berries/blackberries_stage2"}}},
+
+      {"when": "blackberries_stage3", "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "head", "model": {"type": "model", "model": "edulis:item/blackberries"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/blackberries_stage3"}}},
 
       {"when": "coffee_sprout", "model": {"type": "model", "model": "edulis:block/crops/coffee/sprout"}},
       {"when": "coffee_flowering", "model": {"type": "model", "model": "edulis:block/crops/coffee/flowering"}},
@@ -30,32 +39,91 @@
       {"when": "cheese_5", "model": {"type": "model", "model": "edulis:block/cakes/cheese_wheel/slice_5"}},
       {"when": "cheese_6", "model": {"type": "model", "model": "edulis:block/cakes/cheese_wheel/slice_6"}}
     ],
-    "fallback":
-    {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
+    "fallback": {"type": "range_dispatch", "property": "custom_model_data",
     "fallback": {"type": "model", "model": "block/air"},
     "entries": [
-      {"threshold": 1, "model": {"type": "model", "model": "edulis:block/berries/blueberries_stage2"}},
-      {"threshold": 2, "model": {"type": "model", "model": "edulis:block/berries/blueberries_stage3"}},
+      {"threshold": 1, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/blueberries"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/blueberries_stage2"}}},
+      {"threshold": 2, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/blueberries"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/blueberries_stage3"}}},
 
-      {"threshold": 3, "model": {"type": "model", "model": "edulis:block/berries/strawberries_stage2"}},
-      {"threshold": 4, "model": {"type": "model", "model": "edulis:block/berries/strawberries_stage3"}},
+      {"threshold": 3, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/strawberries"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/strawberries_stage2"}}},
 
-      {"threshold": 5, "model": {"type": "model", "model": "edulis:block/berries/yoyleberry_stage2"}},
-      {"threshold": 6, "model": {"type": "model", "model": "edulis:block/berries/yoyleberry_stage3"}},
+      {"threshold": 4, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/strawberries"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/strawberries_stage3"}}},
 
-      {"threshold": 7, "model": {"type": "model", "model": "edulis:block/berries/lemons_stage2"}},
-      {"threshold": 8, "model": {"type": "model", "model": "edulis:block/berries/lemons_stage3"}},
+      {"threshold": 5, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/yoyle_berry"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/yoyleberry_stage2"}}},
 
-      {"threshold": 9, "model": {"type": "model", "model": "edulis:block/berries/limes_stage2"}},
-      {"threshold": 10, "model": {"type": "model", "model": "edulis:block/berries/limes_stage3"}},
+      {"threshold": 6, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/yoyle_berry"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/yoyleberry_stage3"}}},
 
-      {"threshold": 11, "model": {"type": "model", "model": "edulis:block/berries/tomato_stage2"}},
-      {"threshold": 12, "model": {"type": "model", "model": "edulis:block/berries/tomato_stage3"}},
+      {"threshold": 7, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/lemons"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/lemons_stage2"}}},
 
-      {"threshold": 13, "model": {"type": "model", "model": "edulis:block/crops/purple_carrot/stage2"}},
-      {"threshold": 14, "model": {"type": "model", "model": "edulis:block/crops/purple_carrot/stage3"}},
+      {"threshold": 8, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/lemons"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/lemons_stage3"}}},
+
+      {"threshold": 9, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/limes"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/limes_stage2"}}},
+
+      {"threshold": 10, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/limes"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/limes_stage3"}}},
+
+      {"threshold": 11, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/tomato"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/tomato_stage2"}}},
+
+      {"threshold": 12, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/tomato"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/tomato_stage3"}}},
+
+      {"threshold": 13, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/purple_carrot"}}],
+        "fallback": {"type": "model", "model": "edulis:block/crops/purple_carrot/stage2"}}},
+
+      {"threshold": 14, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/purple_carrot"}}],
+        "fallback": {"type": "model", "model": "edulis:block/crops/purple_carrot/stage3"}}},
 
       {"threshold": 15, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_full"}},
       {"threshold": 16, "model": {"type": "model", "model": "edulis:block/cakes/chocolate/chocolate_cake_slice_1"}},
@@ -73,11 +141,29 @@
       {"threshold": 27, "model": {"type": "model", "model": "edulis:block/cakes/red_velvet/red_velvet_cake_slice_5"}},
       {"threshold": 28, "model": {"type": "model", "model": "edulis:block/cakes/red_velvet/red_velvet_cake_slice_6"}},
 
-      {"threshold": 29, "model": {"type": "model", "model": "edulis:block/berries/white_grapes_stage2"}},
-      {"threshold": 30, "model": {"type": "model", "model": "edulis:block/berries/white_grapes_stage3"}},
+      {"threshold": 29, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/white_grapes"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/white_grapes_stage2"}}},
 
-      {"threshold": 31, "model": {"type": "model", "model": "edulis:block/berries/red_grapes_stage2"}},
-      {"threshold": 32, "model": {"type": "model", "model": "edulis:block/berries/red_grapes_stage3"}},
+      {"threshold": 30, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/white_grapes"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/white_grapes_stage3"}}},
+
+      {"threshold": 31, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/red_grapes"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/red_grapes_stage2"}}},
+
+      {"threshold": 32, "model": {
+        "type": "select",
+        "property": "display_context",
+        "cases": [{"when": "gui", "model": {"type": "model", "model": "edulis:item/red_grapes"}}],
+        "fallback": {"type": "model", "model": "edulis:block/berries/red_grapes_stage3"}}},
 
       {"threshold": 33, "model": {"type": "model", "model": "edulis:block/cakes/german_chocolate/german_chocolate_cake_full"}},
       {"threshold": 34, "model": {"type": "model", "model": "edulis:block/cakes/german_chocolate/german_chocolate_cake_slice_1"}},
