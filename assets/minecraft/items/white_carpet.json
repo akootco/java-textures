@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "select", "property": "custom_model_data",
+    "fallback": {"type": "model", "model": "block/white_carpet"},
+    "cases": [
+      {
+        "when": "cushion", "model": {"type": "select",
+          "property": "display_context",
+          "cases": [{"when": "head", "model": {"type": "model", "model": "plushies:block/cushion", "tints": [ { "type": "minecraft:dye", "default": -1 } ]}}],
+          "fallback": {"type": "model", "model": "plushies:item/cushion", "tints": [ { "type": "minecraft:dye", "default": -1 } ]}}
+      }
+    ]
+  }
+}
