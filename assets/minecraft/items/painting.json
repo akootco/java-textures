@@ -1,0 +1,376 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:painting/variant",
+        "cases": [
+          {
+            "when": "minecraft:alban",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/alban"
+            }
+          },
+          {
+            "when": "minecraft:aztec",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/aztec"
+            }
+          },
+          {
+            "when": "minecraft:aztec2",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/aztec2"
+            }
+          },
+          {
+            "when": "minecraft:wasteland",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/wasteland"
+            }
+          },
+          {
+            "when": "minecraft:plant",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/plant"
+            }
+          },
+          {
+            "when": "minecraft:bomb",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/bomb"
+            }
+          },
+          {
+            "when": "minecraft:kebab",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/kebab"
+            }
+          },
+          {
+            "when": "minecraft:meditative",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/meditative"
+            }
+          },
+          {
+            "when": "minecraft:bust",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/bust"
+            }
+          },
+          {
+            "when": "minecraft:earth",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/earth"
+            }
+          },
+          {
+            "when": "minecraft:fire",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/fire"
+            }
+          },
+          {
+            "when": "minecraft:water",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/water"
+            }
+          },
+          {
+            "when": "minecraft:wind",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/wind"
+            }
+          },
+          {
+            "when": "minecraft:baroque",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/baroque"
+            }
+          },
+          {
+            "when": "minecraft:stage",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/stage"
+            }
+          },
+          {
+            "when": "minecraft:void",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/void"
+            }
+          },
+          {
+            "when": "minecraft:wither",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/wither"
+            }
+          },
+          {
+            "when": "minecraft:match",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/match"
+            }
+          },
+          {
+            "when": "minecraft:humble",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/humble"
+            }
+          },
+          {
+            "when": "minecraft:skull_and_roses",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/skull_and_roses"
+            }
+          },
+          {
+            "when": "minecraft:wanderer",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/wanderer"
+            }
+          },
+          {
+            "when": "minecraft:courbet",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/courbet"
+            }
+          },
+          {
+            "when": "minecraft:creebet",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/creebet"
+            }
+          },
+          {
+            "when": "minecraft:graham",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/graham"
+            }
+          },
+          {
+            "when": "minecraft:pool",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pool"
+            }
+          },
+          {
+            "when": "minecraft:prairie_ride",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/prairie_ride"
+            }
+          },
+          {
+            "when": "minecraft:sea",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/sea"
+            }
+          },
+          {
+            "when": "minecraft:sunset",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/sunset"
+            }
+          },
+          {
+            "when": "minecraft:passage",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/passage"
+            }
+          },
+          {
+            "when": "minecraft:changing",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/changing"
+            }
+          },
+          {
+            "when": "minecraft:lowmist",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/lowmist"
+            }
+          },
+          {
+            "when": "minecraft:dennis",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/dennis"
+            }
+          },
+          {
+            "when": "minecraft:fighters",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/fighters"
+            }
+          },
+          {
+            "when": "minecraft:owlemons",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/owlemons"
+            }
+          },
+          {
+            "when": "minecraft:sunflowers",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/sunflowers"
+            }
+          },
+          {
+            "when": "minecraft:tides",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/tides"
+            }
+          },
+          {
+            "when": "minecraft:cavebird",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/cavebird"
+            }
+          },
+
+          {
+            "when": "minecraft:cotan",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/cotan"
+            }
+          },
+          {
+            "when": "minecraft:endboss",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/endboss"
+            }
+          },
+          {
+            "when": "minecraft:fern",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/ferns"
+            }
+          },
+          {
+            "when": "minecraft:bouquet",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/bouquet"
+            }
+          },
+          {
+            "when": "minecraft:skeleton",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/skeleton"
+            }
+          },
+          {
+            "when": "minecraft:unpacked",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/unpacked"
+            }
+          },
+          {
+            "when": "minecraft:backyard",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/backyard"
+            }
+          },
+          {
+            "when": "minecraft:burning_skull",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/burning_skull"
+            }
+          },
+          {
+            "when": "minecraft:donkey_kong",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/donkey_kong"
+            }
+          },
+          {
+            "when": "minecraft:orb",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/orb"
+            }
+          },
+          {
+            "when": "minecraft:pigscene",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pigscene"
+            }
+          },
+          {
+            "when": "minecraft:pointer",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pointer"
+            }
+          },
+          {
+            "when": "minecraft:pond",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pond"
+            }
+          },
+          {
+            "when": "minecraft:finding",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/finding"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/painting"
+        }
+      }
+    ]
+  }
+}

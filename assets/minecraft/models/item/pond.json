@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "painting/pond"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4.75, 1],
+			"scale": [0.4, 0.61, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4.75, 1],
+			"scale": [0.4, 0.61, 0.55]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.36, 0.62, 0.5]
+		},
+		"gui": {
+			"scale": [0.61, 0.93, 1]
+		},
+		"fixed": {
+			"scale": [0.65, 1, 1]
+		}
+	}
+}
