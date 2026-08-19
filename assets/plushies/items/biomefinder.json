@@ -1,0 +1,485 @@
+{
+    "model": {
+        "type": "condition",
+        "property": "has_component",
+        "component": "lodestone_tracker",
+        "on_false": {
+            "type": "range_dispatch",
+            "property": "compass",
+            "scale": 32,
+            "target": "none",
+            "entries": [
+                {
+                    "threshold": 0,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/16"
+                    }
+                },
+                {
+                    "threshold": 0.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/17"
+                    }
+                },
+                {
+                    "threshold": 1.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/18"
+                    }
+                },
+                {
+                    "threshold": 2.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/19"
+                    }
+                },
+                {
+                    "threshold": 3.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/20"
+                    }
+                },
+                {
+                    "threshold": 4.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/21"
+                    }
+                },
+                {
+                    "threshold": 5.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/22"
+                    }
+                },
+                {
+                    "threshold": 6.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/23"
+                    }
+                },
+                {
+                    "threshold": 7.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/24"
+                    }
+                },
+                {
+                    "threshold": 8.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/25"
+                    }
+                },
+                {
+                    "threshold": 9.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/26"
+                    }
+                },
+                {
+                    "threshold": 10.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/27"
+                    }
+                },
+                {
+                    "threshold": 11.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/28"
+                    }
+                },
+                {
+                    "threshold": 12.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/29"
+                    }
+                },
+                {
+                    "threshold": 13.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/30"
+                    }
+                },
+                {
+                    "threshold": 14.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/31"
+                    }
+                },
+                {
+                    "threshold": 15.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/00"
+                    }
+                },
+                {
+                    "threshold": 16.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/01"
+                    }
+                },
+                {
+                    "threshold": 17.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/02"
+                    }
+                },
+                {
+                    "threshold": 18.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/03"
+                    }
+                },
+                {
+                    "threshold": 19.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/04"
+                    }
+                },
+                {
+                    "threshold": 20.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/05"
+                    }
+                },
+                {
+                    "threshold": 21.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/06"
+                    }
+                },
+                {
+                    "threshold": 22.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/07"
+                    }
+                },
+                {
+                    "threshold": 23.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/08"
+                    }
+                },
+                {
+                    "threshold": 24.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/09"
+                    }
+                },
+                {
+                    "threshold": 25.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/10"
+                    }
+                },
+                {
+                    "threshold": 26.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/11"
+                    }
+                },
+                {
+                    "threshold": 27.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/12"
+                    }
+                },
+                {
+                    "threshold": 28.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/13"
+                    }
+                },
+                {
+                    "threshold": 29.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/14"
+                    }
+                },
+                {
+                    "threshold": 30.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/15"
+                    }
+                },
+                {
+                    "threshold": 31.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/16"
+                    }
+                }
+            ]
+        },
+        "on_true": {
+            "type": "range_dispatch",
+            "property": "compass",
+            "scale": 32,
+            "target": "lodestone",
+            "entries": [
+                {
+                    "threshold": 0,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/16"
+                    }
+                },
+                {
+                    "threshold": 0.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/17"
+                    }
+                },
+                {
+                    "threshold": 1.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/18"
+                    }
+                },
+                {
+                    "threshold": 2.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/19"
+                    }
+                },
+                {
+                    "threshold": 3.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/20"
+                    }
+                },
+                {
+                    "threshold": 4.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/21"
+                    }
+                },
+                {
+                    "threshold": 5.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/22"
+                    }
+                },
+                {
+                    "threshold": 6.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/23"
+                    }
+                },
+                {
+                    "threshold": 7.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/24"
+                    }
+                },
+                {
+                    "threshold": 8.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/25"
+                    }
+                },
+                {
+                    "threshold": 9.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/26"
+                    }
+                },
+                {
+                    "threshold": 10.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/27"
+                    }
+                },
+                {
+                    "threshold": 11.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/28"
+                    }
+                },
+                {
+                    "threshold": 12.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/29"
+                    }
+                },
+                {
+                    "threshold": 13.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/30"
+                    }
+                },
+                {
+                    "threshold": 14.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/31"
+                    }
+                },
+                {
+                    "threshold": 15.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/00"
+                    }
+                },
+                {
+                    "threshold": 16.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/01"
+                    }
+                },
+                {
+                    "threshold": 17.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/02"
+                    }
+                },
+                {
+                    "threshold": 18.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/03"
+                    }
+                },
+                {
+                    "threshold": 19.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/04"
+                    }
+                },
+                {
+                    "threshold": 20.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/05"
+                    }
+                },
+                {
+                    "threshold": 21.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/06"
+                    }
+                },
+                {
+                    "threshold": 22.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/07"
+                    }
+                },
+                {
+                    "threshold": 23.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/08"
+                    }
+                },
+                {
+                    "threshold": 24.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/09"
+                    }
+                },
+                {
+                    "threshold": 25.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/10"
+                    }
+                },
+                {
+                    "threshold": 26.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/11"
+                    }
+                },
+                {
+                    "threshold": 27.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/12"
+                    }
+                },
+                {
+                    "threshold": 28.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/13"
+                    }
+                },
+                {
+                    "threshold": 29.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/14"
+                    }
+                },
+                {
+                    "threshold": 30.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/15"
+                    }
+                },
+                {
+                    "threshold": 31.5,
+                    "model": {
+                        "type": "model",
+                        "model": "plushies:compass/16"
+                    }
+                }
+            ]
+        }
+    }
+}
