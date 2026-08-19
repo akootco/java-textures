@@ -3,6 +3,30 @@
     "type": "select",
     "property": "custom_model_data",
     "cases": [
+      {"when": "_purple", "model": {"type": "model", "model": "plushies:plushies/_purple/_purple"}},
+      {"when": "_purple.st", "model": {"type": "model", "model": "plushies:plushies/_purple/_purple.st"}},
+
+      {"when": "dollfaceowo", "model": {"type": "model", "model": "plushies:plushies/dollfaceowo/dollfaceowo"}},
+      {"when": "dollfaceowo.st", "model": {"type": "model", "model": "plushies:plushies/dollfaceowo/dollfaceowo.st"}},
+
+      {"when": "araecy", "model": {"type": "model", "model": "plushies:plushies/araecy/araecy"}},
+      {"when": "araecy.st", "model": {"type": "model", "model": "plushies:plushies/araecy/araecy.st"}},
+
+      {"when": "bighealy", "model": {"type": "model", "model": "plushies:plushies/bighealy/bighealy"}},
+      {"when": "bighealy.st", "model": {"type": "model", "model": "plushies:plushies/bighealy/bighealy.st"}},
+
+      {"when": "g0ggl3", "model": {"type": "model", "model": "plushies:plushies/g0ggl3/g0ggl3"}},
+      {"when": "g0ggl3.st", "model": {"type": "model", "model": "plushies:plushies/g0ggl3/g0ggl3.st"}},
+
+      {"when": "theocheesecake", "model": {"type": "model", "model": "plushies:plushies/theocheesecake/theocheesecake"}},
+      {"when": "theocheesecake.st", "model": {"type": "model", "model": "plushies:plushies/theocheesecake/theocheesecake.st"}},
+
+      {"when": "bugbo", "model": {"type": "model", "model": "plushies:plushies/bugbo/bugbo"}},
+      {"when": "bugbo.st", "model": {"type": "model", "model": "plushies:plushies/bugbo/bugbo.st"}},
+
+      {"when": "realhakizen", "model": {"type": "model", "model": "plushies:plushies/realhakizen/realhakizen"}},
+      {"when": "realhakizen.st", "model": {"type": "model", "model": "plushies:plushies/realhakizen/realhakizen.st"}},
+
       {"when": "gidget", "model": {"type": "model", "model": "plushies:plushies/gidget"}},
 
       {"when": "blackberry_shades", "model": {"type": "model", "model": "plushies:plushies/blackberry/shades"}},
@@ -28,6 +52,9 @@
 
       {"when": "teo_exe_", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_"}},
       {"when": "teo_exe_.st", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_.st"}},
+
+      {"when": "teo_exe_2", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_2"}},
+      {"when": "teo_exe_2.st", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_2.st"}},
 
       {"when": "lucky_cristi", "model": {"type": "model", "model": "plushies:plushies/lucky_cristi/lucky_cristi"}},
       {"when": "lucky_cristi.st", "model": {"type": "model", "model": "plushies:plushies/lucky_cristi/lucky_cristi.st"}},
