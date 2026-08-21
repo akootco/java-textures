@@ -5,6 +5,6 @@
     "cases": [
       {"when": "exe", "model": {"type": "model", "model": "pack_exe:item/pickaxe"}}
     ],
-    "fallback": {"type": "model", "model": "item/netherite_axe"}
+    "fallback": {"type": "model", "model": "item/netherite_pickaxe"}
   }
 }
