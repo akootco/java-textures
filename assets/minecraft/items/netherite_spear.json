@@ -1,0 +1,23 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "cases": [
+      {
+        "when": "exe",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "fallback": {"type": "minecraft:model", "model": "pack_exe:item/spear_in_hand"},
+          "cases": [
+            {
+              "model": {"type": "minecraft:model", "model": "pack_exe:item/spear"},
+              "when": ["gui", "ground", "fixed", "on_shelf", "head"]
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {"type": "model", "model": "item/netherite_spear"}
+  }
+}

@@ -3,6 +3,7 @@
     "type": "select",
     "property": "custom_model_data",
     "cases": [
+      {"when": "exe", "model": {"type": "model", "model": "pack_exe:item/sword"}},
       {
         "when": "saber",
         "model": {

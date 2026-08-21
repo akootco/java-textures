@@ -1,0 +1,8 @@
+{
+  "credit" : "Teo_exe_",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "pack_exe:item/hoe",
+    "particle": "#layer0"
+  }
+}

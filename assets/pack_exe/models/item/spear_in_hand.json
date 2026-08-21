@@ -1,0 +1,8 @@
+{
+  "credit" : "Teo_exe_",
+  "parent": "item/spear_in_hand",
+  "textures": {
+    "layer0": "pack_exe:item/spear_in_hand",
+    "particle": "#layer0"
+  }
+}
