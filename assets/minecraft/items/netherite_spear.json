@@ -18,6 +18,23 @@
         }
       }
     ],
-    "fallback": {"type": "model", "model": "item/netherite_spear"}
-  }
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_spear"
+          },
+          "when": ["gui", "ground", "fixed", "on_shelf"]
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/netherite_spear_in_hand"
+      }
+    }
+  },
+  "swap_animation_scale": 1.95
 }
