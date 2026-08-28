@@ -1,0 +1,10 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "casino:font/cards/back.png",
+      "ascent": 24, "height": 32,
+      "chars": ["1"]
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 {
   "sources": [
     {
+      "type": "minecraft:directory",
+      "prefix": "item/",
+      "source": "item"
+    },
+    {
       "type": "directory",
       "source": "entity/villager/profession",
       "prefix": "villager/"
