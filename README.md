@@ -3,4 +3,5 @@
 
 ---
 
-- Added Teo's tools
+- removed duplicated atlas definition
+- fill missing pixels in book cover texture
