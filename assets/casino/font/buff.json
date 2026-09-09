@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "buff.ttf",
+      "shift": [0, 14],
+      "size": 40.0,
+      "oversample": 5.0
+    }
+  ]
+}
