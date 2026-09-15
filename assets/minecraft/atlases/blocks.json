@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "entity/villager/profession",
+      "prefix": "villager/"
+    },
+    {
+      "type": "directory",
+      "source": "painting",
+      "prefix": "painting/"
+    },
+    {
+      "type": "directory",
+      "source": "entity",
+      "prefix": "entity/"
+    }
+  ]
+}

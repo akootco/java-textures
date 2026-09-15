@@ -1,0 +1,1140 @@
+{
+  "characters.apu.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/apu/greet/greet_0"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_1"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_10"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_11"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_12"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_13"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_14"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_15"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_2"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_3"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_4"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_5"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_6"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_7"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_8"
+      },
+      {
+        "name": "simpsons:characters/apu/greet/greet_9"
+      }
+    ],
+    "subtitle": "Apu Greet"
+  },
+  "characters.apu.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/apu/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Apu Hurt"
+  },
+  "characters.barf.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/barf/greet/greet_0"
+      }
+    ],
+    "subtitle": "Barf Greet"
+  },
+  "characters.barney.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/barney/greet/greet_0"
+      },
+      {
+        "name": "simpsons:characters/barney/greet/greet_1"
+      },
+      {
+        "name": "simpsons:characters/barney/greet/greet_2"
+      },
+      {
+        "name": "simpsons:characters/barney/greet/greet_3"
+      },
+      {
+        "name": "simpsons:characters/barney/greet/greet_4"
+      }
+    ],
+    "subtitle": "Barney Greet"
+  },
+  "characters.barney.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_12"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_13"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_14"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_15"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_16"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_17"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_18"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_19"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_20"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_21"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_22"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_23"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_24"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_25"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_26"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_27"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_28"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_29"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_30"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_31"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_32"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_33"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/barney/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Barney Hurt"
+  },
+  "characters.bart.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/bart/greet/greet_0"
+      },
+      {
+        "name": "simpsons:characters/bart/greet/greet_1"
+      },
+      {
+        "name": "simpsons:characters/bart/greet/greet_2"
+      },
+      {
+        "name": "simpsons:characters/bart/greet/greet_3"
+      },
+      {
+        "name": "simpsons:characters/bart/greet/greet_4"
+      },
+      {
+        "name": "simpsons:characters/bart/greet/greet_5"
+      }
+    ],
+    "subtitle": "Bart Greet"
+  },
+  "characters.bart.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/bart/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Bart Hurt"
+  },
+  "characters.bumblebee.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_12"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_13"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_14"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_15"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_16"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_17"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_18"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_19"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_20"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_21"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_22"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/bumblebee/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Bumblebee Hurt"
+  },
+  "characters.carl.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/carl/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/carl/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/carl/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/carl/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/carl/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/carl/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/carl/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/carl/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/carl/hurt/hurt_8"
+      }
+    ],
+    "subtitle": "Carl Hurt"
+  },
+  "characters.cbg.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/cbg/greet/greet_0"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_1"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_10"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_11"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_2"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_3"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_4"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_5"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_6"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_7"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_8"
+      },
+      {
+        "name": "simpsons:characters/cbg/greet/greet_9"
+      }
+    ],
+    "subtitle": "Cbg Greet"
+  },
+  "characters.cbg.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/cbg/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/cbg/hurt/hurt_1"
+      }
+    ],
+    "subtitle": "Cbg Hurt"
+  },
+  "characters.flanders.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_12"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_13"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_14"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_15"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_16"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_17"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_18"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_19"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_20"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_21"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/flanders/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Flanders Hurt"
+  },
+  "characters.frink.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/frink/greet/greet_0"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_1"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_10"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_11"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_2"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_3"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_4"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_5"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_6"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_7"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_8"
+      },
+      {
+        "name": "simpsons:characters/frink/greet/greet_9"
+      }
+    ],
+    "subtitle": "Frink Greet"
+  },
+  "characters.frink.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_12"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_13"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_14"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_15"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_16"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_17"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/frink/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Frink Hurt"
+  },
+  "characters.gil.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/gil/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/gil/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/gil/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/gil/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/gil/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/gil/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/gil/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/gil/hurt/hurt_7"
+      }
+    ],
+    "subtitle": "Gil Hurt"
+  },
+  "characters.grandpa.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_12"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_13"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_14"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_15"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_16"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_17"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_18"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_19"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/grandpa/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Grandpa Hurt"
+  },
+  "characters.hans_moleman.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/hans_moleman/greet/greet_0"
+      },
+      {
+        "name": "simpsons:characters/hans_moleman/greet/greet_1"
+      },
+      {
+        "name": "simpsons:characters/hans_moleman/greet/greet_2"
+      },
+      {
+        "name": "simpsons:characters/hans_moleman/greet/greet_3"
+      }
+    ],
+    "subtitle": "Hans_moleman Greet"
+  },
+  "characters.hans_moleman.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/hans_moleman/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/hans_moleman/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/hans_moleman/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/hans_moleman/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/hans_moleman/hurt/hurt_4"
+      }
+    ],
+    "subtitle": "Hans_moleman Hurt"
+  },
+  "characters.homer.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/homer/greet/greet_0"
+      },
+      {
+        "name": "simpsons:characters/homer/greet/greet_1"
+      },
+      {
+        "name": "simpsons:characters/homer/greet/greet_2"
+      }
+    ],
+    "subtitle": "Homer Greet"
+  },
+  "characters.homer.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_12"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_13"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_14"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_15"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_16"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_17"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/homer/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Homer Hurt"
+  },
+  "characters.krusty.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_12"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_13"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_14"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_15"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_16"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_17"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_18"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_19"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_20"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_21"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_22"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_23"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_24"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_25"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_26"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/krusty/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Krusty Hurt"
+  },
+  "characters.lisa.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/lisa/greet/greet_0"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_1"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_10"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_11"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_12"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_13"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_14"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_15"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_16"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_2"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_3"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_4"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_5"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_6"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_7"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_8"
+      },
+      {
+        "name": "simpsons:characters/lisa/greet/greet_9"
+      }
+    ],
+    "subtitle": "Lisa Greet"
+  },
+  "characters.lisa.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_12"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_13"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_14"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_15"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_16"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_17"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_18"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_19"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_20"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_21"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_22"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_23"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_24"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_25"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_26"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_27"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_28"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_29"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/lisa/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Lisa Hurt"
+  },
+  "characters.marge.greet": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/marge/greet/greet_0"
+      },
+      {
+        "name": "simpsons:characters/marge/greet/greet_1"
+      },
+      {
+        "name": "simpsons:characters/marge/greet/greet_2"
+      },
+      {
+        "name": "simpsons:characters/marge/greet/greet_3"
+      }
+    ],
+    "subtitle": "Marge Greet"
+  },
+  "characters.marge.hurt": {
+    "sounds": [
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_0"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_1"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_10"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_11"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_12"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_13"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_14"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_2"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_3"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_4"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_5"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_6"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_7"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_8"
+      },
+      {
+        "name": "simpsons:characters/marge/hurt/hurt_9"
+      }
+    ],
+    "subtitle": "Marge Hurt"
+  },
+  "sfx.hit": {
+    "sounds": [
+      {
+        "name": "simpsons:sfx/hit_0"
+      },
+      {
+        "name": "simpsons:sfx/hit_1"
+      },
+      {
+        "name": "simpsons:sfx/hit_2"
+      }
+    ],
+    "subtitle": "Hit"
+  }
+}

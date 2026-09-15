@@ -1,10 +1,14 @@
 {
   "model": {
-    "type": "range_dispatch",
+    "type": "select",
     "property": "custom_model_data",
-    "fallback": { "type": "model", "model": "item/mace" },
-    "entries": [
-      { "threshold": 999, "model": { "type": "model", "model": "plushies:mace_3d" } }
-    ]
+    "cases": [
+      {"when": "exe", "model": {"type": "model", "model": "pack_exe:item/mace"}}
+    ],
+    "fallback": {"type": "range_dispatch", "property": "custom_model_data", "fallback": {"type": "model", "model": "item/mace"},
+      "entries": [
+        { "threshold": 999, "model": { "type": "model", "model": "plushies:mace_3d" } }
+      ]
+    }
   }
 }

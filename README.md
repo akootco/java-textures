@@ -1,6 +1,7 @@
 # Akoot & Co. Resource Pack
-**Minecraft Java Edition — 26.2.1**
+**Minecraft Java Edition — 26.2**
 
 ---
 
-- changes to hats
+- removed duplicated atlas definition
+- fill missing pixels in book cover texture

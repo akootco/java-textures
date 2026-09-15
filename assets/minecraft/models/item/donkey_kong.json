@@ -1,0 +1,27 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "painting/donkey_kong"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.25, 1],
+			"scale": [0.61, 0.44, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.25, 1],
+			"scale": [0.61, 0.44, 0.55]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.62, 0.49, 0.5]
+		},
+		"gui": {
+			"scale": [0.9, 0.66, 1]
+		},
+		"fixed": {
+			"scale": [1, 0.75, 1]
+		}
+	}
+}

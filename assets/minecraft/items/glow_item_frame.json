@@ -15,7 +15,12 @@
       {"when": "mangrove_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/mangrove"}},
       {"when": "birch_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/birch"}},
       {"when": "warped_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/warped"}},
-      {"when": "crimson_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/crimson"}}
+      {"when": "crimson_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/crimson"}},
+
+      {"when": "gold_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/gold"}},
+      {"when": "iron_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/iron"}},
+      {"when": "stone_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/stone"}},
+      {"when": "polished_blackstone_cutting_board", "model": {"type": "model", "model": "edulis:block/cutting_board/polished_blackstone"}}
     ]
   }
 }

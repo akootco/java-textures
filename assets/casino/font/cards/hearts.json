@@ -1,0 +1,10 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "casino:font/cards/hearts.png",
+      "ascent": 24, "height": 48,
+      "chars": ["A23456789XJQK"]
+    }
+  ]
+}

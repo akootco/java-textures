@@ -10,6 +10,9 @@
       {"when": "coffee_beans_cooked", "model": {"type": "model", "model": "edulis:item/coffee_beans/cooked"}},
       {"when": "coffee_beans_roasted", "model": {"type": "model", "model": "edulis:item/coffee_beans/roasted"}},
 
+      {"when": "feijoa", "model": {"type": "model", "model": "edulis:item/feijoa"}},
+      {"when": "feijoa_half", "model": {"type": "model", "model": "edulis:item/feijoa_half"}},
+
       {"when":  "sugar_cube", "model":  {"type": "range_dispatch", "property": "use_duration", "entries": [
         {"threshold": 0, "model": {"type": "model", "model": "edulis:item/sugar_cube"}},
         {"threshold": 16, "model": {"type": "model", "model": "edulis:item/sugar_cube/bite1"}},

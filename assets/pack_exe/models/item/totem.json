@@ -1,0 +1,8 @@
+{
+  "credit" : "Teo_exe_",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "pack_exe:item/totem",
+    "particle": "#layer0"
+  }
+}

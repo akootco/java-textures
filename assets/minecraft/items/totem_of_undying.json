@@ -3,6 +3,41 @@
     "type": "select",
     "property": "custom_model_data",
     "cases": [
+
+      {"when": "exe", "model": {"type": "model", "model": "pack_exe:item/totem"}},
+
+      {"when": "teo_exe_", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_"}},
+      {"when": "teo_exe_.st", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_.st"}},
+
+      {"when": "teo_exe_2", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_2"}},
+      {"when": "teo_exe_2.st", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_2.st"}},
+
+      {"when": "_purple", "model": {"type": "model", "model": "plushies:plushies/_purple/_purple"}},
+      {"when": "_purple.st", "model": {"type": "model", "model": "plushies:plushies/_purple/_purple.st"}},
+
+      {"when": "dollfaceowo", "model": {"type": "model", "model": "plushies:plushies/dollfaceowo/dollfaceowo"}},
+      {"when": "dollfaceowo.st", "model": {"type": "model", "model": "plushies:plushies/dollfaceowo/dollfaceowo.st"}},
+
+      {"when": "araecy", "model": {"type": "model", "model": "plushies:plushies/araecy/araecy"}},
+      {"when": "araecy.st", "model": {"type": "model", "model": "plushies:plushies/araecy/araecy.st"}},
+
+      {"when": "bighealy", "model": {"type": "model", "model": "plushies:plushies/bighealy/bighealy"}},
+      {"when": "bighealy.st", "model": {"type": "model", "model": "plushies:plushies/bighealy/bighealy.st"}},
+
+      {"when": "g0ggl3", "model": {"type": "model", "model": "plushies:plushies/g0ggl3/g0ggl3"}},
+      {"when": "g0ggl3.st", "model": {"type": "model", "model": "plushies:plushies/g0ggl3/g0ggl3.st"}},
+
+      {"when": "theocheesecake", "model": {"type": "model", "model": "plushies:plushies/theocheesecake/theocheesecake"}},
+      {"when": "theocheesecake.st", "model": {"type": "model", "model": "plushies:plushies/theocheesecake/theocheesecake.st"}},
+
+      {"when": "bugbo", "model": {"type": "model", "model": "plushies:plushies/bugbo/bugbo"}},
+      {"when": "bugbo.st", "model": {"type": "model", "model": "plushies:plushies/bugbo/bugbo.st"}},
+
+      {"when": "realhakizen", "model": {"type": "model", "model": "plushies:plushies/realhakizen/realhakizen"}},
+      {"when": "realhakizen.st", "model": {"type": "model", "model": "plushies:plushies/realhakizen/realhakizen.st"}},
+
+      {"when": "gidget", "model": {"type": "model", "model": "plushies:plushies/gidget"}},
+
       {"when": "blackberry_shades", "model": {"type": "model", "model": "plushies:plushies/blackberry/shades"}},
       {"when": "blackberry_shades.st", "model": {"type": "model", "model": "plushies:plushies/blackberry/shades.st"}},
       {"when": "blackberry_sweater", "model": {"type": "model", "model": "plushies:plushies/blackberry/sweater"}},
@@ -24,14 +59,20 @@
       {"when": "hacktivision", "model": {"type": "model", "model": "plushies:plushies/hacktivision"}},
       {"when": "hacktivision.st", "model": {"type": "model", "model": "plushies:plushies/hacktivision.st"}},
 
-      {"when": "teo_exe_", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_"}},
-      {"when": "teo_exe_.st", "model": {"type": "model", "model": "plushies:plushies/teo_exe_/teo_exe_.st"}},
-
       {"when": "lucky_cristi", "model": {"type": "model", "model": "plushies:plushies/lucky_cristi/lucky_cristi"}},
       {"when": "lucky_cristi.st", "model": {"type": "model", "model": "plushies:plushies/lucky_cristi/lucky_cristi.st"}},
 
       {"when": "danielwildchild", "model": {"type": "model", "model": "plushies:plushies/danielwildchild/danielwildchild"}},
-      {"when": "danielwildchild.st", "model": {"type": "model", "model": "plushies:plushies/danielwildchild/danielwildchild.st"}}
+      {"when": "danielwildchild.st", "model": {"type": "model", "model": "plushies:plushies/danielwildchild/danielwildchild.st"}},
+
+      {"when": "melontania", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania"}},
+      {"when": "melontania.st", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania.st"}},
+
+      {"when": "luminous0ryx", "model": {"type": "model", "model": "plushies:plushies/luminous0ryx/luminous0ryx"}},
+      {"when": "luminous0ryx.st", "model": {"type": "model", "model": "plushies:plushies/luminous0ryx/luminous0ryx.st"}},
+
+      {"when": "_witch_craft_", "model": {"type": "model", "model": "plushies:plushies/_witch_craft_/_witch_craft_"}},
+      {"when": "_witch_craft_.st", "model": {"type": "model", "model": "plushies:plushies/_witch_craft_/_witch_craft_.st"}}
     ],
     "fallback": {"type": "range_dispatch", "property": "custom_model_data",
       "fallback": {"type": "model", "model": "item/totem_of_undying"},
