@@ -3,7 +3,23 @@
     "pack_format": 46,
     "min_format": 46,
     "max_format": 97,
-		"supported_formats": {"min_inclusive": 46, "max_inclusive": 97},
-        "description": "§6Akoot&Co"
-    }
+    "supported_formats": {
+      "min_inclusive": 46,
+      "max_inclusive": 97
+    },
+    "description": "§6Akoot&Co"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "26_2",
+        "min_format": 46,
+        "max_format": 89,
+        "formats": {
+          "min_inclusive": 46,
+          "max_inclusive": 89
+        }
+      }
+    ]
+  }
 }
