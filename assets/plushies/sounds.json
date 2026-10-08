@@ -26,6 +26,9 @@
   "lofi_beethoven": {
     "sounds": [{"name": "plushies:lofi_beethoven", "stream": true}]
   },
+  "hold_music": {
+    "sounds": [{"name": "plushies:hold_music", "stream": true}]
+  },
   "squeak": {
     "subtitle": "Squeak",
     "sounds": [

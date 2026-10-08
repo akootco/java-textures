@@ -4,7 +4,22 @@
     "property": "custom_model_data",
     "fallback": { "type": "model", "model": "item/poisonous_potato" },
     "cases": [
-      { "when": "hopcoin", "model": { "type": "model", "model": "edulis:item/tomato" } }
+      { "when": "hopcoin", "model": { "type": "model", "model": "edulis:item/tomato" } },
+
+      { "when": "cooking_pot", "model": { "type": "model", "model": "edulis:block/cooking_pot/cooking_pot_empty" } },
+      {
+        "when": "cooking_pot_full",
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            { "type": "model", "model": "edulis:block/cooking_pot/cooking_pot_empty" },
+            { "type": "model", "model": "edulis:block/cooking_pot/cooking_pot", "tints": [     {
+              "type": "minecraft:constant",
+              "value": 4282795770
+            } ] }
+          ]
+        }
+      }
     ]
   }
 }
