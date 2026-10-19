@@ -1,9 +1,10 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Created by Maltsburg",
+	"parent": "plushies:block/furniture/parent",
 	"textures": {
-		"material": "block/stripped_oak_log",
-		"particle" : "#material"
+		"particle": "block/stripped_oak_log",
+		"material": "block/stripped_oak_log"
 	},
 	"elements": [
 		{
@@ -125,46 +126,6 @@
 			}
 		}
 	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [41.29, -53.72, -9.14],
-			"translation": [0, 2, -1.25],
-			"scale": [0.3, 0.6, 0.3]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [41.29, -53.72, -9.14],
-			"translation": [0, 2, -1.25],
-			"scale": [0.3, 0.6, 0.3]
-		},
-		"firstperson_righthand": {
-			"rotation": [8.85, -16.83, 3.26],
-			"translation": [0, 3.5, 0],
-			"scale": [0.3, 0.5, 0.3]
-		},
-		"firstperson_lefthand": {
-			"rotation": [8.85, -16.83, 3.26],
-			"translation": [0, 3.5, 0],
-			"scale": [0.3, 0.5, 0.3]
-		},
-		"ground": {
-			"translation": [0, 5.5, 0],
-			"scale": [0.3, 0.5, 0.3]
-		},
-		"gui": {
-			"rotation": [21.71, 31.47, 3.57],
-			"translation": [0, 2.5, 0],
-			"scale": [0.7, 1, 0.7]
-		},
-		"head": {
-			"scale": [0, 0, 0]
-		},
-		"fixed": {
-			"scale": [0.6, 1, 0.6]
-		},
-		"on_shelf": {
-			"scale": [0.5, 1, 0.5]
-		}
-	},
 	"groups": [
 		0,
 		{
