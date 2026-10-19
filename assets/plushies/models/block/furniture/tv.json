@@ -1,6 +1,7 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Created by Maltsburg",
+	"parent": "plushies:block/furniture/parent",
 	"textures": {
 		"0": "block/nether_portal",
 		"1": "block/netherite_block",
@@ -73,31 +74,5 @@
 				"down": {"uv": [0.25, 2.5, 15.75, 2.5], "texture": "#2"}
 			}
 		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [-165.53, 19.01, -160.5],
-			"translation": [0, 3, 1.75],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [-165.53, 19.01, -160.5],
-			"translation": [0, 3, 1.75],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"ground": {
-			"translation": [0, 4.5, 0]
-		},
-		"gui": {
-			"rotation": [0, 180, 0],
-			"translation": [0, 1.5, 0],
-			"scale": [0.9, 0.9, 0.9]
-		},
-		"head": {
-			"scale": [0, 0, 0]
-		},
-		"on_shelf": {
-			"rotation": [-180, 0, -180]
-		}
-	}
+	]
 }
