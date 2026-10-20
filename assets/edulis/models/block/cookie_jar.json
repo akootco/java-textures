@@ -1,0 +1,57 @@
+{
+	"format_version": "26.3",
+	"credit": "Created by Maltsburg",
+	"parent": "plushies:block/furniture/parent",
+	"textures": {
+		"jar": "block/glass",
+		"lid": "block/stripped_jungle_log"
+	},
+	"elements": [
+		{
+			"from": [4, 0.01, 4],
+			"to": [12, 9.01, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.01, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#jar"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#jar"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#jar"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#jar"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#jar"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#jar"}
+			}
+		},
+		{
+			"name": "cube inverted",
+			"from": [12, 9.01, 12],
+			"to": [4, 0.01, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.01, 6]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#jar"},
+				"east": {"uv": [0, 16, 16, 0], "texture": "#jar"},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#jar"},
+				"west": {"uv": [0, 16, 16, 0], "texture": "#jar"},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#jar"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#jar"}
+			}
+		},
+		{
+			"from": [5, 8.91, 5],
+			"to": [11, 10.01, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 9.01, 6]},
+			"faces": {
+				"north": {"uv": [4, 12, 12, 13.1], "texture": "#lid"},
+				"east": {"uv": [4, 12, 12, 13.1], "texture": "#lid"},
+				"south": {"uv": [4, 12, 12, 13.1], "texture": "#lid"},
+				"west": {"uv": [4, 12, 12, 13.1], "texture": "#lid"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#lid"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#lid"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [19, 35.25, 0],
+			"translation": [0, 2.75, 0]
+		}
+	}
+}

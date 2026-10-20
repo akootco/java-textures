@@ -1,0 +1,292 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "edulis:block/cookie_jar"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "edulis:block/cookie_jar"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/mm_cookie",
+              "transformation": {
+                "translation": [0.28, -0.38, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "edulis:block/cookie_jar"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/white_choc_cookie",
+              "transformation": {
+                "translation": [0.28, -0.26, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/cookie",
+              "transformation": {
+                "translation": [0.28, -0.32, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/mm_cookie",
+              "transformation": {
+                "translation": [0.28, -0.38, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "edulis:block/cookie_jar"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/sugar_cookie",
+              "transformation": {
+                "translation": [0.28, -0.20, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/white_choc_cookie",
+              "transformation": {
+                "translation": [0.28, -0.26, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/cookie",
+              "transformation": {
+                "translation": [0.28, -0.32, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/mm_cookie",
+              "transformation": {
+                "translation": [0.28, -0.38, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "edulis:block/cookie_jar"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/dark_white_choc_cookie",
+              "transformation": {
+                "translation": [0.28, -0.08, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/cookie",
+              "transformation": {
+                "translation": [0.28, -0.14, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/sugar_cookie",
+              "transformation": {
+                "translation": [0.28, -0.20, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/white_choc_cookie",
+              "transformation": {
+                "translation": [0.28, -0.26, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/cookie",
+              "transformation": {
+                "translation": [0.28, -0.32, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/mm_cookie",
+              "transformation": {
+                "translation": [0.28, -0.38, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "edulis:block/cookie_jar"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/double_chunk_cookie",
+              "transformation": {
+                "translation": [0.28, 0.04, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/cookie",
+              "transformation": {
+                "translation": [0.28, -0.02, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/dark_white_choc_cookie",
+              "transformation": {
+                "translation": [0.28, -0.08, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/cookie",
+              "transformation": {
+                "translation": [0.28, -0.14, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/sugar_cookie",
+              "transformation": {
+                "translation": [0.28, -0.20, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/white_choc_cookie",
+              "transformation": {
+                "translation": [0.28, -0.26, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/cookie",
+              "transformation": {
+                "translation": [0.28, -0.32, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            },
+            {
+              "type": "minecraft:model",
+              "model": "edulis:item/mm_cookie",
+              "transformation": {
+                "translation": [0.28, -0.38, 0.65],
+                "scale": [0.45, 0.55, 0.8],
+                "left_rotation": [1.0, 0.0, 0.0, 1.0],
+                "right_rotation": [0.0, 0.0, 0.0, 1.0]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
