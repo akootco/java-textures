@@ -1,1 +1,12 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/school_desk"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/school_desk",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
+  }
+}

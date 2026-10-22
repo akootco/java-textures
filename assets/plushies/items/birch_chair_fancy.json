@@ -1,1 +1,12 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/wooden_chair_fancy/birch"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/wooden_chair_fancy/birch",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
+  }
+}

@@ -1,1 +1,6 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/stool/spruce"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/stool/spruce"
+  }
+}

@@ -1,1 +1,6 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/stool/mangrove"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/stool/mangrove"
+  }
+}

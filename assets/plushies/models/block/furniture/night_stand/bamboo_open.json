@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.11",
+	"parent": "plushies:block/furniture/night_stand/oak_open",
+	"textures": {
+		"material": "block/stripped_bamboo_block",
+		"material2": "block/bamboo_block"
+	}
+}
