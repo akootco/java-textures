@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/lamp_tall/dark_oak",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
+  }
+}

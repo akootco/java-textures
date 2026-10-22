@@ -1,7 +1,4 @@
-{
-  "model": {
-    "type": "model",
-    "model": "plushies:block/furniture/lamp/mangrove",
+{"model": {"type": "model", "model": "plushies:block/furniture/lamp/mangrove",
     "tints": [
       {
         "type": "minecraft:dye",

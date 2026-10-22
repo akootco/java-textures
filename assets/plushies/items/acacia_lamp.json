@@ -1,7 +1,4 @@
-{
-  "model": {
-    "type": "model",
-    "model": "plushies:block/furniture/lamp/acacia",
+{"model": {"type": "model", "model": "plushies:block/furniture/lamp/acacia",
     "tints": [
       {
         "type": "minecraft:dye",

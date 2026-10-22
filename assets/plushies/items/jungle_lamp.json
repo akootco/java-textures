@@ -1,7 +1,4 @@
-{
-  "model": {
-    "type": "model",
-    "model": "plushies:block/furniture/lamp/jungle",
+{"model": {"type": "model", "model": "plushies:block/furniture/lamp/jungle",
     "tints": [
       {
         "type": "minecraft:dye",
