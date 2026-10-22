@@ -1,1 +1,6 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/wooden_chair/poplar"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/wooden_chair/poplar"
+  }
+}

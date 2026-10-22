@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "plushies:block/furniture/night_stand/pale_oak"
+    },
+    "cases": [
+      {
+        "when": "open",
+        "model": {
+          "type": "model",
+          "model": "plushies:block/furniture/night_stand/pale_oak_open"
+        }
+      }
+    ]
+  }
+}

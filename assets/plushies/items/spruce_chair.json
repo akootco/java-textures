@@ -1,1 +1,6 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/wooden_chair/spruce"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/wooden_chair/spruce"
+  }
+}

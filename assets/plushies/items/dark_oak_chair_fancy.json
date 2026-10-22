@@ -1,1 +1,12 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/wooden_chair_fancy/dark_oak"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/wooden_chair_fancy/dark_oak",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
+  }
+}

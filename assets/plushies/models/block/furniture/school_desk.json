@@ -5,7 +5,7 @@
 	"textures": {
 		"0": "block/iron_block",
 		"1": "block/iron_bars",
-		"2": "block/white_concrete_powder",
+		"2": "block/stripped_pale_oak_log",
 		"3": "block/stripped_birch_log"
 	},
 	"elements": [

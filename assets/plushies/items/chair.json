@@ -1,1 +1,6 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/chair2"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/chair2"
+  }
+}

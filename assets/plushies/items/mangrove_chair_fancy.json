@@ -1,1 +1,12 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/wooden_chair_fancy/mangrove"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/wooden_chair_fancy/mangrove",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
+  }
+}

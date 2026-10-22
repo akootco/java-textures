@@ -1,1 +1,6 @@
-{"model": {"type": "model", "model": "plushies:block/furniture/rubbish_bin"}}
+{
+  "model": {
+    "type": "model",
+    "model": "plushies:block/furniture/rubbish_bin"
+  }
+}
