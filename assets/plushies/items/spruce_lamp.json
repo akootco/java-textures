@@ -1,7 +1,4 @@
-{
-  "model": {
-    "type": "model",
-    "model": "plushies:block/furniture/lamp/spruce",
+{"model": {"type": "model", "model": "plushies:block/furniture/lamp/spruce",
     "tints": [
       {
         "type": "minecraft:dye",

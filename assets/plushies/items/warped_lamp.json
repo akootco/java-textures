@@ -1,7 +1,4 @@
-{
-  "model": {
-    "type": "model",
-    "model": "plushies:block/furniture/lamp/warped",
+{"model": {"type": "model", "model": "plushies:block/furniture/lamp/warped",
     "tints": [
       {
         "type": "minecraft:dye",

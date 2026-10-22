@@ -1,7 +1,4 @@
-{
-  "model": {
-    "type": "model",
-    "model": "plushies:block/furniture/lamp/bamboo",
+{"model": {"type": "model", "model": "plushies:block/furniture/lamp/bamboo",
     "tints": [
       {
         "type": "minecraft:dye",

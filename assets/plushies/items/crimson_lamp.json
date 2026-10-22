@@ -1,7 +1,4 @@
-{
-  "model": {
-    "type": "model",
-    "model": "plushies:block/furniture/lamp/crimson",
+{"model": {"type": "model", "model": "plushies:block/furniture/lamp/crimson",
     "tints": [
       {
         "type": "minecraft:dye",

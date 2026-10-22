@@ -1,7 +1,4 @@
-{
-  "model": {
-    "type": "model",
-    "model": "plushies:block/furniture/lamp/cherry",
+{"model": {"type": "model", "model": "plushies:block/furniture/lamp/cherry",
     "tints": [
       {
         "type": "minecraft:dye",
