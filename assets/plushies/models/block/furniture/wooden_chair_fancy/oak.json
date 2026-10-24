@@ -5,7 +5,7 @@
 	"textures": {
 		"4": "block/iron_bars",
 		"5": "entity/cushion/white_cushion",
-		"particle": "block/stripped_oak_log",
+		"particle": "#material",
 		"material": "block/stripped_oak_log"
 	},
 	"elements": [

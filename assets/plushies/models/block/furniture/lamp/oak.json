@@ -5,7 +5,8 @@
 	"textures": {
 		"string": "block/iron_bars",
 		"shade": "block/white_wool",
-		"stand": "block/stripped_oak_log"
+		"stand": "block/stripped_oak_log",
+		"particle" : "#stand"
 	},
 	"elements": [
 		{

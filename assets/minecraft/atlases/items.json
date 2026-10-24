@@ -31,7 +31,6 @@
         "minecraft:trims/items/chestplate_trim",
         "minecraft:trims/items/leggings_trim",
         "minecraft:trims/items/boots_trim",
-        "minecraft:trims/items/elytra_trim",
         "trimmed_wings:trims/items/elytra_trim"
       ]
     }

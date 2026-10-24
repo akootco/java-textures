@@ -5,7 +5,8 @@
 	"textures": {
 		"material": "block/stripped_oak_log",
 		"material2": "block/oak_log",
-		"handle": "block/gold_block"
+		"handle": "block/gold_block",
+		"particle" : "#material2"
 	},
 	"elements": [
 		{

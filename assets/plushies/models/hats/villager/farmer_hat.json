@@ -2,7 +2,8 @@
 	"parent": "plushies:hats/villager/hat",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "villager/farmer"
+		"0": "villager/farmer",
+		"particle" : "#0"
 	},
 	"elements": [
 		{

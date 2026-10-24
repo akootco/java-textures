@@ -4,7 +4,8 @@
 	"parent": "plushies:block/furniture/parent",
 	"textures": {
 		"jar": "block/glass",
-		"lid": "block/stripped_jungle_log"
+		"lid": "block/stripped_jungle_log",
+		"particle": "#jar"
 	},
 	"elements": [
 		{

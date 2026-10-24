@@ -2,7 +2,8 @@
 	"format_version": "26.3",
 	"credit": "Created by Maltsburg",
 	"textures": {
-		"layer0": "item/slot"
+		"layer0": "item/slot",
+		"particle" : "#layer0"
 	},
 	"elements": [
 		{
