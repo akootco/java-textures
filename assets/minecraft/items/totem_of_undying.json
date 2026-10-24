@@ -67,8 +67,8 @@
 
       {"when": "melontania", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania"}},
       {"when": "melontania.st", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania.st"}},
-      {"when": "melontania2", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania2"}},
-      {"when": "melontania2.st", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania2.st"}},
+      {"when": "melontania_2", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania2"}},
+      {"when": "melontania_2.st", "model": {"type": "model", "model": "plushies:plushies/melontania/melontania2.st"}},
 
       {"when": "luminous0ryx", "model": {"type": "model", "model": "plushies:plushies/luminous0ryx/luminous0ryx"}},
       {"when": "luminous0ryx.st", "model": {"type": "model", "model": "plushies:plushies/luminous0ryx/luminous0ryx.st"}},
