@@ -13,7 +13,9 @@
       { "threshold": 8, "model": { "type": "model", "model": "plushies:discs/limerence" } },
       { "threshold": 9, "model": { "type": "model", "model": "plushies:discs/lofi_chopin" } },
       { "threshold": 10, "model": { "type": "model", "model": "plushies:discs/lofi_beethoven" } },
-      { "threshold": 11, "model": { "type": "model", "model": "plushies:discs/hold_music" } }
+      { "threshold": 11, "model": { "type": "model", "model": "plushies:discs/hold_music" } },
+      { "threshold": 12, "model": { "type": "model", "model": "plushies:discs/leena" } },
+      { "threshold": 13, "model": { "type": "model", "model": "plushies:discs/timb" } },
 
     ]
   }
