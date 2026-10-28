@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "model",
-    "model": "plushies:block/furniture/stool/pale_oak"
+    "model": "plushies:block/furniture/stool/pale_oak",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

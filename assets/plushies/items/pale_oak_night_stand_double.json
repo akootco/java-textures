@@ -4,14 +4,26 @@
     "property": "custom_model_data",
     "fallback": {
       "type": "model",
-      "model": "plushies:block/furniture/night_stand_double/pale_oak"
+      "model": "plushies:block/furniture/night_stand_double/pale_oak",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -1
+        }
+      ]
     },
     "cases": [
       {
         "when": "open",
         "model": {
           "type": "model",
-          "model": "plushies:block/furniture/night_stand_double/pale_oak_open"
+          "model": "plushies:block/furniture/night_stand_double/pale_oak_open",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -1
+            }
+          ]
         }
       }
     ]
