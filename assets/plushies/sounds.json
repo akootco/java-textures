@@ -26,6 +26,12 @@
   "lofi_beethoven": {
     "sounds": [{"name": "plushies:lofi_beethoven", "stream": true}]
   },
+  "leena": {
+    "sounds": [{"name": "plushies:leena", "stream": true}]
+  },
+  "timb": {
+    "sounds": [{"name": "plushies:timb", "stream": true}]
+  },
   "hold_music": {
     "sounds": [{"name": "plushies:hold_music", "stream": true}]
   },
