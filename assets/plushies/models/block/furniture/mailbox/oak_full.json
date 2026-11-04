@@ -1,0 +1,414 @@
+{
+	"format_version": "26.3",
+	"credit": "Created by Maltsburg",
+	"parent": "plushies:block/furniture/parent",
+	"textures": {
+		"post": "block/oak_planks",
+		"particle": "plushies:block/mailbox",
+		"mailbox": "plushies:block/mailbox"
+	},
+	"elements": [
+		{
+			"from": [
+				7,
+				0,
+				7
+			],
+			"to": [
+				9,
+				16,
+				9
+			],
+			"rotation": {
+				"x": 0,
+				"y": -90,
+				"z": 0,
+				"origin": [
+					8,
+					14,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						2,
+						16
+					],
+					"texture": "#post"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						2,
+						16
+					],
+					"texture": "#post"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						2,
+						16
+					],
+					"texture": "#post"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						2,
+						16
+					],
+					"texture": "#post"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						2,
+						2
+					],
+					"texture": "#post"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						2,
+						2
+					],
+					"texture": "#post"
+				}
+			}
+		},
+		{
+			"from": [
+				4.7,
+				16,
+				2.4
+			],
+			"to": [
+				11.1,
+				22.5,
+				13.4
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					3.9,
+					16,
+					3.9
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						2,
+						2,
+						4,
+						4
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0,
+						2,
+						2,
+						4
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						6,
+						2,
+						8,
+						4
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4,
+						2,
+						6,
+						4
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						2,
+						0,
+						4,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						4,
+						0,
+						6,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"from": [
+				4.5,
+				15.8,
+				2.2
+			],
+			"to": [
+				11.3,
+				22.7,
+				13.6
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					3.9,
+					16,
+					3.9
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						10,
+						2,
+						12,
+						4
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						8,
+						2,
+						10,
+						4
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						14,
+						2,
+						16,
+						4
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12,
+						2,
+						14,
+						4
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						10,
+						0,
+						12,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						12,
+						0,
+						14,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube inverted",
+			"from": [
+				11.3,
+				22.7,
+				13.6
+			],
+			"to": [
+				4.5,
+				15.8,
+				2.2
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					3.9,
+					16,
+					3.9
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						14,
+						4,
+						16,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12,
+						4,
+						14,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						10,
+						4,
+						12,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						8,
+						4,
+						10,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14,
+						0,
+						12,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [
+						12,
+						0,
+						10,
+						2
+					],
+					"texture": "#mailbox",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"from": [
+				4.5,
+				15.8,
+				2.2
+			],
+			"to": [
+				11.075,
+				22.7,
+				13.6
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					3.9,
+					16,
+					3.9
+				]
+			},
+			"faces": {
+				"east": {
+					"uv": [
+						0,
+						4,
+						2,
+						6
+					],
+					"texture": "#mailbox"
+				}
+			}
+		},
+		{
+			"from": [
+				4.5,
+				20.9,
+				-0.3
+			],
+			"to": [
+				4.5,
+				27.8,
+				11.1
+			],
+			"rotation": {
+				"x": -90,
+				"y": 0,
+				"z": 0,
+				"origin": [
+					4.5,
+					24.35,
+					5.4
+				]
+			},
+			"faces": {
+				"east": {
+					"uv": [
+						14,
+						4,
+						12,
+						6
+					],
+					"texture": "#mailbox"
+				},
+				"west": {
+					"uv": [
+						12,
+						4,
+						14,
+						6
+					],
+					"texture": "#mailbox"
+				}
+			}
+		}
+	]
+}
