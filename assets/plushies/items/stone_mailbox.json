@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "plushies:block/furniture/mailbox/stone","tints": [{"type": "minecraft:dye", "default": -1}]
+    },
+    "cases": [
+      {
+        "when": "full",
+        "model": {
+          "type": "model",
+          "model": "plushies:block/furniture/mailbox/stone_full","tints": [{"type": "minecraft:dye", "default": -1}]
+        }
+      }
+    ]
+  }
+}
