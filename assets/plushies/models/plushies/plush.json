@@ -5,8 +5,7 @@
 	"textures": {
 		"0": "entity/player/wide/steve",
 		"particle": "#0",
-		"overlay": "plushies:item/plushies/overlays/skeleton"
-	},
+		"overlay": "plushies:item/blank"},
 	"elements": [
 		{
 			"name": "head",
