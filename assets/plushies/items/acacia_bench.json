@@ -1,0 +1,15 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "plushies:block/furniture/bench/acacia/single"
+    },
+    "cases": [
+      {"when": "left", "model": {"type": "model", "model": "plushies:block/furniture/bench/acacia/left"}},
+      {"when": "middle", "model": {"type": "model", "model": "plushies:block/furniture/bench/acacia/middle"}},
+      {"when": "right", "model": {"type": "model", "model": "plushies:block/furniture/bench/acacia/right"}}
+    ]
+  }
+}

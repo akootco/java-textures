@@ -1,0 +1,6 @@
+{
+	"format_version": "26.3",
+	"credit": "Created by Maltsburg",
+	"parent": "plushies:block/furniture/bench/oak/middle",
+	"textures": {"material": "block/bamboo_planks","particle": "#material"}
+}

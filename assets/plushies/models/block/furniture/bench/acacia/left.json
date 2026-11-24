@@ -1,0 +1,6 @@
+{
+	"format_version": "26.3",
+	"credit": "Created by Maltsburg",
+	"parent": "plushies:block/furniture/bench/oak/left",
+	"textures": {"material": "block/acacia_planks","particle": "#material"}
+}
